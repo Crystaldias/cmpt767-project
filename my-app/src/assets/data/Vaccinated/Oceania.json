@@ -1,0 +1,50 @@
+[
+ {
+   "Time": "2020-Qtr1",
+   "SumOfVaccinated": 0
+ },
+ {
+   "Time": "2020-Qtr2",
+   "SumOfVaccinated": 0
+ },
+ {
+   "Time": "2020-Qtr3",
+   "SumOfVaccinated": 0
+ },
+ {
+   "Time": "2020-Qtr4",
+   "SumOfVaccinated": 0
+ },
+ {
+   "Time": "2021-Qtr1",
+   "SumOfVaccinated": 22.25
+ },
+ {
+   "Time": "2021-Qtr2",
+   "SumOfVaccinated": 1221.7
+ },
+ {
+   "Time": "2021-Qtr3",
+   "SumOfVaccinated": 6347.28
+ },
+ {
+   "Time": "2021-Qtr4",
+   "SumOfVaccinated": 15222.95
+ },
+ {
+   "Time": "2022-Qtr1",
+   "SumOfVaccinated": 18122.75
+ },
+ {
+   "Time": "2022-Qtr2",
+   "SumOfVaccinated": 16782.74
+ },
+ {
+   "Time": "2022-Qtr3",
+   "SumOfVaccinated": 10205.17
+ },
+ {
+   "Time": "2022-Qtr4",
+   "SumOfVaccinated": 10567.79
+ }
+]

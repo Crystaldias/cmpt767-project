@@ -1,0 +1,50 @@
+[
+ {
+   "Time": "2020-Qtr1",
+   "SumOfHospitalized": 16.274
+ },
+ {
+   "Time": "2020-Qtr2",
+   "SumOfHospitalized": 331.201
+ },
+ {
+   "Time": "2020-Qtr3",
+   "SumOfHospitalized": 1079.514
+ },
+ {
+   "Time": "2020-Qtr4",
+   "SumOfHospitalized": 86.671
+ },
+ {
+   "Time": "2021-Qtr1",
+   "SumOfHospitalized": 112.761
+ },
+ {
+   "Time": "2021-Qtr2",
+   "SumOfHospitalized": 145.806
+ },
+ {
+   "Time": "2021-Qtr3",
+   "SumOfHospitalized": 2432.367
+ },
+ {
+   "Time": "2021-Qtr4",
+   "SumOfHospitalized": 3322.865
+ },
+ {
+   "Time": "2022-Qtr1",
+   "SumOfHospitalized": 10582.712
+ },
+ {
+   "Time": "2022-Qtr2",
+   "SumOfHospitalized": 10350.374
+ },
+ {
+   "Time": "2022-Qtr3",
+   "SumOfHospitalized": 12469.38
+ },
+ {
+   "Time": "2022-Qtr4",
+   "SumOfHospitalized": 7740.111
+ }
+]
