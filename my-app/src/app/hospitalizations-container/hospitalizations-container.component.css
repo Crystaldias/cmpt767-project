@@ -1,0 +1,9 @@
+.content {
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    align-items: center;
+    background-color: #C1E1C1;
+    ;
+    /* Set a pastel background color */
+}
