@@ -53,4 +53,30 @@ export class VaccineChartGenerationService {
     return returnText
   }
 
+  createTrendsForCountry(canvas: any){
+    let returnText = "";
+    for(let element of css.css){
+        console.log(element, returnText)
+        if(element.includes("src")){
+            returnText = returnText + ' '+  element.replace("url", this.getDataURL('trendsForCountryData'));
+        }else{
+            returnText = returnText + ' ' + element;
+        }
+    }
+    return returnText
+  }
+
+  createScatterPlotByCountry(canvas: any){
+    let returnText = "";
+    for(let element of css.css){
+        console.log(element, returnText)
+        if(element.includes("src")){
+            returnText = returnText + ' '+  element.replace("url", this.getDataURL('scatterPlotByCountryData'));
+        }else{
+            returnText = returnText + ' ' + element;
+        }
+    }
+    return returnText
+  }
+
 }

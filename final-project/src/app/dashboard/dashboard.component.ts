@@ -13,6 +13,8 @@ export class DashboardComponent implements OnInit {
   @ViewChild('c1') c1: ElementRef;
   @ViewChild('c2') c2: ElementRef;
   @ViewChild('c3') c3: ElementRef;
+  @ViewChild('scatter') scatter: ElementRef;
+  @ViewChild('trends') trends: ElementRef;
 
   plotCanvasContent
 
@@ -78,6 +80,10 @@ export class DashboardComponent implements OnInit {
     this.c1.nativeElement.insertAdjacentHTML("beforeEnd", this.vaccineChartGenerationService.createVaccineChart(this.c1));
     this.c2.nativeElement.insertAdjacentHTML("beforeEnd", this.vaccineChartGenerationService.createCovidVaccineAgeChart(this.c2));
     this.c3.nativeElement.insertAdjacentHTML("beforeEnd", this.vaccineChartGenerationService.createyoungestAgeCovidVaccinationChart(this.c3));
+
+
+    this.scatter.nativeElement.insertAdjacentHTML("beforeEnd", this.vaccineChartGenerationService.createScatterPlotByCountry(this.scatter));
+    this.scatter.nativeElement.insertAdjacentHTML("beforeEnd", this.vaccineChartGenerationService.createTrendsForCountry(this.scatter));
 
       
 

@@ -10,3 +10,7 @@ export const youngestAgeCovidVaccination = "https://ourworldindata.org/grapher/y
 export const internalMovements = "../../assets/internal-movements-calendar-heatmap.html"
 
 export const createPublicTransport ="../../assets/public-transport-covid-calendar-heatmap.html"
+
+export const scatterPlotByCountry = "../../assets/covid-vaccination-policy.html"
+
+export const trendsForCountryData = "../../assets/covid-vaccination-policy-line.html"
