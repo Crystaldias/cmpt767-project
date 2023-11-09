@@ -1,0 +1,43 @@
+.padding_top{
+    top: 35px; 
+    display: block;
+    background-color: white; 
+    /* height: 120px;  */
+    height: 21vh;
+    width: 97%; 
+    position: absolute;
+    border-top: 2px solid #454343;
+
+}
+
+.padding_bottom{
+    bottom: 0px; 
+    display: block;
+    background-color: white; 
+    height: 16vh; 
+    width: 97%; 
+    position: absolute;
+    border-bottom: 2px solid #454343;
+
+}
+
+.padding_top3{
+    height: 25vh!important;
+}
+
+.chart-container{
+    position: relative;
+    height: 620px;
+    margin-top: 10px;
+    width: 100%;
+    background-color: white;    
+    border-left: 2px solid #454343;
+    border-right: 2px solid #454343;
+
+
+}
+
+.container{
+    margin-top: 50px;
+    background-color: white;
+}

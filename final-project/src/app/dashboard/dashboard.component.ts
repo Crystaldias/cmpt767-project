@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, ElementRef, OnInit, ViewChild } from '@angular/core';
+import { VaccineChartGenerationService } from 'app/services/vaccine-chart-generation.service';
 import * as Chartist from 'chartist';
 
 @Component({
@@ -8,7 +9,13 @@ import * as Chartist from 'chartist';
 })
 export class DashboardComponent implements OnInit {
 
-  constructor() { }
+  constructor(private vaccineChartGenerationService: VaccineChartGenerationService) { }
+  @ViewChild('c1') c1: ElementRef;
+  @ViewChild('c2') c2: ElementRef;
+  @ViewChild('c3') c3: ElementRef;
+
+  plotCanvasContent
+
   startAnimationForLineChart(chart){
       let seq: any, delays: any, durations: any;
       seq = 0;
@@ -65,8 +72,23 @@ export class DashboardComponent implements OnInit {
 
       seq2 = 0;
   };
+
+  ngAfterViewInit(){
+    setTimeout(() => {
+
+      this.c1.nativeElement.insertAdjacentHTML("beforeEnd", this.vaccineChartGenerationService.createVaccineChart(this.c1));
+      this.c2.nativeElement.insertAdjacentHTML("beforeEnd", this.vaccineChartGenerationService.createCovidVaccineAgeChart(this.c2));
+      this.c3.nativeElement.insertAdjacentHTML("beforeEnd", this.vaccineChartGenerationService.createyoungestAgeCovidVaccinationChart(this.c3));
+
+    }, 1000);
+      
+
+  }
   ngOnInit() {
       /* ----------==========     Daily Sales Chart initialization For Documentation    ==========---------- */
+
+      this.plotCanvasContent = this.vaccineChartGenerationService.createVaccineChart(this.c1)
+
 
       const dataDailySalesChart: any = {
           labels: ['M', 'T', 'W', 'T', 'F', 'S', 'S'],
