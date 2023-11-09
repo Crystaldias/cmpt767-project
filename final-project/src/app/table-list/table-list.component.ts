@@ -18,7 +18,6 @@ export class TableListComponent implements OnInit {
   }
 
   ngAfterViewInit(){
-    // this.canvas.nativeElement.insertAdjacentHTML("beforeEnd", '<iframe src="../../assets/owid-covid-data.html" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>')
     this.canvas1.nativeElement.insertAdjacentHTML("beforeEnd", this.heatmapGenerationService.createInternalMovements(this.canvas1));
     this.canvas2.nativeElement.insertAdjacentHTML("beforeEnd", this.heatmapGenerationService.createPublicTransportHeatmap(this.canvas2));
 

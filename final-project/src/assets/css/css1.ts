@@ -7,6 +7,6 @@ export const covidVaccineAge = "https://ourworldindata.org/grapher/covid-vaccine
 
 export const youngestAgeCovidVaccination = "https://ourworldindata.org/grapher/youngest-age-covid-vaccination"
 
-export const internalMovements = "../../assets/internal-movements-calender-heatmap.html"
+export const internalMovements = "../../assets/internal-movements-calendar-heatmap.html"
 
-export const createPublicTransport ="../../assets/public-transport-covid-calender-heatmap.html"
+export const createPublicTransport ="../../assets/public-transport-covid-calendar-heatmap.html"
