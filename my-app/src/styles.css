@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+.space {
+    width: 100px;
+    /* Adjust the width as needed */
+    height: 100px;
+    /* Adjust the height as needed */
+    background-color: transparent;
+    /* Make it transparent or set a background color if desired */
+}
