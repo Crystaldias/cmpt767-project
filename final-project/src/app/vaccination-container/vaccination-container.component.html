@@ -1,0 +1,95 @@
+<html>
+<style>
+    #main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: #7393B3;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .graphs {
+        background-color: white;
+        width: 75rem;
+        margin: 2rem 0 2rem 0;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+
+
+    }
+
+    h1 {
+        padding: 1rem 0 0 1rem;
+        font-size: 24px;
+        font-family: Arial, sans-serif;
+    }
+
+    .cool-bubble {
+        background-color: black;
+        color: white;
+        padding: 1rem;
+        border-radius: 10px;
+        font-family: Arial, sans-serif;
+        font-size: 15px;
+
+
+    }
+</style>
+<div id="main">
+    <header>
+        <h1>Vaccination Effectiveness on ICU-Admissions</h1>
+    </header>
+    <div class="container">
+        <div class="graphs">
+            <app-asia-vaccination-spline></app-asia-vaccination-spline>
+            <div class="cool-bubble">
+                In Asia, high vaccination rates from 2021 to 2023 led to a decline in ICU Admissions, indicating
+                vaccination effectiveness. However, sporadic spikes in admissions were linked to emerging COVID-19
+                variants. Analyzing policy responses, the reproduction rate, and economic factors can provide insights
+                into ICU demand.
+            </div>
+        </div>
+        <div class="graphs">
+            <app-africa-vaccination-spline></app-africa-vaccination-spline>
+            <div class="cool-bubble">
+                In Africa, a sustained increase in vaccination rates corresponded with a notable decrease in ICU
+                Admissions, emphasizing the beneficial role of vaccination campaigns in reducing the need for intensive
+                care.
+            </div>
+        </div>
+
+        <div class="graphs">
+            <app-europe-vaccination-spline></app-europe-vaccination-spline>
+            <div class="cool-bubble">
+                In Europe from 2021 to 2023, while vaccination campaigns remained constant, substantial spikes in ICU
+                Admissions could be attributed to the emergence of new and highly contagious COVID-19 variants, as well
+                as the potential impact of changes in social distancing policies and other containment measures.
+            </div>
+        </div>
+
+        <div class="graphs">
+            <app-northamerica-vaccination-spline></app-northamerica-vaccination-spline>
+            <div class="cool-bubble">
+                In North America, a similar pattern was observed with consistent vaccination campaigns from 2021 to
+                2023, leading to significant spikes in ICU Admissions, likely due to the emergence of new COVID-19
+                variants and changing social distancing policies. However, from 2023 onwards, there was a notable
+                decrease in ICU Admissions, indicating the potential impact of increased vaccination coverage and
+                evolving public health measures. </div>
+        </div>
+
+        <div class="graphs">
+            <app-southamerica-vaccination-spline></app-southamerica-vaccination-spline>
+            <div class="cool-bubble">
+                In South America, a substantial reduction in ICU Admissions during 2021, and the sustained low levels
+                thereafter, can be attributed to the effective vaccination efforts in the region. </div>
+        </div>
+    </div>
+</div>
+
+</html>

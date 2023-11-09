@@ -74,13 +74,11 @@ export class DashboardComponent implements OnInit {
   };
 
   ngAfterViewInit(){
-    setTimeout(() => {
 
-      this.c1.nativeElement.insertAdjacentHTML("beforeEnd", this.vaccineChartGenerationService.createVaccineChart(this.c1));
-      this.c2.nativeElement.insertAdjacentHTML("beforeEnd", this.vaccineChartGenerationService.createCovidVaccineAgeChart(this.c2));
-      this.c3.nativeElement.insertAdjacentHTML("beforeEnd", this.vaccineChartGenerationService.createyoungestAgeCovidVaccinationChart(this.c3));
+    this.c1.nativeElement.insertAdjacentHTML("beforeEnd", this.vaccineChartGenerationService.createVaccineChart(this.c1));
+    this.c2.nativeElement.insertAdjacentHTML("beforeEnd", this.vaccineChartGenerationService.createCovidVaccineAgeChart(this.c2));
+    this.c3.nativeElement.insertAdjacentHTML("beforeEnd", this.vaccineChartGenerationService.createyoungestAgeCovidVaccinationChart(this.c3));
 
-    }, 1000);
       
 
   }
