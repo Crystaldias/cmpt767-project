@@ -1,0 +1,3856 @@
+,date,continent,location,gdp_per_capita
+0,2020Q1,Africa,Algeria,1238331.671
+1,2020Q1,Africa,Angola,517935.055
+2,2020Q1,Africa,Benin,183717.004
+3,2020Q1,Africa,Botswana,1406856.286
+4,2020Q1,Africa,Burkina Faso,151576.078
+5,2020Q1,Africa,Burundi,62498.025
+6,2020Q1,Africa,Cameroon,299478.414
+7,2020Q1,Africa,Cape Verde,553807.306
+8,2020Q1,Africa,Central African Republic,58850.36
+9,2020Q1,Africa,Chad,157365.617
+10,2020Q1,Africa,Comoros,125836.21
+11,2020Q1,Africa,Congo,434445.134
+12,2020Q1,Africa,Cote d'Ivoire,320489.534
+13,2020Q1,Africa,Democratic Republic of Congo,71923.837
+14,2020Q1,Africa,Djibouti,240781.134
+15,2020Q1,Africa,Egypt,938968.334
+16,2020Q1,Africa,Equatorial Guinea,2011833.697
+17,2020Q1,Africa,Eritrea,134430.851
+18,2020Q1,Africa,Eswatini,688768.775
+19,2020Q1,Africa,Ethiopia,153963.503
+20,2020Q1,Africa,Gabon,1474054.757
+21,2020Q1,Africa,Gambia,138997.263
+22,2020Q1,Africa,Ghana,376259.07
+23,2020Q1,Africa,Guinea,177904.414
+24,2020Q1,Africa,Guinea-Bissau,137832.07499999998
+25,2020Q1,Africa,Kenya,266379.49199999997
+26,2020Q1,Africa,Lesotho,253752.61699999997
+27,2020Q1,Africa,Liberia,66998.132
+28,2020Q1,Africa,Libya,1591454.3009999997
+29,2020Q1,Africa,Madagascar,126063.16
+30,2020Q1,Africa,Malawi,97458.738
+31,2020Q1,Africa,Mali,179273.234
+32,2020Q1,Africa,Mauritania,320189.337
+33,2020Q1,Africa,Mauritius,1806054.305
+34,2020Q1,Africa,Mayotte,0.0
+35,2020Q1,Africa,Morocco,666166.157
+36,2020Q1,Africa,Mozambique,101113.167
+37,2020Q1,Africa,Namibia,849220.9120000001
+38,2020Q1,Africa,Niger,82414.0
+39,2020Q1,Africa,Nigeria,475122.40599999996
+40,2020Q1,Africa,Reunion,0.0
+41,2020Q1,Africa,Rwanda,165024.779
+42,2020Q1,Africa,Saint Helena,0.0
+43,2020Q1,Africa,Sao Tome and Principe,271691.546
+44,2020Q1,Africa,Senegal,219881.62
+45,2020Q1,Africa,Seychelles,2348023.543
+46,2020Q1,Africa,Sierra Leone,123736.7
+47,2020Q1,Africa,Somalia,0.0
+48,2020Q1,Africa,South Africa,1094243.964
+49,2020Q1,Africa,South Sudan,139720.032
+50,2020Q1,Africa,Sudan,397519.12299999996
+51,2020Q1,Africa,Tanzania,238814.056
+52,2020Q1,Africa,Togo,127253.357
+53,2020Q1,Africa,Tunisia,965587.4330000001
+54,2020Q1,Africa,Uganda,151095.923
+55,2020Q1,Africa,Zambia,328343.33900000004
+56,2020Q1,Africa,Zimbabwe,169079.975
+57,2020Q1,Asia,Afghanistan,160554.843
+58,2020Q1,Asia,Armenia,782094.62
+59,2020Q1,Asia,Azerbaijan,1410420.291
+60,2020Q1,Asia,Bahrain,3852872.745
+61,2020Q1,Asia,Bangladesh,313634.576
+62,2020Q1,Asia,Bhutan,775065.133
+63,2020Q1,Asia,Brunei,6391023.339000001
+64,2020Q1,Asia,Cambodia,324411.23000000004
+65,2020Q1,Asia,China,1362475.368
+66,2020Q1,Asia,Georgia,867312.031
+67,2020Q1,Asia,Hong Kong,3419350.12
+68,2020Q1,Asia,India,571973.986
+69,2020Q1,Asia,Indonesia,995798.216
+70,2020Q1,Asia,Iran,1698353.18
+71,2020Q1,Asia,Iraq,1394094.754
+72,2020Q1,Asia,Israel,2948776.48
+73,2020Q1,Asia,Japan,3471197.847
+74,2020Q1,Asia,Jordan,742036.61
+75,2020Q1,Asia,Kazakhstan,2140947.332
+76,2020Q1,Asia,Kuwait,5832217.793
+77,2020Q1,Asia,Kyrgyzstan,302019.186
+78,2020Q1,Asia,Laos,569365.0399999999
+79,2020Q1,Asia,Lebanon,1189713.2850000001
+80,2020Q1,Asia,Malaysia,2385926.596
+81,2020Q1,Asia,Maldives,1351341.824
+82,2020Q1,Asia,Mongolia,1053835.294
+83,2020Q1,Asia,Myanmar,497652.133
+84,2020Q1,Asia,Nepal,217409.556
+85,2020Q1,Asia,North Korea,0.0
+86,2020Q1,Asia,Oman,3378503.1010000003
+87,2020Q1,Asia,Pakistan,448089.012
+88,2020Q1,Asia,Palestine,396040.922
+89,2020Q1,Asia,Philippines,676327.732
+90,2020Q1,Asia,Qatar,10407268.4
+91,2020Q1,Asia,Saudi Arabia,4365041.579
+92,2020Q1,Asia,Singapore,7612649.087
+93,2020Q1,Asia,South Korea,3198515.2860000003
+94,2020Q1,Asia,Sri Lanka,1038547.8529999999
+95,2020Q1,Asia,Syria,0.0
+96,2020Q1,Asia,Taiwan,0.0
+97,2020Q1,Asia,Tajikistan,257825.257
+98,2020Q1,Asia,Thailand,1448712.719
+99,2020Q1,Asia,Timor,584739.078
+100,2020Q1,Asia,Turkey,2236511.349
+101,2020Q1,Asia,Turkmenistan,1458623.047
+102,2020Q1,Asia,United Arab Emirates,5989119.987
+103,2020Q1,Asia,Uzbekistan,556526.256
+104,2020Q1,Asia,Vietnam,549297.676
+105,2020Q1,Asia,Yemen,131644.08299999998
+106,2020Q1,Europe,Albania,1050505.359
+107,2020Q1,Europe,Andorra,0.0
+108,2020Q1,Europe,Austria,4043865.054
+109,2020Q1,Europe,Belarus,1527949.063
+110,2020Q1,Europe,Belgium,3796613.264
+111,2020Q1,Europe,Bosnia and Herzegovina,1042536.655
+112,2020Q1,Europe,Bulgaria,1652134.323
+113,2020Q1,Europe,Croatia,2017611.933
+114,2020Q1,Europe,Cyprus,2884946.748
+115,2020Q1,Europe,Czechia,2901925.634
+116,2020Q1,Europe,Denmark,4154743.835
+117,2020Q1,Europe,England,0.0
+118,2020Q1,Europe,Estonia,2623831.428
+119,2020Q1,Europe,Faeroe Islands,0.0
+120,2020Q1,Europe,Finland,3612129.1689999998
+121,2020Q1,Europe,France,3435904.719
+122,2020Q1,Europe,Germany,4025402.805
+123,2020Q1,Europe,Gibraltar,0.0
+124,2020Q1,Europe,Greece,2187119.998
+125,2020Q1,Europe,Guernsey,0.0
+126,2020Q1,Europe,Hungary,2383202.929
+127,2020Q1,Europe,Iceland,4136983.262
+128,2020Q1,Europe,Ireland,5992841.0770000005
+129,2020Q1,Europe,Isle of Man,0.0
+130,2020Q1,Europe,Italy,3134587.4760000003
+131,2020Q1,Europe,Jersey,0.0
+132,2020Q1,Europe,Kosovo,871829.226
+133,2020Q1,Europe,Latvia,2230682.294
+134,2020Q1,Europe,Liechtenstein,0.0
+135,2020Q1,Europe,Lithuania,2627659.585
+136,2020Q1,Europe,Luxembourg,8390738.885
+137,2020Q1,Europe,Malta,3249685.7469999995
+138,2020Q1,Europe,Moldova,461907.508
+139,2020Q1,Europe,Monaco,0.0
+140,2020Q1,Europe,Montenegro,1460426.632
+141,2020Q1,Europe,Netherlands,4314056.505
+142,2020Q1,Europe,North Macedonia,1166898.046
+143,2020Q1,Europe,Northern Ireland,0.0
+144,2020Q1,Europe,Norway,5767205.073
+145,2020Q1,Europe,Poland,2422263.605
+146,2020Q1,Europe,Portugal,2486383.744
+147,2020Q1,Europe,Romania,2074874.7110000001
+148,2020Q1,Europe,Russia,2204169.906
+149,2020Q1,Europe,San Marino,5060670.83
+150,2020Q1,Europe,Scotland,0.0
+151,2020Q1,Europe,Serbia,1250350.409
+152,2020Q1,Europe,Slovakia,2683808.528
+153,2020Q1,Europe,Slovenia,2794674.7600000002
+154,2020Q1,Europe,Spain,3050240.04
+155,2020Q1,Europe,Sweden,4178486.1870000004
+156,2020Q1,Europe,Switzerland,5109504.774
+157,2020Q1,Europe,Ukraine,702600.977
+158,2020Q1,Europe,United Kingdom,3538038.716
+159,2020Q1,Europe,Vatican,0.0
+160,2020Q1,North America,Anguilla,0.0
+161,2020Q1,North America,Antigua and Barbuda,1912693.927
+162,2020Q1,North America,Aruba,3201666.509
+163,2020Q1,North America,Bahamas,2466888.383
+164,2020Q1,North America,Barbados,1511048.052
+165,2020Q1,North America,Belize,696368.218
+166,2020Q1,North America,Bermuda,4509569.035
+167,2020Q1,North America,Bonaire Sint Eustatius and Saba,0.0
+168,2020Q1,North America,British Virgin Islands,0.0
+169,2020Q1,North America,Canada,3917565.599
+170,2020Q1,North America,Cayman Islands,4441369.581
+171,2020Q1,North America,Costa Rica,1381724.5550000002
+172,2020Q1,North America,Cuba,0.0
+173,2020Q1,North America,Curacao,0.0
+174,2020Q1,North America,Dominica,860929.6630000001
+175,2020Q1,North America,Dominican Republic,1299476.629
+176,2020Q1,North America,El Salvador,649028.762
+177,2020Q1,North America,Greenland,0.0
+178,2020Q1,North America,Grenada,1209855.053
+179,2020Q1,North America,Guadeloupe,0.0
+180,2020Q1,North America,Guatemala,660718.912
+181,2020Q1,North America,Haiti,147132.397
+182,2020Q1,North America,Honduras,404219.755
+183,2020Q1,North America,Jamaica,729227.819
+184,2020Q1,North America,Martinique,0.0
+185,2020Q1,North America,Mexico,1577618.679
+186,2020Q1,North America,Montserrat,0.0
+187,2020Q1,North America,Nicaragua,473608.51600000006
+188,2020Q1,North America,Panama,1981766.293
+189,2020Q1,North America,Puerto Rico,3118975.63
+190,2020Q1,North America,Saint Barthelemy,0.0
+191,2020Q1,North America,Saint Kitts and Nevis,2194240.2649999997
+192,2020Q1,North America,Saint Lucia,1152713.671
+193,2020Q1,North America,Saint Martin (French part),0.0
+194,2020Q1,North America,Saint Pierre and Miquelon,0.0
+195,2020Q1,North America,Saint Vincent and the Grenadines,954715.9940000001
+196,2020Q1,North America,Sint Maarten (Dutch part),3233123.6480000005
+197,2020Q1,North America,Trinidad and Tobago,2559913.319
+198,2020Q1,North America,Turks and Caicos Islands,0.0
+199,2020Q1,North America,United States,4826064.694
+200,2020Q1,North America,United States Virgin Islands,0.0
+201,2020Q1,Oceania,American Samoa,0.0
+202,2020Q1,Oceania,Australia,3973735.19
+203,2020Q1,Oceania,Cook Islands,0.0
+204,2020Q1,Oceania,Fiji,774564.775
+205,2020Q1,Oceania,French Polynesia,0.0
+206,2020Q1,Oceania,Guam,0.0
+207,2020Q1,Oceania,Kiribati,176320.748
+208,2020Q1,Oceania,Marshall Islands,339908.978
+209,2020Q1,Oceania,Micronesia (country),293652.296
+210,2020Q1,Oceania,Nauru,1147711.5150000001
+211,2020Q1,Oceania,New Caledonia,0.0
+212,2020Q1,Oceania,New Zealand,3211640.0270000002
+213,2020Q1,Oceania,Niue,0.0
+214,2020Q1,Oceania,Northern Mariana Islands,0.0
+215,2020Q1,Oceania,Palau,1178396.0450000002
+216,2020Q1,Oceania,Papua New Guinea,340264.266
+217,2020Q1,Oceania,Pitcairn,0.0
+218,2020Q1,Oceania,Samoa,535918.573
+219,2020Q1,Oceania,Solomon Islands,196327.14699999997
+220,2020Q1,Oceania,Tokelau,0.0
+221,2020Q1,Oceania,Tonga,482880.26900000003
+222,2020Q1,Oceania,Tuvalu,318184.256
+223,2020Q1,Oceania,Vanuatu,260049.901
+224,2020Q1,Oceania,Wallis and Futuna,0.0
+225,2020Q1,South America,Argentina,1722985.537
+226,2020Q1,South America,Bolivia,612838.781
+227,2020Q1,South America,Brazil,1255207.228
+228,2020Q1,South America,Chile,2026266.293
+229,2020Q1,South America,Colombia,1179690.4610000001
+230,2020Q1,South America,Ecuador,941792.304
+231,2020Q1,South America,Falkland Islands,0.0
+232,2020Q1,South America,French Guiana,0.0
+233,2020Q1,South America,Guyana,661719.183
+234,2020Q1,South America,Paraguay,785603.89
+235,2020Q1,South America,Peru,1089066.834
+236,2020Q1,South America,Suriname,1225273.591
+237,2020Q1,South America,Uruguay,1829075.401
+238,2020Q1,South America,Venezuela,1490306.958
+239,2020Q2,Africa,Algeria,1266159.349
+240,2020Q2,Africa,Angola,529574.045
+241,2020Q2,Africa,Benin,187845.476
+242,2020Q2,Africa,Botswana,1438471.034
+243,2020Q2,Africa,Burkina Faso,154982.282
+244,2020Q2,Africa,Burundi,63902.475
+245,2020Q2,Africa,Cameroon,306208.266
+246,2020Q2,Africa,Cape Verde,566252.414
+247,2020Q2,Africa,Central African Republic,60172.840000000004
+248,2020Q2,Africa,Chad,160901.923
+249,2020Q2,Africa,Comoros,128663.99
+250,2020Q2,Africa,Congo,444207.946
+251,2020Q2,Africa,Cote d'Ivoire,327691.546
+252,2020Q2,Africa,Democratic Republic of Congo,73540.103
+253,2020Q2,Africa,Djibouti,246191.946
+254,2020Q2,Africa,Egypt,960068.746
+255,2020Q2,Africa,Equatorial Guinea,2057043.443
+256,2020Q2,Africa,Eritrea,137451.769
+257,2020Q2,Africa,Eswatini,704246.725
+258,2020Q2,Africa,Ethiopia,157423.357
+259,2020Q2,Africa,Gabon,1507179.583
+260,2020Q2,Africa,Gambia,142120.797
+261,2020Q2,Africa,Ghana,384714.33
+262,2020Q2,Africa,Guinea,181902.266
+263,2020Q2,Africa,Guinea-Bissau,140929.425
+264,2020Q2,Africa,Kenya,272365.548
+265,2020Q2,Africa,Lesotho,259454.92299999998
+266,2020Q2,Africa,Liberia,68503.708
+267,2020Q2,Africa,Libya,1627217.319
+268,2020Q2,Africa,Madagascar,128896.04000000001
+269,2020Q2,Africa,Malawi,99648.82199999999
+270,2020Q2,Africa,Mali,183301.846
+271,2020Q2,Africa,Mauritania,327384.603
+272,2020Q2,Africa,Mauritius,1846639.795
+273,2020Q2,Africa,Mayotte,0.0
+274,2020Q2,Africa,Morocco,681136.183
+275,2020Q2,Africa,Mozambique,103385.373
+276,2020Q2,Africa,Namibia,868304.528
+277,2020Q2,Africa,Niger,84266.0
+278,2020Q2,Africa,Nigeria,485799.31399999995
+279,2020Q2,Africa,Reunion,0.0
+280,2020Q2,Africa,Rwanda,168733.201
+281,2020Q2,Africa,Saint Helena,0.0
+282,2020Q2,Africa,Sao Tome and Principe,277796.974
+283,2020Q2,Africa,Senegal,224822.78
+284,2020Q2,Africa,Seychelles,2400788.117
+285,2020Q2,Africa,Sierra Leone,126517.3
+286,2020Q2,Africa,Somalia,0.0
+287,2020Q2,Africa,South Africa,1118833.716
+288,2020Q2,Africa,South Sudan,142859.808
+289,2020Q2,Africa,Sudan,406452.137
+290,2020Q2,Africa,Tanzania,244180.66400000002
+291,2020Q2,Africa,Togo,130112.98300000001
+292,2020Q2,Africa,Tunisia,987286.027
+293,2020Q2,Africa,Uganda,154491.337
+294,2020Q2,Africa,Zambia,335721.841
+295,2020Q2,Africa,Zimbabwe,172879.525
+296,2020Q2,Asia,Afghanistan,164162.817
+297,2020Q2,Asia,Armenia,799669.78
+298,2020Q2,Asia,Azerbaijan,1442115.129
+299,2020Q2,Asia,Bahrain,3939454.1550000003
+300,2020Q2,Asia,Bangladesh,320682.544
+301,2020Q2,Asia,Bhutan,792482.3269999999
+302,2020Q2,Asia,Brunei,6534641.841
+303,2020Q2,Asia,Cambodia,331701.37
+304,2020Q2,Asia,China,1393092.792
+305,2020Q2,Asia,Georgia,886802.189
+306,2020Q2,Asia,Hong Kong,5100997.72
+307,2020Q2,Asia,India,584827.334
+308,2020Q2,Asia,Indonesia,1018175.704
+309,2020Q2,Asia,Iran,1736518.42
+310,2020Q2,Asia,Iraq,1425422.726
+311,2020Q2,Asia,Israel,3015041.12
+312,2020Q2,Asia,Japan,3549202.2929999996
+313,2020Q2,Asia,Jordan,758711.59
+314,2020Q2,Asia,Kazakhstan,2189058.508
+315,2020Q2,Asia,Kuwait,5963278.867
+316,2020Q2,Asia,Kyrgyzstan,308806.134
+317,2020Q2,Asia,Laos,582159.76
+318,2020Q2,Asia,Lebanon,1216448.415
+319,2020Q2,Asia,Malaysia,2439542.924
+320,2020Q2,Asia,Maldives,1381709.056
+321,2020Q2,Asia,Mongolia,1077516.986
+322,2020Q2,Asia,Myanmar,508835.327
+323,2020Q2,Asia,Nepal,222295.16400000002
+324,2020Q2,Asia,North Korea,0.0
+325,2020Q2,Asia,Oman,3454424.5190000003
+326,2020Q2,Asia,Pakistan,458158.42799999996
+327,2020Q2,Asia,Palestine,404940.718
+328,2020Q2,Asia,Philippines,691526.108
+329,2020Q2,Asia,Qatar,10641139.6
+330,2020Q2,Asia,Saudi Arabia,4463132.401
+331,2020Q2,Asia,Singapore,7783719.853
+332,2020Q2,Asia,South Korea,3270392.0340000005
+333,2020Q2,Asia,Sri Lanka,1061886.007
+334,2020Q2,Asia,Syria,0.0
+335,2020Q2,Asia,Taiwan,0.0
+336,2020Q2,Asia,Tajikistan,263619.083
+337,2020Q2,Asia,Thailand,1481268.061
+338,2020Q2,Asia,Timor,597879.282
+339,2020Q2,Asia,Turkey,2286770.031
+340,2020Q2,Asia,Turkmenistan,1491401.093
+341,2020Q2,Asia,United Arab Emirates,6123706.953
+342,2020Q2,Asia,Uzbekistan,569032.464
+343,2020Q2,Asia,Vietnam,561641.444
+344,2020Q2,Asia,Yemen,134602.377
+345,2020Q2,Europe,Albania,1074112.2210000001
+346,2020Q2,Europe,Andorra,0.0
+347,2020Q2,Europe,Austria,4134738.426
+348,2020Q2,Europe,Belarus,1562284.997
+349,2020Q2,Europe,Belgium,3881930.416
+350,2020Q2,Europe,Bosnia and Herzegovina,1065964.445
+351,2020Q2,Europe,Bulgaria,1689260.9370000002
+352,2020Q2,Europe,Croatia,2062951.5269999998
+353,2020Q2,Europe,Cyprus,2949777.012
+354,2020Q2,Europe,Czechia,2967137.446
+355,2020Q2,Europe,Denmark,4248108.865
+356,2020Q2,Europe,England,0.0
+357,2020Q2,Europe,Estonia,2682793.932
+358,2020Q2,Europe,Faeroe Islands,0.0
+359,2020Q2,Europe,Finland,3693300.6109999996
+360,2020Q2,Europe,France,3513116.061
+361,2020Q2,Europe,Germany,4115861.2950000004
+362,2020Q2,Europe,Gibraltar,0.0
+363,2020Q2,Europe,Greece,2236268.762
+364,2020Q2,Europe,Guernsey,0.0
+365,2020Q2,Europe,Hungary,2436758.051
+366,2020Q2,Europe,Iceland,4229949.178
+367,2020Q2,Europe,Ireland,6127511.663000001
+368,2020Q2,Europe,Isle of Man,0.0
+369,2020Q2,Europe,Italy,3205027.6440000003
+370,2020Q2,Europe,Jersey,0.0
+371,2020Q2,Europe,Kosovo,891420.8940000001
+372,2020Q2,Europe,Latvia,2280809.986
+373,2020Q2,Europe,Liechtenstein,0.0
+374,2020Q2,Europe,Lithuania,2686708.1149999998
+375,2020Q2,Europe,Luxembourg,8579294.815
+376,2020Q2,Europe,Malta,3322712.3929999997
+377,2020Q2,Europe,Moldova,472287.452
+378,2020Q2,Europe,Monaco,0.0
+379,2020Q2,Europe,Montenegro,1493245.208
+380,2020Q2,Europe,Netherlands,4411001.595
+381,2020Q2,Europe,North Macedonia,1193120.474
+382,2020Q2,Europe,Northern Ireland,0.0
+383,2020Q2,Europe,Norway,5896805.187
+384,2020Q2,Europe,Poland,2476696.495
+385,2020Q2,Europe,Portugal,2542257.536
+386,2020Q2,Europe,Romania,2121501.109
+387,2020Q2,Europe,Russia,2253701.8140000002
+388,2020Q2,Europe,San Marino,5174393.7700000005
+389,2020Q2,Europe,Scotland,0.0
+390,2020Q2,Europe,Serbia,1278448.1709999999
+391,2020Q2,Europe,Slovakia,2744118.832
+392,2020Q2,Europe,Slovenia,2857476.44
+393,2020Q2,Europe,Spain,3118784.7600000002
+394,2020Q2,Europe,Sweden,4272384.7530000005
+395,2020Q2,Europe,Switzerland,5224325.106
+396,2020Q2,Europe,Ukraine,718389.763
+397,2020Q2,Europe,United Kingdom,3617545.204
+398,2020Q2,Europe,Vatican,0.0
+399,2020Q2,Europe,Wales,0.0
+400,2020Q2,North America,Anguilla,0.0
+401,2020Q2,North America,Antigua and Barbuda,1955675.8129999998
+402,2020Q2,North America,Aruba,3273614.0710000005
+403,2020Q2,North America,Bahamas,2522324.077
+404,2020Q2,North America,Barbados,1545004.1879999998
+405,2020Q2,North America,Belize,712016.942
+406,2020Q2,North America,Bermuda,4610907.665
+407,2020Q2,North America,Bonaire Sint Eustatius and Saba,0.0
+408,2020Q2,North America,British Virgin Islands,0.0
+409,2020Q2,North America,Canada,4005600.781
+410,2020Q2,North America,Cayman Islands,4541175.639
+411,2020Q2,North America,Costa Rica,1412774.5450000002
+412,2020Q2,North America,Cuba,0.0
+413,2020Q2,North America,Curacao,0.0
+414,2020Q2,North America,Dominica,880276.397
+415,2020Q2,North America,Dominican Republic,1328678.351
+416,2020Q2,North America,El Salvador,663613.678
+417,2020Q2,North America,Greenland,0.0
+418,2020Q2,North America,Grenada,1237042.807
+419,2020Q2,North America,Guadeloupe,0.0
+420,2020Q2,North America,Guatemala,675566.528
+421,2020Q2,North America,Haiti,150438.743
+422,2020Q2,North America,Honduras,413303.34500000003
+423,2020Q2,North America,Jamaica,745614.961
+424,2020Q2,North America,Martinique,0.0
+425,2020Q2,North America,Mexico,1577618.679
+426,2020Q2,North America,Montserrat,0.0
+427,2020Q2,North America,Nicaragua,484251.40400000004
+428,2020Q2,North America,Panama,2026300.367
+429,2020Q2,North America,Puerto Rico,3189064.9699999997
+430,2020Q2,North America,Saint Barthelemy,0.0
+431,2020Q2,North America,Saint Kitts and Nevis,2243549.0349999997
+432,2020Q2,North America,Saint Lucia,1178617.349
+433,2020Q2,North America,Saint Martin (French part),0.0
+434,2020Q2,North America,Saint Pierre and Miquelon,0.0
+435,2020Q2,North America,Saint Vincent and the Grenadines,976170.2860000001
+436,2020Q2,North America,Sint Maarten (Dutch part),3305778.112
+437,2020Q2,North America,Trinidad and Tobago,2617439.461
+438,2020Q2,North America,Turks and Caicos Islands,0.0
+439,2020Q2,North America,United States,4934515.586
+440,2020Q2,North America,United States Virgin Islands,0.0
+441,2020Q2,Oceania,American Samoa,0.0
+442,2020Q2,Oceania,Australia,4063032.61
+443,2020Q2,Oceania,Cook Islands,0.0
+444,2020Q2,Oceania,Fiji,791970.725
+445,2020Q2,Oceania,French Polynesia,0.0
+446,2020Q2,Oceania,Guam,0.0
+447,2020Q2,Oceania,Kiribati,180283.01200000002
+448,2020Q2,Oceania,Marshall Islands,347547.38200000004
+449,2020Q2,Oceania,Micronesia (country),300251.224
+450,2020Q2,Oceania,Nauru,1173502.785
+451,2020Q2,Oceania,New Caledonia,0.0
+452,2020Q2,Oceania,New Zealand,3283811.713
+453,2020Q2,Oceania,Niue,0.0
+454,2020Q2,Oceania,Northern Mariana Islands,0.0
+455,2020Q2,Oceania,Palau,1204876.855
+456,2020Q2,Oceania,Papua New Guinea,347910.654
+457,2020Q2,Oceania,Pitcairn,0.0
+458,2020Q2,Oceania,Samoa,547961.687
+459,2020Q2,Oceania,Solomon Islands,200738.993
+460,2020Q2,Oceania,Tokelau,0.0
+461,2020Q2,Oceania,Tonga,493731.511
+462,2020Q2,Oceania,Tuvalu,325334.464
+463,2020Q2,Oceania,Vanuatu,265893.719
+464,2020Q2,Oceania,Wallis and Futuna,0.0
+465,2020Q2,South America,Argentina,1722985.537
+466,2020Q2,South America,Bolivia,626610.439
+467,2020Q2,South America,Brazil,1283414.132
+468,2020Q2,South America,Chile,2071800.367
+469,2020Q2,South America,Colombia,1206200.359
+470,2020Q2,South America,Ecuador,962956.176
+471,2020Q2,South America,Falkland Islands,0.0
+472,2020Q2,South America,French Guiana,0.0
+473,2020Q2,South America,Guyana,676589.277
+474,2020Q2,South America,Paraguay,803257.91
+475,2020Q2,South America,Peru,1113540.246
+476,2020Q2,South America,Suriname,1252807.8290000001
+477,2020Q2,South America,Uruguay,1870178.219
+478,2020Q2,South America,Venezuela,1523797.002
+479,2020Q3,Africa,Algeria,1280073.188
+480,2020Q3,Africa,Angola,535393.54
+481,2020Q3,Africa,Benin,189909.712
+482,2020Q3,Africa,Botswana,1454278.408
+483,2020Q3,Africa,Burkina Faso,156685.38400000002
+484,2020Q3,Africa,Burundi,64604.700000000004
+485,2020Q3,Africa,Cameroon,309573.192
+486,2020Q3,Africa,Cape Verde,572474.968
+487,2020Q3,Africa,Central African Republic,60834.08
+488,2020Q3,Africa,Chad,162670.076
+489,2020Q3,Africa,Comoros,130077.88
+490,2020Q3,Africa,Congo,449089.352
+491,2020Q3,Africa,Cote d'Ivoire,331292.55199999997
+492,2020Q3,Africa,Democratic Republic of Congo,74348.236
+493,2020Q3,Africa,Djibouti,248897.35199999998
+494,2020Q3,Africa,Egypt,970618.952
+495,2020Q3,Africa,Equatorial Guinea,2079648.3159999999
+496,2020Q3,Africa,Eritrea,138962.228
+497,2020Q3,Africa,Eswatini,711985.7000000001
+498,2020Q3,Africa,Ethiopia,159153.28399999999
+499,2020Q3,Africa,Gabon,1523741.996
+500,2020Q3,Africa,Gambia,143682.564
+501,2020Q3,Africa,Ghana,388941.96
+502,2020Q3,Africa,Guinea,183901.19199999998
+503,2020Q3,Africa,Guinea-Bissau,142478.1
+504,2020Q3,Africa,Kenya,275358.576
+505,2020Q3,Africa,Lesotho,262306.076
+506,2020Q3,Africa,Liberia,69256.496
+507,2020Q3,Africa,Libya,1645098.8279999997
+508,2020Q3,Africa,Madagascar,130312.48000000001
+509,2020Q3,Africa,Malawi,100743.86399999999
+510,2020Q3,Africa,Mali,185316.152
+511,2020Q3,Africa,Mauritania,330982.236
+512,2020Q3,Africa,Mauritius,1866932.5399999998
+513,2020Q3,Africa,Mayotte,0.0
+514,2020Q3,Africa,Morocco,688621.196
+515,2020Q3,Africa,Mozambique,104521.47600000001
+516,2020Q3,Africa,Namibia,877846.3360000001
+517,2020Q3,Africa,Niger,85192.0
+518,2020Q3,Africa,Nigeria,491137.768
+519,2020Q3,Africa,Reunion,0.0
+520,2020Q3,Africa,Rwanda,170587.412
+521,2020Q3,Africa,Saint Helena,0.0
+522,2020Q3,Africa,Sao Tome and Principe,280849.68799999997
+523,2020Q3,Africa,Senegal,227293.36
+524,2020Q3,Africa,Seychelles,2427170.404
+525,2020Q3,Africa,Sierra Leone,127907.59999999999
+526,2020Q3,Africa,Somalia,0.0
+527,2020Q3,Africa,South Africa,1131128.592
+528,2020Q3,Africa,South Sudan,144429.696
+529,2020Q3,Africa,Sudan,410918.644
+530,2020Q3,Africa,Tanzania,246863.968
+531,2020Q3,Africa,Togo,131542.796
+532,2020Q3,Africa,Tunisia,998135.324
+533,2020Q3,Africa,Uganda,156189.04400000002
+534,2020Q3,Africa,Zambia,339411.092
+535,2020Q3,Africa,Zimbabwe,174779.30000000002
+536,2020Q3,Asia,Afghanistan,165966.804
+537,2020Q3,Asia,Armenia,808457.36
+538,2020Q3,Asia,Azerbaijan,1457962.548
+539,2020Q3,Asia,Bahrain,3982744.8600000003
+540,2020Q3,Asia,Bangladesh,324206.528
+541,2020Q3,Asia,Bhutan,801190.924
+542,2020Q3,Asia,Brunei,6606451.092
+543,2020Q3,Asia,Cambodia,335346.44
+544,2020Q3,Asia,China,1408401.504
+545,2020Q3,Asia,Georgia,896547.2679999999
+546,2020Q3,Asia,Hong Kong,5157052.64
+547,2020Q3,Asia,India,591254.008
+548,2020Q3,Asia,Indonesia,1029364.4480000001
+549,2020Q3,Asia,Iran,1755601.0399999998
+550,2020Q3,Asia,Iraq,1441086.712
+551,2020Q3,Asia,Israel,3048173.44
+552,2020Q3,Asia,Japan,3588204.516
+553,2020Q3,Asia,Jordan,767049.08
+554,2020Q3,Asia,Kazakhstan,2213114.096
+555,2020Q3,Asia,Kuwait,6028809.404
+556,2020Q3,Asia,Kyrgyzstan,312199.608
+557,2020Q3,Asia,Laos,588557.12
+558,2020Q3,Asia,Lebanon,1229815.98
+559,2020Q3,Asia,Malaysia,2466351.088
+560,2020Q3,Asia,Maldives,1396892.672
+561,2020Q3,Asia,Mongolia,1089357.832
+562,2020Q3,Asia,Myanmar,514426.924
+563,2020Q3,Asia,Nepal,224737.968
+564,2020Q3,Asia,North Korea,0.0
+565,2020Q3,Asia,Oman,3492385.228
+566,2020Q3,Asia,Pakistan,463193.13599999994
+567,2020Q3,Asia,Palestine,409390.61600000004
+568,2020Q3,Asia,Philippines,699125.296
+569,2020Q3,Asia,Qatar,10758075.200000001
+570,2020Q3,Asia,Saudi Arabia,4512177.812
+571,2020Q3,Asia,Singapore,7869255.2360000005
+572,2020Q3,Asia,South Korea,3306330.4080000003
+573,2020Q3,Asia,Sri Lanka,1073555.084
+574,2020Q3,Asia,Syria,0.0
+575,2020Q3,Asia,Taiwan,0.0
+576,2020Q3,Asia,Tajikistan,266515.996
+577,2020Q3,Asia,Thailand,1497545.732
+578,2020Q3,Asia,Timor,604449.384
+579,2020Q3,Asia,Turkey,2311899.372
+580,2020Q3,Asia,Turkmenistan,1507790.1160000002
+581,2020Q3,Asia,United Arab Emirates,6191000.436
+582,2020Q3,Asia,Uzbekistan,575285.568
+583,2020Q3,Asia,Vietnam,567813.328
+584,2020Q3,Asia,Yemen,136081.524
+585,2020Q3,Europe,Albania,1085915.652
+586,2020Q3,Europe,Andorra,0.0
+587,2020Q3,Europe,Austria,4180175.112
+588,2020Q3,Europe,Belarus,1579452.9640000002
+589,2020Q3,Europe,Belgium,3924588.992
+590,2020Q3,Europe,Bosnia and Herzegovina,1077678.34
+591,2020Q3,Europe,Bulgaria,1707824.244
+592,2020Q3,Europe,Croatia,2085621.3239999998
+593,2020Q3,Europe,Cyprus,2982192.1440000003
+594,2020Q3,Europe,Czechia,2999743.352
+595,2020Q3,Europe,Denmark,4294791.38
+596,2020Q3,Europe,England,0.0
+597,2020Q3,Europe,Estonia,2712275.184
+598,2020Q3,Europe,Faeroe Islands,0.0
+599,2020Q3,Europe,Finland,3733886.332
+600,2020Q3,Europe,France,3551721.7320000003
+601,2020Q3,Europe,Germany,4161090.54
+602,2020Q3,Europe,Gibraltar,0.0
+603,2020Q3,Europe,Greece,2260843.1440000003
+604,2020Q3,Europe,Guernsey,0.0
+605,2020Q3,Europe,Hungary,2463535.612
+606,2020Q3,Europe,Iceland,4276432.136
+607,2020Q3,Europe,Ireland,6194846.956
+608,2020Q3,Europe,Isle of Man,0.0
+609,2020Q3,Europe,Italy,3240247.728
+610,2020Q3,Europe,Jersey,0.0
+611,2020Q3,Europe,Kosovo,901216.7280000001
+612,2020Q3,Europe,Latvia,2305873.832
+613,2020Q3,Europe,Liechtenstein,0.0
+614,2020Q3,Europe,Lithuania,2716232.38
+615,2020Q3,Europe,Luxembourg,8673572.78
+616,2020Q3,Europe,Malta,3359225.7159999995
+617,2020Q3,Europe,Moldova,477477.424
+618,2020Q3,Europe,Monaco,0.0
+619,2020Q3,Europe,Montenegro,1509654.496
+620,2020Q3,Europe,Netherlands,4459474.14
+621,2020Q3,Europe,North Macedonia,1206231.688
+622,2020Q3,Europe,Northern Ireland,0.0
+623,2020Q3,Europe,Norway,5961605.244
+624,2020Q3,Europe,Poland,2503912.94
+625,2020Q3,Europe,Portugal,2570194.432
+626,2020Q3,Europe,Romania,2144814.308
+627,2020Q3,Europe,Russia,2278467.768
+628,2020Q3,Europe,San Marino,5231255.24
+629,2020Q3,Europe,Scotland,0.0
+630,2020Q3,Europe,Serbia,1292497.052
+631,2020Q3,Europe,Slovakia,2774273.9839999997
+632,2020Q3,Europe,Slovenia,2888877.28
+633,2020Q3,Europe,Spain,3153057.12
+634,2020Q3,Europe,Sweden,4319334.036
+635,2020Q3,Europe,Switzerland,5281735.272
+636,2020Q3,Europe,Ukraine,726284.156
+637,2020Q3,Europe,United Kingdom,3657298.448
+638,2020Q3,Europe,Vatican,0.0
+639,2020Q3,Europe,Wales,0.0
+640,2020Q3,North America,Anguilla,0.0
+641,2020Q3,North America,Antigua and Barbuda,1977166.756
+642,2020Q3,North America,Aruba,3309587.8520000004
+643,2020Q3,North America,Bahamas,2550041.924
+644,2020Q3,North America,Barbados,1561982.256
+645,2020Q3,North America,Belize,719841.304
+646,2020Q3,North America,Bermuda,4661576.98
+647,2020Q3,North America,Bonaire Sint Eustatius and Saba,0.0
+648,2020Q3,North America,British Virgin Islands,0.0
+649,2020Q3,North America,Canada,4049618.372
+650,2020Q3,North America,Cayman Islands,4591078.6680000005
+651,2020Q3,North America,Costa Rica,1428299.54
+652,2020Q3,North America,Cuba,0.0
+653,2020Q3,North America,Curacao,0.0
+654,2020Q3,North America,Dominica,889949.764
+655,2020Q3,North America,Dominican Republic,1343279.212
+656,2020Q3,North America,El Salvador,670906.1359999999
+657,2020Q3,North America,Greenland,0.0
+658,2020Q3,North America,Grenada,1250636.6840000001
+659,2020Q3,North America,Guadeloupe,0.0
+660,2020Q3,North America,Guatemala,682990.336
+661,2020Q3,North America,Haiti,152091.916
+662,2020Q3,North America,Honduras,417845.14
+663,2020Q3,North America,Jamaica,753808.532
+664,2020Q3,North America,Martinique,0.0
+665,2020Q3,North America,Mexico,1594955.148
+666,2020Q3,North America,Montserrat,0.0
+667,2020Q3,North America,Nicaragua,489572.84800000006
+668,2020Q3,North America,Panama,2048567.404
+669,2020Q3,North America,Puerto Rico,3224109.6399999997
+670,2020Q3,North America,Saint Barthelemy,0.0
+671,2020Q3,North America,Saint Kitts and Nevis,2268203.42
+672,2020Q3,North America,Saint Lucia,1191569.188
+673,2020Q3,North America,Saint Martin (French part),0.0
+674,2020Q3,North America,Saint Pierre and Miquelon,0.0
+675,2020Q3,North America,Saint Vincent and the Grenadines,986897.432
+676,2020Q3,North America,Sint Maarten (Dutch part),3342105.3440000005
+677,2020Q3,North America,Trinidad and Tobago,2646202.532
+678,2020Q3,North America,Turks and Caicos Islands,0.0
+679,2020Q3,North America,United States,4988741.032000001
+680,2020Q3,North America,United States Virgin Islands,0.0
+681,2020Q3,Oceania,American Samoa,0.0
+682,2020Q3,Oceania,Australia,4107681.32
+683,2020Q3,Oceania,Cook Islands,0.0
+684,2020Q3,Oceania,Fiji,800673.7000000001
+685,2020Q3,Oceania,French Polynesia,0.0
+686,2020Q3,Oceania,Guam,0.0
+687,2020Q3,Oceania,Kiribati,182264.144
+688,2020Q3,Oceania,Marshall Islands,351366.58400000003
+689,2020Q3,Oceania,Micronesia (country),303550.68799999997
+690,2020Q3,Oceania,Nauru,1186398.42
+691,2020Q3,Oceania,New Caledonia,0.0
+692,2020Q3,Oceania,New Zealand,3319897.556
+693,2020Q3,Oceania,Niue,0.0
+694,2020Q3,Oceania,Northern Mariana Islands,0.0
+695,2020Q3,Oceania,Palau,1218117.26
+696,2020Q3,Oceania,Papua New Guinea,351733.848
+697,2020Q3,Oceania,Pitcairn,0.0
+698,2020Q3,Oceania,Samoa,553983.244
+699,2020Q3,Oceania,Solomon Islands,202944.91599999997
+700,2020Q3,Oceania,Tokelau,0.0
+701,2020Q3,Oceania,Tonga,499157.132
+702,2020Q3,Oceania,Tuvalu,328909.56799999997
+703,2020Q3,Oceania,Vanuatu,268815.628
+704,2020Q3,Oceania,Wallis and Futuna,0.0
+705,2020Q3,South America,Argentina,1741919.444
+706,2020Q3,South America,Bolivia,633496.2679999999
+707,2020Q3,South America,Brazil,1297517.584
+708,2020Q3,South America,Chile,2094567.404
+709,2020Q3,South America,Colombia,1219455.308
+710,2020Q3,South America,Ecuador,973538.112
+711,2020Q3,South America,Falkland Islands,0.0
+712,2020Q3,South America,French Guiana,0.0
+713,2020Q3,South America,Guyana,684024.3239999999
+714,2020Q3,South America,Paraguay,812084.92
+715,2020Q3,South America,Peru,1125776.952
+716,2020Q3,South America,Suriname,1266574.948
+717,2020Q3,South America,Uruguay,1890729.628
+718,2020Q3,South America,Venezuela,1540542.024
+719,2020Q4,Africa,Algeria,1280073.188
+720,2020Q4,Africa,Angola,535393.54
+721,2020Q4,Africa,Benin,189909.712
+722,2020Q4,Africa,Botswana,1454278.408
+723,2020Q4,Africa,Burkina Faso,156685.38400000002
+724,2020Q4,Africa,Burundi,64604.700000000004
+725,2020Q4,Africa,Cameroon,309573.192
+726,2020Q4,Africa,Cape Verde,572474.968
+727,2020Q4,Africa,Central African Republic,60834.08
+728,2020Q4,Africa,Chad,162670.076
+729,2020Q4,Africa,Comoros,130077.88
+730,2020Q4,Africa,Congo,449089.352
+731,2020Q4,Africa,Cote d'Ivoire,331292.55199999997
+732,2020Q4,Africa,Democratic Republic of Congo,74348.236
+733,2020Q4,Africa,Djibouti,248897.35199999998
+734,2020Q4,Africa,Egypt,970618.952
+735,2020Q4,Africa,Equatorial Guinea,2079648.3159999999
+736,2020Q4,Africa,Eritrea,138962.228
+737,2020Q4,Africa,Eswatini,711985.7000000001
+738,2020Q4,Africa,Ethiopia,159153.28399999999
+739,2020Q4,Africa,Gabon,1523741.996
+740,2020Q4,Africa,Gambia,143682.564
+741,2020Q4,Africa,Ghana,388941.96
+742,2020Q4,Africa,Guinea,183901.19199999998
+743,2020Q4,Africa,Guinea-Bissau,142478.1
+744,2020Q4,Africa,Kenya,275358.576
+745,2020Q4,Africa,Lesotho,262306.076
+746,2020Q4,Africa,Liberia,69256.496
+747,2020Q4,Africa,Libya,1645098.8279999997
+748,2020Q4,Africa,Madagascar,130312.48000000001
+749,2020Q4,Africa,Malawi,100743.86399999999
+750,2020Q4,Africa,Mali,185316.152
+751,2020Q4,Africa,Mauritania,330982.236
+752,2020Q4,Africa,Mauritius,1866932.5399999998
+753,2020Q4,Africa,Mayotte,0.0
+754,2020Q4,Africa,Morocco,688621.196
+755,2020Q4,Africa,Mozambique,104521.47600000001
+756,2020Q4,Africa,Namibia,877846.3360000001
+757,2020Q4,Africa,Niger,85192.0
+758,2020Q4,Africa,Nigeria,491137.768
+759,2020Q4,Africa,Reunion,0.0
+760,2020Q4,Africa,Rwanda,170587.412
+761,2020Q4,Africa,Saint Helena,0.0
+762,2020Q4,Africa,Sao Tome and Principe,280849.68799999997
+763,2020Q4,Africa,Senegal,227293.36
+764,2020Q4,Africa,Seychelles,2427170.404
+765,2020Q4,Africa,Sierra Leone,127907.59999999999
+766,2020Q4,Africa,Somalia,0.0
+767,2020Q4,Africa,South Africa,1131128.592
+768,2020Q4,Africa,South Sudan,144429.696
+769,2020Q4,Africa,Sudan,410918.644
+770,2020Q4,Africa,Tanzania,246863.968
+771,2020Q4,Africa,Togo,131542.796
+772,2020Q4,Africa,Tunisia,998135.324
+773,2020Q4,Africa,Uganda,156189.04400000002
+774,2020Q4,Africa,Zambia,339411.092
+775,2020Q4,Africa,Zimbabwe,174779.30000000002
+776,2020Q4,Asia,Afghanistan,165966.804
+777,2020Q4,Asia,Armenia,808457.36
+778,2020Q4,Asia,Azerbaijan,1457962.548
+779,2020Q4,Asia,Bahrain,3982744.8600000003
+780,2020Q4,Asia,Bangladesh,324206.528
+781,2020Q4,Asia,Bhutan,801190.924
+782,2020Q4,Asia,Brunei,6606451.092
+783,2020Q4,Asia,Cambodia,335346.44
+784,2020Q4,Asia,China,1408401.504
+785,2020Q4,Asia,Georgia,896547.2679999999
+786,2020Q4,Asia,Hong Kong,5157052.64
+787,2020Q4,Asia,India,591254.008
+788,2020Q4,Asia,Indonesia,1029364.4480000001
+789,2020Q4,Asia,Iran,1755601.0399999998
+790,2020Q4,Asia,Iraq,1441086.712
+791,2020Q4,Asia,Israel,3048173.44
+792,2020Q4,Asia,Japan,3588204.516
+793,2020Q4,Asia,Jordan,767049.08
+794,2020Q4,Asia,Kazakhstan,2213114.096
+795,2020Q4,Asia,Kuwait,6028809.404
+796,2020Q4,Asia,Kyrgyzstan,312199.608
+797,2020Q4,Asia,Laos,588557.12
+798,2020Q4,Asia,Lebanon,1229815.98
+799,2020Q4,Asia,Malaysia,2466351.088
+800,2020Q4,Asia,Maldives,1396892.672
+801,2020Q4,Asia,Mongolia,1089357.832
+802,2020Q4,Asia,Myanmar,514426.924
+803,2020Q4,Asia,Nepal,224737.968
+804,2020Q4,Asia,North Korea,0.0
+805,2020Q4,Asia,Oman,3492385.228
+806,2020Q4,Asia,Pakistan,463193.13599999994
+807,2020Q4,Asia,Palestine,409390.61600000004
+808,2020Q4,Asia,Philippines,699125.296
+809,2020Q4,Asia,Qatar,10758075.200000001
+810,2020Q4,Asia,Saudi Arabia,4512177.812
+811,2020Q4,Asia,Singapore,7869255.2360000005
+812,2020Q4,Asia,South Korea,3306330.4080000003
+813,2020Q4,Asia,Sri Lanka,1073555.084
+814,2020Q4,Asia,Syria,0.0
+815,2020Q4,Asia,Taiwan,0.0
+816,2020Q4,Asia,Tajikistan,266515.996
+817,2020Q4,Asia,Thailand,1497545.732
+818,2020Q4,Asia,Timor,604449.384
+819,2020Q4,Asia,Turkey,2311899.372
+820,2020Q4,Asia,Turkmenistan,1507790.1160000002
+821,2020Q4,Asia,United Arab Emirates,6191000.436
+822,2020Q4,Asia,Uzbekistan,575285.568
+823,2020Q4,Asia,Vietnam,567813.328
+824,2020Q4,Asia,Yemen,136081.524
+825,2020Q4,Europe,Albania,1085915.652
+826,2020Q4,Europe,Andorra,0.0
+827,2020Q4,Europe,Austria,4180175.112
+828,2020Q4,Europe,Belarus,1579452.9640000002
+829,2020Q4,Europe,Belgium,3924588.992
+830,2020Q4,Europe,Bosnia and Herzegovina,1077678.34
+831,2020Q4,Europe,Bulgaria,1707824.244
+832,2020Q4,Europe,Croatia,2085621.3239999998
+833,2020Q4,Europe,Cyprus,2982192.1440000003
+834,2020Q4,Europe,Czechia,2999743.352
+835,2020Q4,Europe,Denmark,4294791.38
+836,2020Q4,Europe,England,0.0
+837,2020Q4,Europe,Estonia,2712275.184
+838,2020Q4,Europe,Faeroe Islands,0.0
+839,2020Q4,Europe,Finland,3733886.332
+840,2020Q4,Europe,France,3551721.7320000003
+841,2020Q4,Europe,Germany,4161090.54
+842,2020Q4,Europe,Gibraltar,0.0
+843,2020Q4,Europe,Greece,2260843.1440000003
+844,2020Q4,Europe,Guernsey,0.0
+845,2020Q4,Europe,Hungary,2463535.612
+846,2020Q4,Europe,Iceland,4276432.136
+847,2020Q4,Europe,Ireland,6194846.956
+848,2020Q4,Europe,Isle of Man,0.0
+849,2020Q4,Europe,Italy,3240247.728
+850,2020Q4,Europe,Jersey,0.0
+851,2020Q4,Europe,Kosovo,901216.7280000001
+852,2020Q4,Europe,Latvia,2305873.832
+853,2020Q4,Europe,Liechtenstein,0.0
+854,2020Q4,Europe,Lithuania,2716232.38
+855,2020Q4,Europe,Luxembourg,8673572.78
+856,2020Q4,Europe,Malta,3359225.7159999995
+857,2020Q4,Europe,Moldova,477477.424
+858,2020Q4,Europe,Monaco,0.0
+859,2020Q4,Europe,Montenegro,1509654.496
+860,2020Q4,Europe,Netherlands,4459474.14
+861,2020Q4,Europe,North Macedonia,1206231.688
+862,2020Q4,Europe,Northern Ireland,0.0
+863,2020Q4,Europe,Norway,5961605.244
+864,2020Q4,Europe,Poland,2503912.94
+865,2020Q4,Europe,Portugal,2570194.432
+866,2020Q4,Europe,Romania,2144814.308
+867,2020Q4,Europe,Russia,2278467.768
+868,2020Q4,Europe,San Marino,5231255.24
+869,2020Q4,Europe,Scotland,0.0
+870,2020Q4,Europe,Serbia,1292497.052
+871,2020Q4,Europe,Slovakia,2774273.9839999997
+872,2020Q4,Europe,Slovenia,2888877.28
+873,2020Q4,Europe,Spain,3153057.12
+874,2020Q4,Europe,Sweden,4319334.036
+875,2020Q4,Europe,Switzerland,5281735.272
+876,2020Q4,Europe,Ukraine,726284.156
+877,2020Q4,Europe,United Kingdom,3657298.448
+878,2020Q4,Europe,Vatican,0.0
+879,2020Q4,Europe,Wales,0.0
+880,2020Q4,North America,Anguilla,0.0
+881,2020Q4,North America,Antigua and Barbuda,1977166.756
+882,2020Q4,North America,Aruba,3309587.8520000004
+883,2020Q4,North America,Bahamas,2550041.924
+884,2020Q4,North America,Barbados,1561982.256
+885,2020Q4,North America,Belize,719841.304
+886,2020Q4,North America,Bermuda,4661576.98
+887,2020Q4,North America,Bonaire Sint Eustatius and Saba,0.0
+888,2020Q4,North America,British Virgin Islands,0.0
+889,2020Q4,North America,Canada,4049618.372
+890,2020Q4,North America,Cayman Islands,4591078.6680000005
+891,2020Q4,North America,Costa Rica,1428299.54
+892,2020Q4,North America,Cuba,0.0
+893,2020Q4,North America,Curacao,0.0
+894,2020Q4,North America,Dominica,889949.764
+895,2020Q4,North America,Dominican Republic,1343279.212
+896,2020Q4,North America,El Salvador,670906.1359999999
+897,2020Q4,North America,Greenland,0.0
+898,2020Q4,North America,Grenada,1250636.6840000001
+899,2020Q4,North America,Guadeloupe,0.0
+900,2020Q4,North America,Guatemala,682990.336
+901,2020Q4,North America,Haiti,152091.916
+902,2020Q4,North America,Honduras,417845.14
+903,2020Q4,North America,Jamaica,753808.532
+904,2020Q4,North America,Martinique,0.0
+905,2020Q4,North America,Mexico,1594955.148
+906,2020Q4,North America,Montserrat,0.0
+907,2020Q4,North America,Nicaragua,489572.84800000006
+908,2020Q4,North America,Panama,2048567.404
+909,2020Q4,North America,Puerto Rico,3224109.6399999997
+910,2020Q4,North America,Saint Barthelemy,0.0
+911,2020Q4,North America,Saint Kitts and Nevis,2268203.42
+912,2020Q4,North America,Saint Lucia,1191569.188
+913,2020Q4,North America,Saint Martin (French part),0.0
+914,2020Q4,North America,Saint Pierre and Miquelon,0.0
+915,2020Q4,North America,Saint Vincent and the Grenadines,986897.432
+916,2020Q4,North America,Sint Maarten (Dutch part),3342105.3440000005
+917,2020Q4,North America,Trinidad and Tobago,2646202.532
+918,2020Q4,North America,Turks and Caicos Islands,0.0
+919,2020Q4,North America,United States,4988741.032000001
+920,2020Q4,North America,United States Virgin Islands,0.0
+921,2020Q4,Oceania,American Samoa,0.0
+922,2020Q4,Oceania,Australia,4107681.32
+923,2020Q4,Oceania,Cook Islands,0.0
+924,2020Q4,Oceania,Fiji,800673.7000000001
+925,2020Q4,Oceania,French Polynesia,0.0
+926,2020Q4,Oceania,Guam,0.0
+927,2020Q4,Oceania,Kiribati,182264.144
+928,2020Q4,Oceania,Marshall Islands,351366.58400000003
+929,2020Q4,Oceania,Micronesia (country),303550.68799999997
+930,2020Q4,Oceania,Nauru,1186398.42
+931,2020Q4,Oceania,New Caledonia,0.0
+932,2020Q4,Oceania,New Zealand,3319897.556
+933,2020Q4,Oceania,Niue,0.0
+934,2020Q4,Oceania,Northern Mariana Islands,0.0
+935,2020Q4,Oceania,Palau,1218117.26
+936,2020Q4,Oceania,Papua New Guinea,351733.848
+937,2020Q4,Oceania,Pitcairn,0.0
+938,2020Q4,Oceania,Samoa,553983.244
+939,2020Q4,Oceania,Solomon Islands,202944.91599999997
+940,2020Q4,Oceania,Tokelau,0.0
+941,2020Q4,Oceania,Tonga,499157.132
+942,2020Q4,Oceania,Tuvalu,328909.56799999997
+943,2020Q4,Oceania,Vanuatu,268815.628
+944,2020Q4,Oceania,Wallis and Futuna,0.0
+945,2020Q4,South America,Argentina,1741919.444
+946,2020Q4,South America,Bolivia,633496.2679999999
+947,2020Q4,South America,Brazil,1297517.584
+948,2020Q4,South America,Chile,2094567.404
+949,2020Q4,South America,Colombia,1219455.308
+950,2020Q4,South America,Ecuador,973538.112
+951,2020Q4,South America,Falkland Islands,0.0
+952,2020Q4,South America,French Guiana,0.0
+953,2020Q4,South America,Guyana,684024.3239999999
+954,2020Q4,South America,Paraguay,812084.92
+955,2020Q4,South America,Peru,1125776.952
+956,2020Q4,South America,Suriname,1266574.948
+957,2020Q4,South America,Uruguay,1890729.628
+958,2020Q4,South America,Venezuela,1540542.024
+959,2021Q1,Africa,Algeria,1252245.51
+960,2021Q1,Africa,Angola,523754.55
+961,2021Q1,Africa,Benin,185781.24
+962,2021Q1,Africa,Botswana,1422663.66
+963,2021Q1,Africa,Burkina Faso,153279.18000000002
+964,2021Q1,Africa,Burundi,63200.25
+965,2021Q1,Africa,Cameroon,302843.33999999997
+966,2021Q1,Africa,Cape Verde,560029.86
+967,2021Q1,Africa,Central African Republic,59511.6
+968,2021Q1,Africa,Chad,159133.77
+969,2021Q1,Africa,Comoros,127250.1
+970,2021Q1,Africa,Congo,439326.54
+971,2021Q1,Africa,Cote d'Ivoire,324090.54
+972,2021Q1,Africa,Democratic Republic of Congo,72731.97
+973,2021Q1,Africa,Djibouti,243486.54
+974,2021Q1,Africa,Egypt,949518.54
+975,2021Q1,Africa,Equatorial Guinea,2034438.57
+976,2021Q1,Africa,Eritrea,135941.31
+977,2021Q1,Africa,Eswatini,696507.75
+978,2021Q1,Africa,Ethiopia,155693.43
+979,2021Q1,Africa,Gabon,1490617.17
+980,2021Q1,Africa,Gambia,140559.03
+981,2021Q1,Africa,Ghana,380486.7
+982,2021Q1,Africa,Guinea,179903.34
+983,2021Q1,Africa,Guinea-Bissau,139380.75
+984,2021Q1,Africa,Kenya,269372.51999999996
+985,2021Q1,Africa,Lesotho,256603.77
+986,2021Q1,Africa,Liberia,67750.92
+987,2021Q1,Africa,Libya,1609335.8099999998
+988,2021Q1,Africa,Madagascar,127479.6
+989,2021Q1,Africa,Malawi,98553.78
+990,2021Q1,Africa,Mali,181287.54
+991,2021Q1,Africa,Mauritania,323786.97
+992,2021Q1,Africa,Mauritius,1826347.0499999998
+993,2021Q1,Africa,Mayotte,0.0
+994,2021Q1,Africa,Morocco,673651.17
+995,2021Q1,Africa,Mozambique,102249.27
+996,2021Q1,Africa,Namibia,858762.7200000001
+997,2021Q1,Africa,Niger,83340.0
+998,2021Q1,Africa,Nigeria,480460.86
+999,2021Q1,Africa,Reunion,0.0
+1000,2021Q1,Africa,Rwanda,166878.99
+1001,2021Q1,Africa,Saint Helena,0.0
+1002,2021Q1,Africa,Sao Tome and Principe,274744.26
+1003,2021Q1,Africa,Senegal,222352.19999999998
+1004,2021Q1,Africa,Seychelles,2374405.83
+1005,2021Q1,Africa,Sierra Leone,125127.0
+1006,2021Q1,Africa,Somalia,0.0
+1007,2021Q1,Africa,South Africa,1106538.84
+1008,2021Q1,Africa,South Sudan,141289.91999999998
+1009,2021Q1,Africa,Sudan,401985.62999999995
+1010,2021Q1,Africa,Tanzania,241497.36000000002
+1011,2021Q1,Africa,Togo,128683.17000000001
+1012,2021Q1,Africa,Tunisia,976436.7300000001
+1013,2021Q1,Africa,Uganda,152793.63
+1014,2021Q1,Africa,Zambia,332032.59
+1015,2021Q1,Africa,Zimbabwe,170979.75
+1016,2021Q1,Asia,Afghanistan,162358.83000000002
+1017,2021Q1,Asia,Armenia,790882.2
+1018,2021Q1,Asia,Azerbaijan,1426267.71
+1019,2021Q1,Asia,Bahrain,3896163.45
+1020,2021Q1,Asia,Bangladesh,317158.56
+1021,2021Q1,Asia,Bhutan,783773.73
+1022,2021Q1,Asia,Brunei,6462832.590000001
+1023,2021Q1,Asia,Cambodia,328056.3
+1024,2021Q1,Asia,China,1377784.08
+1025,2021Q1,Asia,Georgia,877057.11
+1026,2021Q1,Asia,Hong Kong,5044942.8
+1027,2021Q1,Asia,India,578400.66
+1028,2021Q1,Asia,Indonesia,1006986.9600000001
+1029,2021Q1,Asia,Iran,1717435.7999999998
+1030,2021Q1,Asia,Iraq,1409758.74
+1031,2021Q1,Asia,Israel,2981908.8
+1032,2021Q1,Asia,Japan,3510200.07
+1033,2021Q1,Asia,Jordan,750374.1
+1034,2021Q1,Asia,Kazakhstan,2165002.92
+1035,2021Q1,Asia,Kuwait,5897748.33
+1036,2021Q1,Asia,Kyrgyzstan,305412.66000000003
+1037,2021Q1,Asia,Laos,575762.4
+1038,2021Q1,Asia,Lebanon,1203080.85
+1039,2021Q1,Asia,Macao,5452816.251999999
+1040,2021Q1,Asia,Malaysia,2412734.7600000002
+1041,2021Q1,Asia,Maldives,1366525.44
+1042,2021Q1,Asia,Mongolia,1065676.14
+1043,2021Q1,Asia,Myanmar,503243.73
+1044,2021Q1,Asia,Nepal,219852.36000000002
+1045,2021Q1,Asia,North Korea,0.0
+1046,2021Q1,Asia,Northern Cyprus,0.0
+1047,2021Q1,Asia,Oman,3416463.81
+1048,2021Q1,Asia,Pakistan,453123.72
+1049,2021Q1,Asia,Palestine,400490.82
+1050,2021Q1,Asia,Philippines,683926.92
+1051,2021Q1,Asia,Qatar,10524204.0
+1052,2021Q1,Asia,Saudi Arabia,4414086.99
+1053,2021Q1,Asia,Singapore,7698184.47
+1054,2021Q1,Asia,South Korea,3234453.66
+1055,2021Q1,Asia,Sri Lanka,1050216.93
+1056,2021Q1,Asia,Syria,0.0
+1057,2021Q1,Asia,Taiwan,0.0
+1058,2021Q1,Asia,Tajikistan,260722.17
+1059,2021Q1,Asia,Thailand,1464990.3900000001
+1060,2021Q1,Asia,Timor,591309.1799999999
+1061,2021Q1,Asia,Turkey,2261640.69
+1062,2021Q1,Asia,Turkmenistan,1475012.07
+1063,2021Q1,Asia,United Arab Emirates,6056413.47
+1064,2021Q1,Asia,Uzbekistan,562779.36
+1065,2021Q1,Asia,Vietnam,555469.56
+1066,2021Q1,Asia,Yemen,133123.22999999998
+1067,2021Q1,Europe,Albania,1062308.79
+1068,2021Q1,Europe,Andorra,0.0
+1069,2021Q1,Europe,Austria,4089301.74
+1070,2021Q1,Europe,Belarus,1545117.03
+1071,2021Q1,Europe,Belgium,3839271.84
+1072,2021Q1,Europe,Bosnia and Herzegovina,1054250.55
+1073,2021Q1,Europe,Bulgaria,1670697.6300000001
+1074,2021Q1,Europe,Croatia,2040281.73
+1075,2021Q1,Europe,Cyprus,2917361.8800000004
+1076,2021Q1,Europe,Czechia,2934531.54
+1077,2021Q1,Europe,Denmark,4201426.35
+1078,2021Q1,Europe,England,0.0
+1079,2021Q1,Europe,Estonia,2653312.68
+1080,2021Q1,Europe,Faeroe Islands,0.0
+1081,2021Q1,Europe,Finland,3652714.8899999997
+1082,2021Q1,Europe,France,3474510.39
+1083,2021Q1,Europe,Germany,4070632.0500000003
+1084,2021Q1,Europe,Gibraltar,0.0
+1085,2021Q1,Europe,Greece,2211694.3800000004
+1086,2021Q1,Europe,Guernsey,0.0
+1087,2021Q1,Europe,Hungary,2409980.49
+1088,2021Q1,Europe,Iceland,4183466.2199999997
+1089,2021Q1,Europe,Ireland,6060176.37
+1090,2021Q1,Europe,Isle of Man,0.0
+1091,2021Q1,Europe,Italy,3169807.56
+1092,2021Q1,Europe,Jersey,0.0
+1093,2021Q1,Europe,Kosovo,881625.06
+1094,2021Q1,Europe,Latvia,2255746.14
+1095,2021Q1,Europe,Liechtenstein,0.0
+1096,2021Q1,Europe,Lithuania,2657183.85
+1097,2021Q1,Europe,Luxembourg,8485016.85
+1098,2021Q1,Europe,Malta,3286199.07
+1099,2021Q1,Europe,Moldova,467097.48
+1100,2021Q1,Europe,Monaco,0.0
+1101,2021Q1,Europe,Montenegro,1476835.92
+1102,2021Q1,Europe,Netherlands,4362529.05
+1103,2021Q1,Europe,North Macedonia,1180009.26
+1104,2021Q1,Europe,Northern Ireland,0.0
+1105,2021Q1,Europe,Norway,5832005.13
+1106,2021Q1,Europe,Poland,2449480.05
+1107,2021Q1,Europe,Portugal,2514320.64
+1108,2021Q1,Europe,Romania,2098187.91
+1109,2021Q1,Europe,Russia,2228935.8600000003
+1110,2021Q1,Europe,San Marino,5117532.3
+1111,2021Q1,Europe,Scotland,0.0
+1112,2021Q1,Europe,Serbia,1264399.29
+1113,2021Q1,Europe,Slovakia,2713963.6799999997
+1114,2021Q1,Europe,Slovenia,2826075.6
+1115,2021Q1,Europe,Spain,3084512.4
+1116,2021Q1,Europe,Sweden,4225435.470000001
+1117,2021Q1,Europe,Switzerland,5166914.9399999995
+1118,2021Q1,Europe,Ukraine,710495.37
+1119,2021Q1,Europe,United Kingdom,3577791.96
+1120,2021Q1,Europe,Vatican,0.0
+1121,2021Q1,Europe,Wales,0.0
+1122,2021Q1,North America,Anguilla,0.0
+1123,2021Q1,North America,Antigua and Barbuda,1934184.8699999999
+1124,2021Q1,North America,Aruba,3237640.29
+1125,2021Q1,North America,Bahamas,2494606.23
+1126,2021Q1,North America,Barbados,1528026.1199999999
+1127,2021Q1,North America,Belize,704192.58
+1128,2021Q1,North America,Bermuda,4560238.350000001
+1129,2021Q1,North America,Bonaire Sint Eustatius and Saba,0.0
+1130,2021Q1,North America,British Virgin Islands,0.0
+1131,2021Q1,North America,Canada,3961583.19
+1132,2021Q1,North America,Cayman Islands,4491272.61
+1133,2021Q1,North America,Costa Rica,1397249.55
+1134,2021Q1,North America,Cuba,0.0
+1135,2021Q1,North America,Curacao,0.0
+1136,2021Q1,North America,Dominica,870603.03
+1137,2021Q1,North America,Dominican Republic,1314077.49
+1138,2021Q1,North America,El Salvador,656321.22
+1139,2021Q1,North America,Greenland,0.0
+1140,2021Q1,North America,Grenada,1223448.93
+1141,2021Q1,North America,Guadeloupe,0.0
+1142,2021Q1,North America,Guatemala,668142.72
+1143,2021Q1,North America,Haiti,148785.57
+1144,2021Q1,North America,Honduras,408761.55
+1145,2021Q1,North America,Jamaica,737421.39
+1146,2021Q1,North America,Martinique,0.0
+1147,2021Q1,North America,Mexico,1560282.2100000002
+1148,2021Q1,North America,Montserrat,0.0
+1149,2021Q1,North America,Nicaragua,478929.96
+1150,2021Q1,North America,Panama,2004033.33
+1151,2021Q1,North America,Puerto Rico,3154020.3
+1152,2021Q1,North America,Saint Barthelemy,0.0
+1153,2021Q1,North America,Saint Kitts and Nevis,2218894.65
+1154,2021Q1,North America,Saint Lucia,1165665.51
+1155,2021Q1,North America,Saint Martin (French part),0.0
+1156,2021Q1,North America,Saint Pierre and Miquelon,0.0
+1157,2021Q1,North America,Saint Vincent and the Grenadines,965443.14
+1158,2021Q1,North America,Sint Maarten (Dutch part),3269450.8800000004
+1159,2021Q1,North America,Trinidad and Tobago,2588676.39
+1160,2021Q1,North America,Turks and Caicos Islands,0.0
+1161,2021Q1,North America,United States,4880290.140000001
+1162,2021Q1,North America,United States Virgin Islands,0.0
+1163,2021Q1,Oceania,American Samoa,0.0
+1164,2021Q1,Oceania,Australia,4018383.9
+1165,2021Q1,Oceania,Cook Islands,0.0
+1166,2021Q1,Oceania,Fiji,783267.75
+1167,2021Q1,Oceania,French Polynesia,0.0
+1168,2021Q1,Oceania,Guam,0.0
+1169,2021Q1,Oceania,Kiribati,178301.88
+1170,2021Q1,Oceania,Marshall Islands,343728.18
+1171,2021Q1,Oceania,Micronesia (country),296951.76
+1172,2021Q1,Oceania,Nauru,1160607.15
+1173,2021Q1,Oceania,New Caledonia,0.0
+1174,2021Q1,Oceania,New Zealand,3247725.87
+1175,2021Q1,Oceania,Niue,0.0
+1176,2021Q1,Oceania,Northern Mariana Islands,0.0
+1177,2021Q1,Oceania,Palau,1191636.45
+1178,2021Q1,Oceania,Papua New Guinea,344087.46
+1179,2021Q1,Oceania,Pitcairn,0.0
+1180,2021Q1,Oceania,Samoa,541940.13
+1181,2021Q1,Oceania,Solomon Islands,198533.06999999998
+1182,2021Q1,Oceania,Tokelau,0.0
+1183,2021Q1,Oceania,Tonga,488305.89
+1184,2021Q1,Oceania,Tuvalu,321759.36
+1185,2021Q1,Oceania,Vanuatu,262971.81
+1186,2021Q1,Oceania,Wallis and Futuna,0.0
+1187,2021Q1,South America,Argentina,1704051.63
+1188,2021Q1,South America,Bolivia,619724.61
+1189,2021Q1,South America,Brazil,1269310.68
+1190,2021Q1,South America,Chile,2049033.33
+1191,2021Q1,South America,Colombia,1192945.4100000001
+1192,2021Q1,South America,Ecuador,952374.24
+1193,2021Q1,South America,Falkland Islands,0.0
+1194,2021Q1,South America,French Guiana,0.0
+1195,2021Q1,South America,Guyana,669154.23
+1196,2021Q1,South America,Paraguay,794430.9
+1197,2021Q1,South America,Peru,1101303.54
+1198,2021Q1,South America,Suriname,1239040.71
+1199,2021Q1,South America,Uruguay,1849626.81
+1200,2021Q1,South America,Venezuela,1507051.98
+1201,2021Q2,Africa,Algeria,1266159.349
+1202,2021Q2,Africa,Angola,529574.045
+1203,2021Q2,Africa,Benin,187845.476
+1204,2021Q2,Africa,Botswana,1438471.034
+1205,2021Q2,Africa,Burkina Faso,154982.282
+1206,2021Q2,Africa,Burundi,63902.475
+1207,2021Q2,Africa,Cameroon,306208.266
+1208,2021Q2,Africa,Cape Verde,566252.414
+1209,2021Q2,Africa,Central African Republic,60172.840000000004
+1210,2021Q2,Africa,Chad,160901.923
+1211,2021Q2,Africa,Comoros,128663.99
+1212,2021Q2,Africa,Congo,444207.946
+1213,2021Q2,Africa,Cote d'Ivoire,327691.546
+1214,2021Q2,Africa,Democratic Republic of Congo,73540.103
+1215,2021Q2,Africa,Djibouti,246191.946
+1216,2021Q2,Africa,Egypt,960068.746
+1217,2021Q2,Africa,Equatorial Guinea,2057043.443
+1218,2021Q2,Africa,Eritrea,137451.769
+1219,2021Q2,Africa,Eswatini,704246.725
+1220,2021Q2,Africa,Ethiopia,157423.357
+1221,2021Q2,Africa,Gabon,1507179.583
+1222,2021Q2,Africa,Gambia,142120.797
+1223,2021Q2,Africa,Ghana,384714.33
+1224,2021Q2,Africa,Guinea,181902.266
+1225,2021Q2,Africa,Guinea-Bissau,140929.425
+1226,2021Q2,Africa,Kenya,272365.548
+1227,2021Q2,Africa,Lesotho,259454.92299999998
+1228,2021Q2,Africa,Liberia,68503.708
+1229,2021Q2,Africa,Libya,1627217.319
+1230,2021Q2,Africa,Madagascar,128896.04000000001
+1231,2021Q2,Africa,Malawi,99648.82199999999
+1232,2021Q2,Africa,Mali,183301.846
+1233,2021Q2,Africa,Mauritania,327384.603
+1234,2021Q2,Africa,Mauritius,1846639.795
+1235,2021Q2,Africa,Mayotte,0.0
+1236,2021Q2,Africa,Morocco,681136.183
+1237,2021Q2,Africa,Mozambique,103385.373
+1238,2021Q2,Africa,Namibia,868304.528
+1239,2021Q2,Africa,Niger,84266.0
+1240,2021Q2,Africa,Nigeria,485799.31399999995
+1241,2021Q2,Africa,Reunion,0.0
+1242,2021Q2,Africa,Rwanda,168733.201
+1243,2021Q2,Africa,Saint Helena,0.0
+1244,2021Q2,Africa,Sao Tome and Principe,277796.974
+1245,2021Q2,Africa,Senegal,224822.78
+1246,2021Q2,Africa,Seychelles,2400788.117
+1247,2021Q2,Africa,Sierra Leone,126517.3
+1248,2021Q2,Africa,Somalia,0.0
+1249,2021Q2,Africa,South Africa,1118833.716
+1250,2021Q2,Africa,South Sudan,142859.808
+1251,2021Q2,Africa,Sudan,406452.137
+1252,2021Q2,Africa,Tanzania,244180.66400000002
+1253,2021Q2,Africa,Togo,130112.98300000001
+1254,2021Q2,Africa,Tunisia,987286.027
+1255,2021Q2,Africa,Uganda,154491.337
+1256,2021Q2,Africa,Zambia,335721.841
+1257,2021Q2,Africa,Zimbabwe,172879.525
+1258,2021Q2,Asia,Afghanistan,164162.817
+1259,2021Q2,Asia,Armenia,799669.78
+1260,2021Q2,Asia,Azerbaijan,1442115.129
+1261,2021Q2,Asia,Bahrain,3939454.1550000003
+1262,2021Q2,Asia,Bangladesh,320682.544
+1263,2021Q2,Asia,Bhutan,792482.3269999999
+1264,2021Q2,Asia,Brunei,6534641.841
+1265,2021Q2,Asia,Cambodia,331701.37
+1266,2021Q2,Asia,China,1393092.792
+1267,2021Q2,Asia,Georgia,886802.189
+1268,2021Q2,Asia,Hong Kong,5100997.72
+1269,2021Q2,Asia,India,584827.334
+1270,2021Q2,Asia,Indonesia,1018175.704
+1271,2021Q2,Asia,Iran,1736518.42
+1272,2021Q2,Asia,Iraq,1425422.726
+1273,2021Q2,Asia,Israel,3015041.12
+1274,2021Q2,Asia,Japan,3549202.2929999996
+1275,2021Q2,Asia,Jordan,758711.59
+1276,2021Q2,Asia,Kazakhstan,2189058.508
+1277,2021Q2,Asia,Kuwait,5963278.867
+1278,2021Q2,Asia,Kyrgyzstan,308806.134
+1279,2021Q2,Asia,Laos,582159.76
+1280,2021Q2,Asia,Lebanon,1216448.415
+1281,2021Q2,Asia,Macao,9542428.441
+1282,2021Q2,Asia,Malaysia,2439542.924
+1283,2021Q2,Asia,Maldives,1381709.056
+1284,2021Q2,Asia,Mongolia,1077516.986
+1285,2021Q2,Asia,Myanmar,508835.327
+1286,2021Q2,Asia,Nepal,222295.16400000002
+1287,2021Q2,Asia,North Korea,0.0
+1288,2021Q2,Asia,Northern Cyprus,0.0
+1289,2021Q2,Asia,Oman,3454424.5190000003
+1290,2021Q2,Asia,Pakistan,458158.42799999996
+1291,2021Q2,Asia,Palestine,404940.718
+1292,2021Q2,Asia,Philippines,691526.108
+1293,2021Q2,Asia,Qatar,10641139.6
+1294,2021Q2,Asia,Saudi Arabia,4463132.401
+1295,2021Q2,Asia,Singapore,7783719.853
+1296,2021Q2,Asia,South Korea,3270392.0340000005
+1297,2021Q2,Asia,Sri Lanka,1061886.007
+1298,2021Q2,Asia,Syria,0.0
+1299,2021Q2,Asia,Taiwan,0.0
+1300,2021Q2,Asia,Tajikistan,263619.083
+1301,2021Q2,Asia,Thailand,1481268.061
+1302,2021Q2,Asia,Timor,597879.282
+1303,2021Q2,Asia,Turkey,2286770.031
+1304,2021Q2,Asia,Turkmenistan,1491401.093
+1305,2021Q2,Asia,United Arab Emirates,6123706.953
+1306,2021Q2,Asia,Uzbekistan,569032.464
+1307,2021Q2,Asia,Vietnam,561641.444
+1308,2021Q2,Asia,Yemen,134602.377
+1309,2021Q2,Europe,Albania,1074112.2210000001
+1310,2021Q2,Europe,Andorra,0.0
+1311,2021Q2,Europe,Austria,4134738.426
+1312,2021Q2,Europe,Belarus,1562284.997
+1313,2021Q2,Europe,Belgium,3881930.416
+1314,2021Q2,Europe,Bosnia and Herzegovina,1065964.445
+1315,2021Q2,Europe,Bulgaria,1689260.9370000002
+1316,2021Q2,Europe,Croatia,2062951.5269999998
+1317,2021Q2,Europe,Cyprus,2949777.012
+1318,2021Q2,Europe,Czechia,2967137.446
+1319,2021Q2,Europe,Denmark,4248108.865
+1320,2021Q2,Europe,England,0.0
+1321,2021Q2,Europe,Estonia,2682793.932
+1322,2021Q2,Europe,Faeroe Islands,0.0
+1323,2021Q2,Europe,Finland,3693300.6109999996
+1324,2021Q2,Europe,France,3513116.061
+1325,2021Q2,Europe,Germany,4115861.2950000004
+1326,2021Q2,Europe,Gibraltar,0.0
+1327,2021Q2,Europe,Greece,2236268.762
+1328,2021Q2,Europe,Guernsey,0.0
+1329,2021Q2,Europe,Hungary,2436758.051
+1330,2021Q2,Europe,Iceland,4229949.178
+1331,2021Q2,Europe,Ireland,6127511.663000001
+1332,2021Q2,Europe,Isle of Man,0.0
+1333,2021Q2,Europe,Italy,3205027.6440000003
+1334,2021Q2,Europe,Jersey,0.0
+1335,2021Q2,Europe,Kosovo,891420.8940000001
+1336,2021Q2,Europe,Latvia,2280809.986
+1337,2021Q2,Europe,Liechtenstein,0.0
+1338,2021Q2,Europe,Lithuania,2686708.1149999998
+1339,2021Q2,Europe,Luxembourg,8579294.815
+1340,2021Q2,Europe,Malta,3322712.3929999997
+1341,2021Q2,Europe,Moldova,472287.452
+1342,2021Q2,Europe,Monaco,0.0
+1343,2021Q2,Europe,Montenegro,1493245.208
+1344,2021Q2,Europe,Netherlands,4411001.595
+1345,2021Q2,Europe,North Macedonia,1193120.474
+1346,2021Q2,Europe,Northern Ireland,0.0
+1347,2021Q2,Europe,Norway,5896805.187
+1348,2021Q2,Europe,Poland,2476696.495
+1349,2021Q2,Europe,Portugal,2542257.536
+1350,2021Q2,Europe,Romania,2121501.109
+1351,2021Q2,Europe,Russia,2253701.8140000002
+1352,2021Q2,Europe,San Marino,5174393.7700000005
+1353,2021Q2,Europe,Scotland,0.0
+1354,2021Q2,Europe,Serbia,1278448.1709999999
+1355,2021Q2,Europe,Slovakia,2744118.832
+1356,2021Q2,Europe,Slovenia,2857476.44
+1357,2021Q2,Europe,Spain,3118784.7600000002
+1358,2021Q2,Europe,Sweden,4272384.7530000005
+1359,2021Q2,Europe,Switzerland,5224325.106
+1360,2021Q2,Europe,Ukraine,718389.763
+1361,2021Q2,Europe,United Kingdom,3617545.204
+1362,2021Q2,Europe,Vatican,0.0
+1363,2021Q2,Europe,Wales,0.0
+1364,2021Q2,North America,Anguilla,0.0
+1365,2021Q2,North America,Antigua and Barbuda,1955675.8129999998
+1366,2021Q2,North America,Aruba,3273614.0710000005
+1367,2021Q2,North America,Bahamas,2522324.077
+1368,2021Q2,North America,Barbados,1545004.1879999998
+1369,2021Q2,North America,Belize,712016.942
+1370,2021Q2,North America,Bermuda,4610907.665
+1371,2021Q2,North America,Bonaire Sint Eustatius and Saba,0.0
+1372,2021Q2,North America,British Virgin Islands,0.0
+1373,2021Q2,North America,Canada,4005600.781
+1374,2021Q2,North America,Cayman Islands,4541175.639
+1375,2021Q2,North America,Costa Rica,1412774.5450000002
+1376,2021Q2,North America,Cuba,0.0
+1377,2021Q2,North America,Curacao,0.0
+1378,2021Q2,North America,Dominica,880276.397
+1379,2021Q2,North America,Dominican Republic,1328678.351
+1380,2021Q2,North America,El Salvador,663613.678
+1381,2021Q2,North America,Greenland,0.0
+1382,2021Q2,North America,Grenada,1237042.807
+1383,2021Q2,North America,Guadeloupe,0.0
+1384,2021Q2,North America,Guatemala,675566.528
+1385,2021Q2,North America,Haiti,150438.743
+1386,2021Q2,North America,Honduras,413303.34500000003
+1387,2021Q2,North America,Jamaica,745614.961
+1388,2021Q2,North America,Martinique,0.0
+1389,2021Q2,North America,Mexico,1577618.679
+1390,2021Q2,North America,Montserrat,0.0
+1391,2021Q2,North America,Nicaragua,484251.40400000004
+1392,2021Q2,North America,Panama,2026300.367
+1393,2021Q2,North America,Puerto Rico,3189064.9699999997
+1394,2021Q2,North America,Saint Barthelemy,0.0
+1395,2021Q2,North America,Saint Kitts and Nevis,2243549.0349999997
+1396,2021Q2,North America,Saint Lucia,1178617.349
+1397,2021Q2,North America,Saint Martin (French part),0.0
+1398,2021Q2,North America,Saint Pierre and Miquelon,0.0
+1399,2021Q2,North America,Saint Vincent and the Grenadines,976170.2860000001
+1400,2021Q2,North America,Sint Maarten (Dutch part),3305778.112
+1401,2021Q2,North America,Trinidad and Tobago,2617439.461
+1402,2021Q2,North America,Turks and Caicos Islands,0.0
+1403,2021Q2,North America,United States,4934515.586
+1404,2021Q2,North America,United States Virgin Islands,0.0
+1405,2021Q2,Oceania,American Samoa,0.0
+1406,2021Q2,Oceania,Australia,4063032.61
+1407,2021Q2,Oceania,Cook Islands,0.0
+1408,2021Q2,Oceania,Fiji,791970.725
+1409,2021Q2,Oceania,French Polynesia,0.0
+1410,2021Q2,Oceania,Guam,0.0
+1411,2021Q2,Oceania,Kiribati,180283.01200000002
+1412,2021Q2,Oceania,Marshall Islands,347547.38200000004
+1413,2021Q2,Oceania,Micronesia (country),300251.224
+1414,2021Q2,Oceania,Nauru,1173502.785
+1415,2021Q2,Oceania,New Caledonia,0.0
+1416,2021Q2,Oceania,New Zealand,3283811.713
+1417,2021Q2,Oceania,Niue,0.0
+1418,2021Q2,Oceania,Northern Mariana Islands,0.0
+1419,2021Q2,Oceania,Palau,1204876.855
+1420,2021Q2,Oceania,Papua New Guinea,347910.654
+1421,2021Q2,Oceania,Pitcairn,0.0
+1422,2021Q2,Oceania,Samoa,547961.687
+1423,2021Q2,Oceania,Solomon Islands,200738.993
+1424,2021Q2,Oceania,Tokelau,0.0
+1425,2021Q2,Oceania,Tonga,493731.511
+1426,2021Q2,Oceania,Tuvalu,325334.464
+1427,2021Q2,Oceania,Vanuatu,265893.719
+1428,2021Q2,Oceania,Wallis and Futuna,0.0
+1429,2021Q2,South America,Argentina,1722985.537
+1430,2021Q2,South America,Bolivia,626610.439
+1431,2021Q2,South America,Brazil,1283414.132
+1432,2021Q2,South America,Chile,2071800.367
+1433,2021Q2,South America,Colombia,1206200.359
+1434,2021Q2,South America,Ecuador,962956.176
+1435,2021Q2,South America,Falkland Islands,0.0
+1436,2021Q2,South America,French Guiana,0.0
+1437,2021Q2,South America,Guyana,676589.277
+1438,2021Q2,South America,Paraguay,803257.91
+1439,2021Q2,South America,Peru,1113540.246
+1440,2021Q2,South America,Suriname,1252807.8290000001
+1441,2021Q2,South America,Uruguay,1870178.219
+1442,2021Q2,South America,Venezuela,1523797.002
+1443,2021Q3,Africa,Algeria,1280073.188
+1444,2021Q3,Africa,Angola,535393.54
+1445,2021Q3,Africa,Benin,189909.712
+1446,2021Q3,Africa,Botswana,1454278.408
+1447,2021Q3,Africa,Burkina Faso,156685.38400000002
+1448,2021Q3,Africa,Burundi,64604.700000000004
+1449,2021Q3,Africa,Cameroon,309573.192
+1450,2021Q3,Africa,Cape Verde,572474.968
+1451,2021Q3,Africa,Central African Republic,60834.08
+1452,2021Q3,Africa,Chad,162670.076
+1453,2021Q3,Africa,Comoros,130077.88
+1454,2021Q3,Africa,Congo,449089.352
+1455,2021Q3,Africa,Cote d'Ivoire,331292.55199999997
+1456,2021Q3,Africa,Democratic Republic of Congo,74348.236
+1457,2021Q3,Africa,Djibouti,248897.35199999998
+1458,2021Q3,Africa,Egypt,970618.952
+1459,2021Q3,Africa,Equatorial Guinea,2079648.3159999999
+1460,2021Q3,Africa,Eritrea,138962.228
+1461,2021Q3,Africa,Eswatini,711985.7000000001
+1462,2021Q3,Africa,Ethiopia,159153.28399999999
+1463,2021Q3,Africa,Gabon,1523741.996
+1464,2021Q3,Africa,Gambia,143682.564
+1465,2021Q3,Africa,Ghana,388941.96
+1466,2021Q3,Africa,Guinea,183901.19199999998
+1467,2021Q3,Africa,Guinea-Bissau,142478.1
+1468,2021Q3,Africa,Kenya,275358.576
+1469,2021Q3,Africa,Lesotho,262306.076
+1470,2021Q3,Africa,Liberia,69256.496
+1471,2021Q3,Africa,Libya,1645098.8279999997
+1472,2021Q3,Africa,Madagascar,130312.48000000001
+1473,2021Q3,Africa,Malawi,100743.86399999999
+1474,2021Q3,Africa,Mali,185316.152
+1475,2021Q3,Africa,Mauritania,330982.236
+1476,2021Q3,Africa,Mauritius,1866932.5399999998
+1477,2021Q3,Africa,Mayotte,0.0
+1478,2021Q3,Africa,Morocco,688621.196
+1479,2021Q3,Africa,Mozambique,104521.47600000001
+1480,2021Q3,Africa,Namibia,877846.3360000001
+1481,2021Q3,Africa,Niger,85192.0
+1482,2021Q3,Africa,Nigeria,491137.768
+1483,2021Q3,Africa,Reunion,0.0
+1484,2021Q3,Africa,Rwanda,170587.412
+1485,2021Q3,Africa,Saint Helena,0.0
+1486,2021Q3,Africa,Sao Tome and Principe,280849.68799999997
+1487,2021Q3,Africa,Senegal,227293.36
+1488,2021Q3,Africa,Seychelles,2427170.404
+1489,2021Q3,Africa,Sierra Leone,127907.59999999999
+1490,2021Q3,Africa,Somalia,0.0
+1491,2021Q3,Africa,South Africa,1131128.592
+1492,2021Q3,Africa,South Sudan,144429.696
+1493,2021Q3,Africa,Sudan,410918.644
+1494,2021Q3,Africa,Tanzania,246863.968
+1495,2021Q3,Africa,Togo,131542.796
+1496,2021Q3,Africa,Tunisia,998135.324
+1497,2021Q3,Africa,Uganda,156189.04400000002
+1498,2021Q3,Africa,Zambia,339411.092
+1499,2021Q3,Africa,Zimbabwe,174779.30000000002
+1500,2021Q3,Asia,Afghanistan,165966.804
+1501,2021Q3,Asia,Armenia,808457.36
+1502,2021Q3,Asia,Azerbaijan,1457962.548
+1503,2021Q3,Asia,Bahrain,3982744.8600000003
+1504,2021Q3,Asia,Bangladesh,324206.528
+1505,2021Q3,Asia,Bhutan,801190.924
+1506,2021Q3,Asia,Brunei,6606451.092
+1507,2021Q3,Asia,Cambodia,335346.44
+1508,2021Q3,Asia,China,1408401.504
+1509,2021Q3,Asia,Georgia,896547.2679999999
+1510,2021Q3,Asia,Hong Kong,5157052.64
+1511,2021Q3,Asia,India,591254.008
+1512,2021Q3,Asia,Indonesia,1029364.4480000001
+1513,2021Q3,Asia,Iran,1755601.0399999998
+1514,2021Q3,Asia,Iraq,1441086.712
+1515,2021Q3,Asia,Israel,3048173.44
+1516,2021Q3,Asia,Japan,3588204.516
+1517,2021Q3,Asia,Jordan,767049.08
+1518,2021Q3,Asia,Kazakhstan,2213114.096
+1519,2021Q3,Asia,Kuwait,6028809.404
+1520,2021Q3,Asia,Kyrgyzstan,312199.608
+1521,2021Q3,Asia,Laos,588557.12
+1522,2021Q3,Asia,Lebanon,1229815.98
+1523,2021Q3,Asia,Macao,9647290.292
+1524,2021Q3,Asia,Malaysia,2466351.088
+1525,2021Q3,Asia,Maldives,1396892.672
+1526,2021Q3,Asia,Mongolia,1089357.832
+1527,2021Q3,Asia,Myanmar,514426.924
+1528,2021Q3,Asia,Nepal,224737.968
+1529,2021Q3,Asia,North Korea,0.0
+1530,2021Q3,Asia,Northern Cyprus,0.0
+1531,2021Q3,Asia,Oman,3492385.228
+1532,2021Q3,Asia,Pakistan,463193.13599999994
+1533,2021Q3,Asia,Palestine,409390.61600000004
+1534,2021Q3,Asia,Philippines,699125.296
+1535,2021Q3,Asia,Qatar,10758075.200000001
+1536,2021Q3,Asia,Saudi Arabia,4512177.812
+1537,2021Q3,Asia,Singapore,7869255.2360000005
+1538,2021Q3,Asia,South Korea,3306330.4080000003
+1539,2021Q3,Asia,Sri Lanka,1073555.084
+1540,2021Q3,Asia,Syria,0.0
+1541,2021Q3,Asia,Taiwan,0.0
+1542,2021Q3,Asia,Tajikistan,266515.996
+1543,2021Q3,Asia,Thailand,1497545.732
+1544,2021Q3,Asia,Timor,604449.384
+1545,2021Q3,Asia,Turkey,2311899.372
+1546,2021Q3,Asia,Turkmenistan,1507790.1160000002
+1547,2021Q3,Asia,United Arab Emirates,6191000.436
+1548,2021Q3,Asia,Uzbekistan,575285.568
+1549,2021Q3,Asia,Vietnam,567813.328
+1550,2021Q3,Asia,Yemen,136081.524
+1551,2021Q3,Europe,Albania,1085915.652
+1552,2021Q3,Europe,Andorra,0.0
+1553,2021Q3,Europe,Austria,4180175.112
+1554,2021Q3,Europe,Belarus,1579452.9640000002
+1555,2021Q3,Europe,Belgium,3924588.992
+1556,2021Q3,Europe,Bosnia and Herzegovina,1077678.34
+1557,2021Q3,Europe,Bulgaria,1707824.244
+1558,2021Q3,Europe,Croatia,2085621.3239999998
+1559,2021Q3,Europe,Cyprus,2982192.1440000003
+1560,2021Q3,Europe,Czechia,2999743.352
+1561,2021Q3,Europe,Denmark,4294791.38
+1562,2021Q3,Europe,England,0.0
+1563,2021Q3,Europe,Estonia,2712275.184
+1564,2021Q3,Europe,Faeroe Islands,0.0
+1565,2021Q3,Europe,Finland,3733886.332
+1566,2021Q3,Europe,France,3551721.7320000003
+1567,2021Q3,Europe,Germany,4161090.54
+1568,2021Q3,Europe,Gibraltar,0.0
+1569,2021Q3,Europe,Greece,2260843.1440000003
+1570,2021Q3,Europe,Guernsey,0.0
+1571,2021Q3,Europe,Hungary,2463535.612
+1572,2021Q3,Europe,Iceland,4276432.136
+1573,2021Q3,Europe,Ireland,6194846.956
+1574,2021Q3,Europe,Isle of Man,0.0
+1575,2021Q3,Europe,Italy,3240247.728
+1576,2021Q3,Europe,Jersey,0.0
+1577,2021Q3,Europe,Kosovo,901216.7280000001
+1578,2021Q3,Europe,Latvia,2305873.832
+1579,2021Q3,Europe,Liechtenstein,0.0
+1580,2021Q3,Europe,Lithuania,2716232.38
+1581,2021Q3,Europe,Luxembourg,8673572.78
+1582,2021Q3,Europe,Malta,3359225.7159999995
+1583,2021Q3,Europe,Moldova,477477.424
+1584,2021Q3,Europe,Monaco,0.0
+1585,2021Q3,Europe,Montenegro,1509654.496
+1586,2021Q3,Europe,Netherlands,4459474.14
+1587,2021Q3,Europe,North Macedonia,1206231.688
+1588,2021Q3,Europe,Northern Ireland,0.0
+1589,2021Q3,Europe,Norway,5961605.244
+1590,2021Q3,Europe,Poland,2503912.94
+1591,2021Q3,Europe,Portugal,2570194.432
+1592,2021Q3,Europe,Romania,2144814.308
+1593,2021Q3,Europe,Russia,2278467.768
+1594,2021Q3,Europe,San Marino,5231255.24
+1595,2021Q3,Europe,Scotland,0.0
+1596,2021Q3,Europe,Serbia,1292497.052
+1597,2021Q3,Europe,Slovakia,2774273.9839999997
+1598,2021Q3,Europe,Slovenia,2888877.28
+1599,2021Q3,Europe,Spain,3153057.12
+1600,2021Q3,Europe,Sweden,4319334.036
+1601,2021Q3,Europe,Switzerland,5281735.272
+1602,2021Q3,Europe,Ukraine,726284.156
+1603,2021Q3,Europe,United Kingdom,3657298.448
+1604,2021Q3,Europe,Vatican,0.0
+1605,2021Q3,Europe,Wales,0.0
+1606,2021Q3,North America,Anguilla,0.0
+1607,2021Q3,North America,Antigua and Barbuda,1977166.756
+1608,2021Q3,North America,Aruba,3309587.8520000004
+1609,2021Q3,North America,Bahamas,2550041.924
+1610,2021Q3,North America,Barbados,1561982.256
+1611,2021Q3,North America,Belize,719841.304
+1612,2021Q3,North America,Bermuda,4661576.98
+1613,2021Q3,North America,Bonaire Sint Eustatius and Saba,0.0
+1614,2021Q3,North America,British Virgin Islands,0.0
+1615,2021Q3,North America,Canada,4049618.372
+1616,2021Q3,North America,Cayman Islands,4591078.6680000005
+1617,2021Q3,North America,Costa Rica,1428299.54
+1618,2021Q3,North America,Cuba,0.0
+1619,2021Q3,North America,Curacao,0.0
+1620,2021Q3,North America,Dominica,889949.764
+1621,2021Q3,North America,Dominican Republic,1343279.212
+1622,2021Q3,North America,El Salvador,670906.1359999999
+1623,2021Q3,North America,Greenland,0.0
+1624,2021Q3,North America,Grenada,1250636.6840000001
+1625,2021Q3,North America,Guadeloupe,0.0
+1626,2021Q3,North America,Guatemala,682990.336
+1627,2021Q3,North America,Haiti,152091.916
+1628,2021Q3,North America,Honduras,417845.14
+1629,2021Q3,North America,Jamaica,753808.532
+1630,2021Q3,North America,Martinique,0.0
+1631,2021Q3,North America,Mexico,1594955.148
+1632,2021Q3,North America,Montserrat,0.0
+1633,2021Q3,North America,Nicaragua,489572.84800000006
+1634,2021Q3,North America,Panama,2048567.404
+1635,2021Q3,North America,Puerto Rico,3224109.6399999997
+1636,2021Q3,North America,Saint Barthelemy,0.0
+1637,2021Q3,North America,Saint Kitts and Nevis,2268203.42
+1638,2021Q3,North America,Saint Lucia,1191569.188
+1639,2021Q3,North America,Saint Martin (French part),0.0
+1640,2021Q3,North America,Saint Pierre and Miquelon,0.0
+1641,2021Q3,North America,Saint Vincent and the Grenadines,986897.432
+1642,2021Q3,North America,Sint Maarten (Dutch part),3342105.3440000005
+1643,2021Q3,North America,Trinidad and Tobago,2646202.532
+1644,2021Q3,North America,Turks and Caicos Islands,0.0
+1645,2021Q3,North America,United States,4988741.032000001
+1646,2021Q3,North America,United States Virgin Islands,0.0
+1647,2021Q3,Oceania,American Samoa,0.0
+1648,2021Q3,Oceania,Australia,4107681.32
+1649,2021Q3,Oceania,Cook Islands,0.0
+1650,2021Q3,Oceania,Fiji,800673.7000000001
+1651,2021Q3,Oceania,French Polynesia,0.0
+1652,2021Q3,Oceania,Guam,0.0
+1653,2021Q3,Oceania,Kiribati,182264.144
+1654,2021Q3,Oceania,Marshall Islands,351366.58400000003
+1655,2021Q3,Oceania,Micronesia (country),303550.68799999997
+1656,2021Q3,Oceania,Nauru,1186398.42
+1657,2021Q3,Oceania,New Caledonia,0.0
+1658,2021Q3,Oceania,New Zealand,3319897.556
+1659,2021Q3,Oceania,Niue,0.0
+1660,2021Q3,Oceania,Northern Mariana Islands,0.0
+1661,2021Q3,Oceania,Palau,1218117.26
+1662,2021Q3,Oceania,Papua New Guinea,351733.848
+1663,2021Q3,Oceania,Pitcairn,0.0
+1664,2021Q3,Oceania,Samoa,553983.244
+1665,2021Q3,Oceania,Solomon Islands,202944.91599999997
+1666,2021Q3,Oceania,Tokelau,0.0
+1667,2021Q3,Oceania,Tonga,499157.132
+1668,2021Q3,Oceania,Tuvalu,328909.56799999997
+1669,2021Q3,Oceania,Vanuatu,268815.628
+1670,2021Q3,Oceania,Wallis and Futuna,0.0
+1671,2021Q3,South America,Argentina,1741919.444
+1672,2021Q3,South America,Bolivia,633496.2679999999
+1673,2021Q3,South America,Brazil,1297517.584
+1674,2021Q3,South America,Chile,2094567.404
+1675,2021Q3,South America,Colombia,1219455.308
+1676,2021Q3,South America,Ecuador,973538.112
+1677,2021Q3,South America,Falkland Islands,0.0
+1678,2021Q3,South America,French Guiana,0.0
+1679,2021Q3,South America,Guyana,684024.3239999999
+1680,2021Q3,South America,Paraguay,812084.92
+1681,2021Q3,South America,Peru,1125776.952
+1682,2021Q3,South America,Suriname,1266574.948
+1683,2021Q3,South America,Uruguay,1890729.628
+1684,2021Q3,South America,Venezuela,1540542.024
+1685,2021Q4,Africa,Algeria,1280073.188
+1686,2021Q4,Africa,Angola,535393.54
+1687,2021Q4,Africa,Benin,189909.712
+1688,2021Q4,Africa,Botswana,1454278.408
+1689,2021Q4,Africa,Burkina Faso,156685.38400000002
+1690,2021Q4,Africa,Burundi,64604.700000000004
+1691,2021Q4,Africa,Cameroon,309573.192
+1692,2021Q4,Africa,Cape Verde,572474.968
+1693,2021Q4,Africa,Central African Republic,60834.08
+1694,2021Q4,Africa,Chad,162670.076
+1695,2021Q4,Africa,Comoros,130077.88
+1696,2021Q4,Africa,Congo,449089.352
+1697,2021Q4,Africa,Cote d'Ivoire,331292.55199999997
+1698,2021Q4,Africa,Democratic Republic of Congo,74348.236
+1699,2021Q4,Africa,Djibouti,248897.35199999998
+1700,2021Q4,Africa,Egypt,970618.952
+1701,2021Q4,Africa,Equatorial Guinea,2079648.3159999999
+1702,2021Q4,Africa,Eritrea,138962.228
+1703,2021Q4,Africa,Eswatini,711985.7000000001
+1704,2021Q4,Africa,Ethiopia,159153.28399999999
+1705,2021Q4,Africa,Gabon,1523741.996
+1706,2021Q4,Africa,Gambia,143682.564
+1707,2021Q4,Africa,Ghana,388941.96
+1708,2021Q4,Africa,Guinea,183901.19199999998
+1709,2021Q4,Africa,Guinea-Bissau,142478.1
+1710,2021Q4,Africa,Kenya,275358.576
+1711,2021Q4,Africa,Lesotho,262306.076
+1712,2021Q4,Africa,Liberia,69256.496
+1713,2021Q4,Africa,Libya,1645098.8279999997
+1714,2021Q4,Africa,Madagascar,130312.48000000001
+1715,2021Q4,Africa,Malawi,100743.86399999999
+1716,2021Q4,Africa,Mali,185316.152
+1717,2021Q4,Africa,Mauritania,330982.236
+1718,2021Q4,Africa,Mauritius,1866932.5399999998
+1719,2021Q4,Africa,Mayotte,0.0
+1720,2021Q4,Africa,Morocco,688621.196
+1721,2021Q4,Africa,Mozambique,104521.47600000001
+1722,2021Q4,Africa,Namibia,877846.3360000001
+1723,2021Q4,Africa,Niger,85192.0
+1724,2021Q4,Africa,Nigeria,491137.768
+1725,2021Q4,Africa,Reunion,0.0
+1726,2021Q4,Africa,Rwanda,170587.412
+1727,2021Q4,Africa,Saint Helena,0.0
+1728,2021Q4,Africa,Sao Tome and Principe,280849.68799999997
+1729,2021Q4,Africa,Senegal,227293.36
+1730,2021Q4,Africa,Seychelles,2427170.404
+1731,2021Q4,Africa,Sierra Leone,127907.59999999999
+1732,2021Q4,Africa,Somalia,0.0
+1733,2021Q4,Africa,South Africa,1131128.592
+1734,2021Q4,Africa,South Sudan,144429.696
+1735,2021Q4,Africa,Sudan,410918.644
+1736,2021Q4,Africa,Tanzania,246863.968
+1737,2021Q4,Africa,Togo,131542.796
+1738,2021Q4,Africa,Tunisia,998135.324
+1739,2021Q4,Africa,Uganda,156189.04400000002
+1740,2021Q4,Africa,Zambia,339411.092
+1741,2021Q4,Africa,Zimbabwe,174779.30000000002
+1742,2021Q4,Asia,Afghanistan,165966.804
+1743,2021Q4,Asia,Armenia,808457.36
+1744,2021Q4,Asia,Azerbaijan,1457962.548
+1745,2021Q4,Asia,Bahrain,3982744.8600000003
+1746,2021Q4,Asia,Bangladesh,324206.528
+1747,2021Q4,Asia,Bhutan,801190.924
+1748,2021Q4,Asia,Brunei,6606451.092
+1749,2021Q4,Asia,Cambodia,335346.44
+1750,2021Q4,Asia,China,1408401.504
+1751,2021Q4,Asia,Georgia,896547.2679999999
+1752,2021Q4,Asia,Hong Kong,5157052.64
+1753,2021Q4,Asia,India,591254.008
+1754,2021Q4,Asia,Indonesia,1029364.4480000001
+1755,2021Q4,Asia,Iran,1755601.0399999998
+1756,2021Q4,Asia,Iraq,1441086.712
+1757,2021Q4,Asia,Israel,3048173.44
+1758,2021Q4,Asia,Japan,3588204.516
+1759,2021Q4,Asia,Jordan,767049.08
+1760,2021Q4,Asia,Kazakhstan,2213114.096
+1761,2021Q4,Asia,Kuwait,6028809.404
+1762,2021Q4,Asia,Kyrgyzstan,312199.608
+1763,2021Q4,Asia,Laos,588557.12
+1764,2021Q4,Asia,Lebanon,1229815.98
+1765,2021Q4,Asia,Macao,9647290.292
+1766,2021Q4,Asia,Malaysia,2466351.088
+1767,2021Q4,Asia,Maldives,1396892.672
+1768,2021Q4,Asia,Mongolia,1089357.832
+1769,2021Q4,Asia,Myanmar,514426.924
+1770,2021Q4,Asia,Nepal,224737.968
+1771,2021Q4,Asia,North Korea,0.0
+1772,2021Q4,Asia,Northern Cyprus,0.0
+1773,2021Q4,Asia,Oman,3492385.228
+1774,2021Q4,Asia,Pakistan,463193.13599999994
+1775,2021Q4,Asia,Palestine,409390.61600000004
+1776,2021Q4,Asia,Philippines,699125.296
+1777,2021Q4,Asia,Qatar,10758075.200000001
+1778,2021Q4,Asia,Saudi Arabia,4512177.812
+1779,2021Q4,Asia,Singapore,7869255.2360000005
+1780,2021Q4,Asia,South Korea,3306330.4080000003
+1781,2021Q4,Asia,Sri Lanka,1073555.084
+1782,2021Q4,Asia,Syria,0.0
+1783,2021Q4,Asia,Taiwan,0.0
+1784,2021Q4,Asia,Tajikistan,266515.996
+1785,2021Q4,Asia,Thailand,1497545.732
+1786,2021Q4,Asia,Timor,604449.384
+1787,2021Q4,Asia,Turkey,2311899.372
+1788,2021Q4,Asia,Turkmenistan,1507790.1160000002
+1789,2021Q4,Asia,United Arab Emirates,6191000.436
+1790,2021Q4,Asia,Uzbekistan,575285.568
+1791,2021Q4,Asia,Vietnam,567813.328
+1792,2021Q4,Asia,Yemen,136081.524
+1793,2021Q4,Europe,Albania,1085915.652
+1794,2021Q4,Europe,Andorra,0.0
+1795,2021Q4,Europe,Austria,4180175.112
+1796,2021Q4,Europe,Belarus,1579452.9640000002
+1797,2021Q4,Europe,Belgium,3924588.992
+1798,2021Q4,Europe,Bosnia and Herzegovina,1077678.34
+1799,2021Q4,Europe,Bulgaria,1707824.244
+1800,2021Q4,Europe,Croatia,2085621.3239999998
+1801,2021Q4,Europe,Cyprus,2982192.1440000003
+1802,2021Q4,Europe,Czechia,2999743.352
+1803,2021Q4,Europe,Denmark,4294791.38
+1804,2021Q4,Europe,England,0.0
+1805,2021Q4,Europe,Estonia,2712275.184
+1806,2021Q4,Europe,Faeroe Islands,0.0
+1807,2021Q4,Europe,Finland,3733886.332
+1808,2021Q4,Europe,France,3551721.7320000003
+1809,2021Q4,Europe,Germany,4161090.54
+1810,2021Q4,Europe,Gibraltar,0.0
+1811,2021Q4,Europe,Greece,2260843.1440000003
+1812,2021Q4,Europe,Guernsey,0.0
+1813,2021Q4,Europe,Hungary,2463535.612
+1814,2021Q4,Europe,Iceland,4276432.136
+1815,2021Q4,Europe,Ireland,6194846.956
+1816,2021Q4,Europe,Isle of Man,0.0
+1817,2021Q4,Europe,Italy,3240247.728
+1818,2021Q4,Europe,Jersey,0.0
+1819,2021Q4,Europe,Kosovo,901216.7280000001
+1820,2021Q4,Europe,Latvia,2305873.832
+1821,2021Q4,Europe,Liechtenstein,0.0
+1822,2021Q4,Europe,Lithuania,2716232.38
+1823,2021Q4,Europe,Luxembourg,8673572.78
+1824,2021Q4,Europe,Malta,3359225.7159999995
+1825,2021Q4,Europe,Moldova,477477.424
+1826,2021Q4,Europe,Monaco,0.0
+1827,2021Q4,Europe,Montenegro,1509654.496
+1828,2021Q4,Europe,Netherlands,4459474.14
+1829,2021Q4,Europe,North Macedonia,1206231.688
+1830,2021Q4,Europe,Northern Ireland,0.0
+1831,2021Q4,Europe,Norway,5961605.244
+1832,2021Q4,Europe,Poland,2503912.94
+1833,2021Q4,Europe,Portugal,2570194.432
+1834,2021Q4,Europe,Romania,2144814.308
+1835,2021Q4,Europe,Russia,2278467.768
+1836,2021Q4,Europe,San Marino,5231255.24
+1837,2021Q4,Europe,Scotland,0.0
+1838,2021Q4,Europe,Serbia,1292497.052
+1839,2021Q4,Europe,Slovakia,2774273.9839999997
+1840,2021Q4,Europe,Slovenia,2888877.28
+1841,2021Q4,Europe,Spain,3153057.12
+1842,2021Q4,Europe,Sweden,4319334.036
+1843,2021Q4,Europe,Switzerland,5281735.272
+1844,2021Q4,Europe,Ukraine,726284.156
+1845,2021Q4,Europe,United Kingdom,3657298.448
+1846,2021Q4,Europe,Vatican,0.0
+1847,2021Q4,Europe,Wales,0.0
+1848,2021Q4,North America,Anguilla,0.0
+1849,2021Q4,North America,Antigua and Barbuda,1977166.756
+1850,2021Q4,North America,Aruba,3309587.8520000004
+1851,2021Q4,North America,Bahamas,2550041.924
+1852,2021Q4,North America,Barbados,1561982.256
+1853,2021Q4,North America,Belize,719841.304
+1854,2021Q4,North America,Bermuda,4661576.98
+1855,2021Q4,North America,Bonaire Sint Eustatius and Saba,0.0
+1856,2021Q4,North America,British Virgin Islands,0.0
+1857,2021Q4,North America,Canada,4049618.372
+1858,2021Q4,North America,Cayman Islands,4591078.6680000005
+1859,2021Q4,North America,Costa Rica,1428299.54
+1860,2021Q4,North America,Cuba,0.0
+1861,2021Q4,North America,Curacao,0.0
+1862,2021Q4,North America,Dominica,889949.764
+1863,2021Q4,North America,Dominican Republic,1343279.212
+1864,2021Q4,North America,El Salvador,670906.1359999999
+1865,2021Q4,North America,Greenland,0.0
+1866,2021Q4,North America,Grenada,1250636.6840000001
+1867,2021Q4,North America,Guadeloupe,0.0
+1868,2021Q4,North America,Guatemala,682990.336
+1869,2021Q4,North America,Haiti,152091.916
+1870,2021Q4,North America,Honduras,417845.14
+1871,2021Q4,North America,Jamaica,753808.532
+1872,2021Q4,North America,Martinique,0.0
+1873,2021Q4,North America,Mexico,1594955.148
+1874,2021Q4,North America,Montserrat,0.0
+1875,2021Q4,North America,Nicaragua,489572.84800000006
+1876,2021Q4,North America,Panama,2048567.404
+1877,2021Q4,North America,Puerto Rico,3224109.6399999997
+1878,2021Q4,North America,Saint Barthelemy,0.0
+1879,2021Q4,North America,Saint Kitts and Nevis,2268203.42
+1880,2021Q4,North America,Saint Lucia,1191569.188
+1881,2021Q4,North America,Saint Martin (French part),0.0
+1882,2021Q4,North America,Saint Pierre and Miquelon,0.0
+1883,2021Q4,North America,Saint Vincent and the Grenadines,986897.432
+1884,2021Q4,North America,Sint Maarten (Dutch part),3342105.3440000005
+1885,2021Q4,North America,Trinidad and Tobago,2646202.532
+1886,2021Q4,North America,Turks and Caicos Islands,0.0
+1887,2021Q4,North America,United States,4988741.032000001
+1888,2021Q4,North America,United States Virgin Islands,0.0
+1889,2021Q4,Oceania,American Samoa,0.0
+1890,2021Q4,Oceania,Australia,4107681.32
+1891,2021Q4,Oceania,Cook Islands,0.0
+1892,2021Q4,Oceania,Fiji,800673.7000000001
+1893,2021Q4,Oceania,French Polynesia,0.0
+1894,2021Q4,Oceania,Guam,0.0
+1895,2021Q4,Oceania,Kiribati,182264.144
+1896,2021Q4,Oceania,Marshall Islands,351366.58400000003
+1897,2021Q4,Oceania,Micronesia (country),303550.68799999997
+1898,2021Q4,Oceania,Nauru,1186398.42
+1899,2021Q4,Oceania,New Caledonia,0.0
+1900,2021Q4,Oceania,New Zealand,3319897.556
+1901,2021Q4,Oceania,Niue,0.0
+1902,2021Q4,Oceania,Northern Mariana Islands,0.0
+1903,2021Q4,Oceania,Palau,1218117.26
+1904,2021Q4,Oceania,Papua New Guinea,351733.848
+1905,2021Q4,Oceania,Pitcairn,0.0
+1906,2021Q4,Oceania,Samoa,553983.244
+1907,2021Q4,Oceania,Solomon Islands,202944.91599999997
+1908,2021Q4,Oceania,Tokelau,0.0
+1909,2021Q4,Oceania,Tonga,499157.132
+1910,2021Q4,Oceania,Tuvalu,328909.56799999997
+1911,2021Q4,Oceania,Vanuatu,268815.628
+1912,2021Q4,Oceania,Wallis and Futuna,0.0
+1913,2021Q4,South America,Argentina,1741919.444
+1914,2021Q4,South America,Bolivia,633496.2679999999
+1915,2021Q4,South America,Brazil,1297517.584
+1916,2021Q4,South America,Chile,2094567.404
+1917,2021Q4,South America,Colombia,1219455.308
+1918,2021Q4,South America,Ecuador,973538.112
+1919,2021Q4,South America,Falkland Islands,0.0
+1920,2021Q4,South America,French Guiana,0.0
+1921,2021Q4,South America,Guyana,684024.3239999999
+1922,2021Q4,South America,Paraguay,812084.92
+1923,2021Q4,South America,Peru,1125776.952
+1924,2021Q4,South America,Suriname,1266574.948
+1925,2021Q4,South America,Uruguay,1890729.628
+1926,2021Q4,South America,Venezuela,1540542.024
+1927,2022Q1,Africa,Algeria,1252245.51
+1928,2022Q1,Africa,Angola,523754.55
+1929,2022Q1,Africa,Benin,185781.24
+1930,2022Q1,Africa,Botswana,1422663.66
+1931,2022Q1,Africa,Burkina Faso,153279.18000000002
+1932,2022Q1,Africa,Burundi,63200.25
+1933,2022Q1,Africa,Cameroon,302843.33999999997
+1934,2022Q1,Africa,Cape Verde,560029.86
+1935,2022Q1,Africa,Central African Republic,59511.6
+1936,2022Q1,Africa,Chad,159133.77
+1937,2022Q1,Africa,Comoros,127250.1
+1938,2022Q1,Africa,Congo,439326.54
+1939,2022Q1,Africa,Cote d'Ivoire,324090.54
+1940,2022Q1,Africa,Democratic Republic of Congo,72731.97
+1941,2022Q1,Africa,Djibouti,243486.54
+1942,2022Q1,Africa,Egypt,949518.54
+1943,2022Q1,Africa,Equatorial Guinea,2034438.57
+1944,2022Q1,Africa,Eritrea,135941.31
+1945,2022Q1,Africa,Eswatini,696507.75
+1946,2022Q1,Africa,Ethiopia,155693.43
+1947,2022Q1,Africa,Gabon,1490617.17
+1948,2022Q1,Africa,Gambia,140559.03
+1949,2022Q1,Africa,Ghana,380486.7
+1950,2022Q1,Africa,Guinea,179903.34
+1951,2022Q1,Africa,Guinea-Bissau,139380.75
+1952,2022Q1,Africa,Kenya,269372.51999999996
+1953,2022Q1,Africa,Lesotho,256603.77
+1954,2022Q1,Africa,Liberia,67750.92
+1955,2022Q1,Africa,Libya,1609335.8099999998
+1956,2022Q1,Africa,Madagascar,127479.6
+1957,2022Q1,Africa,Malawi,98553.78
+1958,2022Q1,Africa,Mali,181287.54
+1959,2022Q1,Africa,Mauritania,323786.97
+1960,2022Q1,Africa,Mauritius,1826347.0499999998
+1961,2022Q1,Africa,Mayotte,0.0
+1962,2022Q1,Africa,Morocco,673651.17
+1963,2022Q1,Africa,Mozambique,102249.27
+1964,2022Q1,Africa,Namibia,858762.7200000001
+1965,2022Q1,Africa,Niger,83340.0
+1966,2022Q1,Africa,Nigeria,480460.86
+1967,2022Q1,Africa,Reunion,0.0
+1968,2022Q1,Africa,Rwanda,166878.99
+1969,2022Q1,Africa,Saint Helena,0.0
+1970,2022Q1,Africa,Sao Tome and Principe,274744.26
+1971,2022Q1,Africa,Senegal,222352.19999999998
+1972,2022Q1,Africa,Seychelles,2374405.83
+1973,2022Q1,Africa,Sierra Leone,125127.0
+1974,2022Q1,Africa,Somalia,0.0
+1975,2022Q1,Africa,South Africa,1106538.84
+1976,2022Q1,Africa,South Sudan,141289.91999999998
+1977,2022Q1,Africa,Sudan,401985.62999999995
+1978,2022Q1,Africa,Tanzania,241497.36000000002
+1979,2022Q1,Africa,Togo,128683.17000000001
+1980,2022Q1,Africa,Tunisia,976436.7300000001
+1981,2022Q1,Africa,Uganda,152793.63
+1982,2022Q1,Africa,Zambia,332032.59
+1983,2022Q1,Africa,Zimbabwe,170979.75
+1984,2022Q1,Asia,Afghanistan,162358.83000000002
+1985,2022Q1,Asia,Armenia,790882.2
+1986,2022Q1,Asia,Azerbaijan,1426267.71
+1987,2022Q1,Asia,Bahrain,3896163.45
+1988,2022Q1,Asia,Bangladesh,317158.56
+1989,2022Q1,Asia,Bhutan,783773.73
+1990,2022Q1,Asia,Brunei,6462832.590000001
+1991,2022Q1,Asia,Cambodia,328056.3
+1992,2022Q1,Asia,China,1377784.08
+1993,2022Q1,Asia,Georgia,877057.11
+1994,2022Q1,Asia,Hong Kong,5044942.8
+1995,2022Q1,Asia,India,578400.66
+1996,2022Q1,Asia,Indonesia,1006986.9600000001
+1997,2022Q1,Asia,Iran,1717435.7999999998
+1998,2022Q1,Asia,Iraq,1409758.74
+1999,2022Q1,Asia,Israel,2981908.8
+2000,2022Q1,Asia,Japan,3510200.07
+2001,2022Q1,Asia,Jordan,750374.1
+2002,2022Q1,Asia,Kazakhstan,2165002.92
+2003,2022Q1,Asia,Kuwait,5897748.33
+2004,2022Q1,Asia,Kyrgyzstan,305412.66000000003
+2005,2022Q1,Asia,Laos,575762.4
+2006,2022Q1,Asia,Lebanon,1203080.85
+2007,2022Q1,Asia,Macao,9437566.59
+2008,2022Q1,Asia,Malaysia,2412734.7600000002
+2009,2022Q1,Asia,Maldives,1366525.44
+2010,2022Q1,Asia,Mongolia,1065676.14
+2011,2022Q1,Asia,Myanmar,503243.73
+2012,2022Q1,Asia,Nepal,219852.36000000002
+2013,2022Q1,Asia,North Korea,0.0
+2014,2022Q1,Asia,Northern Cyprus,0.0
+2015,2022Q1,Asia,Oman,3416463.81
+2016,2022Q1,Asia,Pakistan,453123.72
+2017,2022Q1,Asia,Palestine,400490.82
+2018,2022Q1,Asia,Philippines,683926.92
+2019,2022Q1,Asia,Qatar,10524204.0
+2020,2022Q1,Asia,Saudi Arabia,4414086.99
+2021,2022Q1,Asia,Singapore,7698184.47
+2022,2022Q1,Asia,South Korea,3234453.66
+2023,2022Q1,Asia,Sri Lanka,1050216.93
+2024,2022Q1,Asia,Syria,0.0
+2025,2022Q1,Asia,Taiwan,0.0
+2026,2022Q1,Asia,Tajikistan,260722.17
+2027,2022Q1,Asia,Thailand,1464990.3900000001
+2028,2022Q1,Asia,Timor,591309.1799999999
+2029,2022Q1,Asia,Turkey,2261640.69
+2030,2022Q1,Asia,Turkmenistan,1475012.07
+2031,2022Q1,Asia,United Arab Emirates,6056413.47
+2032,2022Q1,Asia,Uzbekistan,562779.36
+2033,2022Q1,Asia,Vietnam,555469.56
+2034,2022Q1,Asia,Yemen,133123.22999999998
+2035,2022Q1,Europe,Albania,1062308.79
+2036,2022Q1,Europe,Andorra,0.0
+2037,2022Q1,Europe,Austria,4089301.74
+2038,2022Q1,Europe,Belarus,1545117.03
+2039,2022Q1,Europe,Belgium,3839271.84
+2040,2022Q1,Europe,Bosnia and Herzegovina,1054250.55
+2041,2022Q1,Europe,Bulgaria,1670697.6300000001
+2042,2022Q1,Europe,Croatia,2040281.73
+2043,2022Q1,Europe,Cyprus,2917361.8800000004
+2044,2022Q1,Europe,Czechia,2934531.54
+2045,2022Q1,Europe,Denmark,4201426.35
+2046,2022Q1,Europe,England,0.0
+2047,2022Q1,Europe,Estonia,2653312.68
+2048,2022Q1,Europe,Faeroe Islands,0.0
+2049,2022Q1,Europe,Finland,3652714.8899999997
+2050,2022Q1,Europe,France,3474510.39
+2051,2022Q1,Europe,Germany,4070632.0500000003
+2052,2022Q1,Europe,Gibraltar,0.0
+2053,2022Q1,Europe,Greece,2211694.3800000004
+2054,2022Q1,Europe,Guernsey,0.0
+2055,2022Q1,Europe,Hungary,2409980.49
+2056,2022Q1,Europe,Iceland,4183466.2199999997
+2057,2022Q1,Europe,Ireland,6060176.37
+2058,2022Q1,Europe,Isle of Man,0.0
+2059,2022Q1,Europe,Italy,3169807.56
+2060,2022Q1,Europe,Jersey,0.0
+2061,2022Q1,Europe,Kosovo,881625.06
+2062,2022Q1,Europe,Latvia,2255746.14
+2063,2022Q1,Europe,Liechtenstein,0.0
+2064,2022Q1,Europe,Lithuania,2657183.85
+2065,2022Q1,Europe,Luxembourg,8485016.85
+2066,2022Q1,Europe,Malta,3286199.07
+2067,2022Q1,Europe,Moldova,467097.48
+2068,2022Q1,Europe,Monaco,0.0
+2069,2022Q1,Europe,Montenegro,1476835.92
+2070,2022Q1,Europe,Netherlands,4362529.05
+2071,2022Q1,Europe,North Macedonia,1180009.26
+2072,2022Q1,Europe,Northern Ireland,0.0
+2073,2022Q1,Europe,Norway,5832005.13
+2074,2022Q1,Europe,Poland,2449480.05
+2075,2022Q1,Europe,Portugal,2514320.64
+2076,2022Q1,Europe,Romania,2098187.91
+2077,2022Q1,Europe,Russia,2228935.8600000003
+2078,2022Q1,Europe,San Marino,5117532.3
+2079,2022Q1,Europe,Scotland,0.0
+2080,2022Q1,Europe,Serbia,1264399.29
+2081,2022Q1,Europe,Slovakia,2713963.6799999997
+2082,2022Q1,Europe,Slovenia,2826075.6
+2083,2022Q1,Europe,Spain,3084512.4
+2084,2022Q1,Europe,Sweden,4225435.470000001
+2085,2022Q1,Europe,Switzerland,5166914.9399999995
+2086,2022Q1,Europe,Ukraine,710495.37
+2087,2022Q1,Europe,United Kingdom,3577791.96
+2088,2022Q1,Europe,Vatican,0.0
+2089,2022Q1,Europe,Wales,0.0
+2090,2022Q1,North America,Anguilla,0.0
+2091,2022Q1,North America,Antigua and Barbuda,1934184.8699999999
+2092,2022Q1,North America,Aruba,3237640.29
+2093,2022Q1,North America,Bahamas,2494606.23
+2094,2022Q1,North America,Barbados,1528026.1199999999
+2095,2022Q1,North America,Belize,704192.58
+2096,2022Q1,North America,Bermuda,4560238.350000001
+2097,2022Q1,North America,Bonaire Sint Eustatius and Saba,0.0
+2098,2022Q1,North America,British Virgin Islands,0.0
+2099,2022Q1,North America,Canada,3961583.19
+2100,2022Q1,North America,Cayman Islands,4491272.61
+2101,2022Q1,North America,Costa Rica,1397249.55
+2102,2022Q1,North America,Cuba,0.0
+2103,2022Q1,North America,Curacao,0.0
+2104,2022Q1,North America,Dominica,870603.03
+2105,2022Q1,North America,Dominican Republic,1314077.49
+2106,2022Q1,North America,El Salvador,656321.22
+2107,2022Q1,North America,Greenland,0.0
+2108,2022Q1,North America,Grenada,1223448.93
+2109,2022Q1,North America,Guadeloupe,0.0
+2110,2022Q1,North America,Guatemala,668142.72
+2111,2022Q1,North America,Haiti,148785.57
+2112,2022Q1,North America,Honduras,408761.55
+2113,2022Q1,North America,Jamaica,737421.39
+2114,2022Q1,North America,Martinique,0.0
+2115,2022Q1,North America,Mexico,1560282.2100000002
+2116,2022Q1,North America,Montserrat,0.0
+2117,2022Q1,North America,Nicaragua,478929.96
+2118,2022Q1,North America,Panama,2004033.33
+2119,2022Q1,North America,Puerto Rico,3154020.3
+2120,2022Q1,North America,Saint Barthelemy,0.0
+2121,2022Q1,North America,Saint Kitts and Nevis,2218894.65
+2122,2022Q1,North America,Saint Lucia,1165665.51
+2123,2022Q1,North America,Saint Martin (French part),0.0
+2124,2022Q1,North America,Saint Pierre and Miquelon,0.0
+2125,2022Q1,North America,Saint Vincent and the Grenadines,965443.14
+2126,2022Q1,North America,Sint Maarten (Dutch part),3269450.8800000004
+2127,2022Q1,North America,Trinidad and Tobago,2588676.39
+2128,2022Q1,North America,Turks and Caicos Islands,0.0
+2129,2022Q1,North America,United States,4880290.140000001
+2130,2022Q1,North America,United States Virgin Islands,0.0
+2131,2022Q1,Oceania,American Samoa,0.0
+2132,2022Q1,Oceania,Australia,4018383.9
+2133,2022Q1,Oceania,Cook Islands,0.0
+2134,2022Q1,Oceania,Fiji,783267.75
+2135,2022Q1,Oceania,French Polynesia,0.0
+2136,2022Q1,Oceania,Guam,0.0
+2137,2022Q1,Oceania,Kiribati,178301.88
+2138,2022Q1,Oceania,Marshall Islands,343728.18
+2139,2022Q1,Oceania,Micronesia (country),296951.76
+2140,2022Q1,Oceania,Nauru,1160607.15
+2141,2022Q1,Oceania,New Caledonia,0.0
+2142,2022Q1,Oceania,New Zealand,3247725.87
+2143,2022Q1,Oceania,Niue,0.0
+2144,2022Q1,Oceania,Northern Mariana Islands,0.0
+2145,2022Q1,Oceania,Palau,1191636.45
+2146,2022Q1,Oceania,Papua New Guinea,344087.46
+2147,2022Q1,Oceania,Pitcairn,0.0
+2148,2022Q1,Oceania,Samoa,541940.13
+2149,2022Q1,Oceania,Solomon Islands,198533.06999999998
+2150,2022Q1,Oceania,Tokelau,0.0
+2151,2022Q1,Oceania,Tonga,488305.89
+2152,2022Q1,Oceania,Tuvalu,321759.36
+2153,2022Q1,Oceania,Vanuatu,262971.81
+2154,2022Q1,Oceania,Wallis and Futuna,0.0
+2155,2022Q1,South America,Argentina,1704051.63
+2156,2022Q1,South America,Bolivia,619724.61
+2157,2022Q1,South America,Brazil,1269310.68
+2158,2022Q1,South America,Chile,2049033.33
+2159,2022Q1,South America,Colombia,1192945.4100000001
+2160,2022Q1,South America,Ecuador,952374.24
+2161,2022Q1,South America,Falkland Islands,0.0
+2162,2022Q1,South America,French Guiana,0.0
+2163,2022Q1,South America,Guyana,669154.23
+2164,2022Q1,South America,Paraguay,794430.9
+2165,2022Q1,South America,Peru,1101303.54
+2166,2022Q1,South America,Suriname,1239040.71
+2167,2022Q1,South America,Uruguay,1849626.81
+2168,2022Q1,South America,Venezuela,1507051.98
+2169,2022Q2,Africa,Algeria,1266159.349
+2170,2022Q2,Africa,Angola,529574.045
+2171,2022Q2,Africa,Benin,187845.476
+2172,2022Q2,Africa,Botswana,1438471.034
+2173,2022Q2,Africa,Burkina Faso,154982.282
+2174,2022Q2,Africa,Burundi,63902.475
+2175,2022Q2,Africa,Cameroon,306208.266
+2176,2022Q2,Africa,Cape Verde,566252.414
+2177,2022Q2,Africa,Central African Republic,60172.840000000004
+2178,2022Q2,Africa,Chad,160901.923
+2179,2022Q2,Africa,Comoros,128663.99
+2180,2022Q2,Africa,Congo,444207.946
+2181,2022Q2,Africa,Cote d'Ivoire,327691.546
+2182,2022Q2,Africa,Democratic Republic of Congo,73540.103
+2183,2022Q2,Africa,Djibouti,246191.946
+2184,2022Q2,Africa,Egypt,960068.746
+2185,2022Q2,Africa,Equatorial Guinea,2057043.443
+2186,2022Q2,Africa,Eritrea,137451.769
+2187,2022Q2,Africa,Eswatini,704246.725
+2188,2022Q2,Africa,Ethiopia,157423.357
+2189,2022Q2,Africa,Gabon,1507179.583
+2190,2022Q2,Africa,Gambia,142120.797
+2191,2022Q2,Africa,Ghana,384714.33
+2192,2022Q2,Africa,Guinea,181902.266
+2193,2022Q2,Africa,Guinea-Bissau,140929.425
+2194,2022Q2,Africa,Kenya,272365.548
+2195,2022Q2,Africa,Lesotho,259454.92299999998
+2196,2022Q2,Africa,Liberia,68503.708
+2197,2022Q2,Africa,Libya,1627217.319
+2198,2022Q2,Africa,Madagascar,128896.04000000001
+2199,2022Q2,Africa,Malawi,99648.82199999999
+2200,2022Q2,Africa,Mali,183301.846
+2201,2022Q2,Africa,Mauritania,327384.603
+2202,2022Q2,Africa,Mauritius,1846639.795
+2203,2022Q2,Africa,Mayotte,0.0
+2204,2022Q2,Africa,Morocco,681136.183
+2205,2022Q2,Africa,Mozambique,103385.373
+2206,2022Q2,Africa,Namibia,868304.528
+2207,2022Q2,Africa,Niger,84266.0
+2208,2022Q2,Africa,Nigeria,485799.31399999995
+2209,2022Q2,Africa,Reunion,0.0
+2210,2022Q2,Africa,Rwanda,168733.201
+2211,2022Q2,Africa,Saint Helena,0.0
+2212,2022Q2,Africa,Sao Tome and Principe,277796.974
+2213,2022Q2,Africa,Senegal,224822.78
+2214,2022Q2,Africa,Seychelles,2400788.117
+2215,2022Q2,Africa,Sierra Leone,126517.3
+2216,2022Q2,Africa,Somalia,0.0
+2217,2022Q2,Africa,South Africa,1118833.716
+2218,2022Q2,Africa,South Sudan,142859.808
+2219,2022Q2,Africa,Sudan,406452.137
+2220,2022Q2,Africa,Tanzania,244180.66400000002
+2221,2022Q2,Africa,Togo,130112.98300000001
+2222,2022Q2,Africa,Tunisia,987286.027
+2223,2022Q2,Africa,Uganda,154491.337
+2224,2022Q2,Africa,Western Sahara,0.0
+2225,2022Q2,Africa,Zambia,335721.841
+2226,2022Q2,Africa,Zimbabwe,172879.525
+2227,2022Q2,Asia,Afghanistan,164162.817
+2228,2022Q2,Asia,Armenia,799669.78
+2229,2022Q2,Asia,Azerbaijan,1442115.129
+2230,2022Q2,Asia,Bahrain,3939454.1550000003
+2231,2022Q2,Asia,Bangladesh,320682.544
+2232,2022Q2,Asia,Bhutan,792482.3269999999
+2233,2022Q2,Asia,Brunei,6534641.841
+2234,2022Q2,Asia,Cambodia,331701.37
+2235,2022Q2,Asia,China,1393092.792
+2236,2022Q2,Asia,Georgia,886802.189
+2237,2022Q2,Asia,Hong Kong,5100997.72
+2238,2022Q2,Asia,India,584827.334
+2239,2022Q2,Asia,Indonesia,1018175.704
+2240,2022Q2,Asia,Iran,1736518.42
+2241,2022Q2,Asia,Iraq,1425422.726
+2242,2022Q2,Asia,Israel,3015041.12
+2243,2022Q2,Asia,Japan,3549202.2929999996
+2244,2022Q2,Asia,Jordan,758711.59
+2245,2022Q2,Asia,Kazakhstan,2189058.508
+2246,2022Q2,Asia,Kuwait,5963278.867
+2247,2022Q2,Asia,Kyrgyzstan,308806.134
+2248,2022Q2,Asia,Laos,582159.76
+2249,2022Q2,Asia,Lebanon,1216448.415
+2250,2022Q2,Asia,Macao,9542428.441
+2251,2022Q2,Asia,Malaysia,2439542.924
+2252,2022Q2,Asia,Maldives,1381709.056
+2253,2022Q2,Asia,Mongolia,1077516.986
+2254,2022Q2,Asia,Myanmar,508835.327
+2255,2022Q2,Asia,Nepal,222295.16400000002
+2256,2022Q2,Asia,North Korea,0.0
+2257,2022Q2,Asia,Northern Cyprus,0.0
+2258,2022Q2,Asia,Oman,3454424.5190000003
+2259,2022Q2,Asia,Pakistan,458158.42799999996
+2260,2022Q2,Asia,Palestine,404940.718
+2261,2022Q2,Asia,Philippines,691526.108
+2262,2022Q2,Asia,Qatar,10641139.6
+2263,2022Q2,Asia,Saudi Arabia,4463132.401
+2264,2022Q2,Asia,Singapore,7783719.853
+2265,2022Q2,Asia,South Korea,3270392.0340000005
+2266,2022Q2,Asia,Sri Lanka,1061886.007
+2267,2022Q2,Asia,Syria,0.0
+2268,2022Q2,Asia,Taiwan,0.0
+2269,2022Q2,Asia,Tajikistan,263619.083
+2270,2022Q2,Asia,Thailand,1481268.061
+2271,2022Q2,Asia,Timor,597879.282
+2272,2022Q2,Asia,Turkey,2286770.031
+2273,2022Q2,Asia,Turkmenistan,1491401.093
+2274,2022Q2,Asia,United Arab Emirates,6123706.953
+2275,2022Q2,Asia,Uzbekistan,569032.464
+2276,2022Q2,Asia,Vietnam,561641.444
+2277,2022Q2,Asia,Yemen,134602.377
+2278,2022Q2,Europe,Albania,1074112.2210000001
+2279,2022Q2,Europe,Andorra,0.0
+2280,2022Q2,Europe,Austria,4134738.426
+2281,2022Q2,Europe,Belarus,1562284.997
+2282,2022Q2,Europe,Belgium,3881930.416
+2283,2022Q2,Europe,Bosnia and Herzegovina,1065964.445
+2284,2022Q2,Europe,Bulgaria,1689260.9370000002
+2285,2022Q2,Europe,Croatia,2062951.5269999998
+2286,2022Q2,Europe,Cyprus,2949777.012
+2287,2022Q2,Europe,Czechia,2967137.446
+2288,2022Q2,Europe,Denmark,4248108.865
+2289,2022Q2,Europe,England,0.0
+2290,2022Q2,Europe,Estonia,2682793.932
+2291,2022Q2,Europe,Faeroe Islands,0.0
+2292,2022Q2,Europe,Finland,3693300.6109999996
+2293,2022Q2,Europe,France,3513116.061
+2294,2022Q2,Europe,Germany,4115861.2950000004
+2295,2022Q2,Europe,Gibraltar,0.0
+2296,2022Q2,Europe,Greece,2236268.762
+2297,2022Q2,Europe,Guernsey,0.0
+2298,2022Q2,Europe,Hungary,2436758.051
+2299,2022Q2,Europe,Iceland,4229949.178
+2300,2022Q2,Europe,Ireland,6127511.663000001
+2301,2022Q2,Europe,Isle of Man,0.0
+2302,2022Q2,Europe,Italy,3205027.6440000003
+2303,2022Q2,Europe,Jersey,0.0
+2304,2022Q2,Europe,Kosovo,891420.8940000001
+2305,2022Q2,Europe,Latvia,2280809.986
+2306,2022Q2,Europe,Liechtenstein,0.0
+2307,2022Q2,Europe,Lithuania,2686708.1149999998
+2308,2022Q2,Europe,Luxembourg,8579294.815
+2309,2022Q2,Europe,Malta,3322712.3929999997
+2310,2022Q2,Europe,Moldova,472287.452
+2311,2022Q2,Europe,Monaco,0.0
+2312,2022Q2,Europe,Montenegro,1493245.208
+2313,2022Q2,Europe,Netherlands,4411001.595
+2314,2022Q2,Europe,North Macedonia,1193120.474
+2315,2022Q2,Europe,Northern Ireland,0.0
+2316,2022Q2,Europe,Norway,5896805.187
+2317,2022Q2,Europe,Poland,2476696.495
+2318,2022Q2,Europe,Portugal,2542257.536
+2319,2022Q2,Europe,Romania,2121501.109
+2320,2022Q2,Europe,Russia,2253701.8140000002
+2321,2022Q2,Europe,San Marino,5174393.7700000005
+2322,2022Q2,Europe,Scotland,0.0
+2323,2022Q2,Europe,Serbia,1278448.1709999999
+2324,2022Q2,Europe,Slovakia,2744118.832
+2325,2022Q2,Europe,Slovenia,2857476.44
+2326,2022Q2,Europe,Spain,3118784.7600000002
+2327,2022Q2,Europe,Sweden,4272384.7530000005
+2328,2022Q2,Europe,Switzerland,5224325.106
+2329,2022Q2,Europe,Ukraine,718389.763
+2330,2022Q2,Europe,United Kingdom,3617545.204
+2331,2022Q2,Europe,Vatican,0.0
+2332,2022Q2,Europe,Wales,0.0
+2333,2022Q2,North America,Anguilla,0.0
+2334,2022Q2,North America,Antigua and Barbuda,1955675.8129999998
+2335,2022Q2,North America,Aruba,3273614.0710000005
+2336,2022Q2,North America,Bahamas,2522324.077
+2337,2022Q2,North America,Barbados,1545004.1879999998
+2338,2022Q2,North America,Belize,712016.942
+2339,2022Q2,North America,Bermuda,4610907.665
+2340,2022Q2,North America,Bonaire Sint Eustatius and Saba,0.0
+2341,2022Q2,North America,British Virgin Islands,0.0
+2342,2022Q2,North America,Canada,4005600.781
+2343,2022Q2,North America,Cayman Islands,4541175.639
+2344,2022Q2,North America,Costa Rica,1412774.5450000002
+2345,2022Q2,North America,Cuba,0.0
+2346,2022Q2,North America,Curacao,0.0
+2347,2022Q2,North America,Dominica,880276.397
+2348,2022Q2,North America,Dominican Republic,1328678.351
+2349,2022Q2,North America,El Salvador,663613.678
+2350,2022Q2,North America,Greenland,0.0
+2351,2022Q2,North America,Grenada,1237042.807
+2352,2022Q2,North America,Guadeloupe,0.0
+2353,2022Q2,North America,Guatemala,675566.528
+2354,2022Q2,North America,Haiti,150438.743
+2355,2022Q2,North America,Honduras,413303.34500000003
+2356,2022Q2,North America,Jamaica,745614.961
+2357,2022Q2,North America,Martinique,0.0
+2358,2022Q2,North America,Mexico,1577618.679
+2359,2022Q2,North America,Montserrat,0.0
+2360,2022Q2,North America,Nicaragua,484251.40400000004
+2361,2022Q2,North America,Panama,2026300.367
+2362,2022Q2,North America,Puerto Rico,3189064.9699999997
+2363,2022Q2,North America,Saint Barthelemy,0.0
+2364,2022Q2,North America,Saint Kitts and Nevis,2243549.0349999997
+2365,2022Q2,North America,Saint Lucia,1178617.349
+2366,2022Q2,North America,Saint Martin (French part),0.0
+2367,2022Q2,North America,Saint Pierre and Miquelon,0.0
+2368,2022Q2,North America,Saint Vincent and the Grenadines,976170.2860000001
+2369,2022Q2,North America,Sint Maarten (Dutch part),3305778.112
+2370,2022Q2,North America,Trinidad and Tobago,2617439.461
+2371,2022Q2,North America,Turks and Caicos Islands,0.0
+2372,2022Q2,North America,United States,4934515.586
+2373,2022Q2,North America,United States Virgin Islands,0.0
+2374,2022Q2,Oceania,American Samoa,0.0
+2375,2022Q2,Oceania,Australia,4063032.61
+2376,2022Q2,Oceania,Cook Islands,0.0
+2377,2022Q2,Oceania,Fiji,791970.725
+2378,2022Q2,Oceania,French Polynesia,0.0
+2379,2022Q2,Oceania,Guam,0.0
+2380,2022Q2,Oceania,Kiribati,180283.01200000002
+2381,2022Q2,Oceania,Marshall Islands,347547.38200000004
+2382,2022Q2,Oceania,Micronesia (country),300251.224
+2383,2022Q2,Oceania,Nauru,1173502.785
+2384,2022Q2,Oceania,New Caledonia,0.0
+2385,2022Q2,Oceania,New Zealand,3283811.713
+2386,2022Q2,Oceania,Niue,0.0
+2387,2022Q2,Oceania,Northern Mariana Islands,0.0
+2388,2022Q2,Oceania,Palau,1204876.855
+2389,2022Q2,Oceania,Papua New Guinea,347910.654
+2390,2022Q2,Oceania,Pitcairn,0.0
+2391,2022Q2,Oceania,Samoa,547961.687
+2392,2022Q2,Oceania,Solomon Islands,200738.993
+2393,2022Q2,Oceania,Tokelau,0.0
+2394,2022Q2,Oceania,Tonga,493731.511
+2395,2022Q2,Oceania,Tuvalu,325334.464
+2396,2022Q2,Oceania,Vanuatu,265893.719
+2397,2022Q2,Oceania,Wallis and Futuna,0.0
+2398,2022Q2,South America,Argentina,1722985.537
+2399,2022Q2,South America,Bolivia,626610.439
+2400,2022Q2,South America,Brazil,1283414.132
+2401,2022Q2,South America,Chile,2071800.367
+2402,2022Q2,South America,Colombia,1206200.359
+2403,2022Q2,South America,Ecuador,962956.176
+2404,2022Q2,South America,Falkland Islands,0.0
+2405,2022Q2,South America,French Guiana,0.0
+2406,2022Q2,South America,Guyana,676589.277
+2407,2022Q2,South America,Paraguay,803257.91
+2408,2022Q2,South America,Peru,1113540.246
+2409,2022Q2,South America,Suriname,1252807.8290000001
+2410,2022Q2,South America,Uruguay,1870178.219
+2411,2022Q2,South America,Venezuela,1523797.002
+2412,2022Q3,Africa,Algeria,1280073.188
+2413,2022Q3,Africa,Angola,535393.54
+2414,2022Q3,Africa,Benin,189909.712
+2415,2022Q3,Africa,Botswana,1454278.408
+2416,2022Q3,Africa,Burkina Faso,156685.38400000002
+2417,2022Q3,Africa,Burundi,64604.700000000004
+2418,2022Q3,Africa,Cameroon,309573.192
+2419,2022Q3,Africa,Cape Verde,572474.968
+2420,2022Q3,Africa,Central African Republic,60834.08
+2421,2022Q3,Africa,Chad,162670.076
+2422,2022Q3,Africa,Comoros,130077.88
+2423,2022Q3,Africa,Congo,449089.352
+2424,2022Q3,Africa,Cote d'Ivoire,331292.55199999997
+2425,2022Q3,Africa,Democratic Republic of Congo,74348.236
+2426,2022Q3,Africa,Djibouti,248897.35199999998
+2427,2022Q3,Africa,Egypt,970618.952
+2428,2022Q3,Africa,Equatorial Guinea,2079648.3159999999
+2429,2022Q3,Africa,Eritrea,138962.228
+2430,2022Q3,Africa,Eswatini,711985.7000000001
+2431,2022Q3,Africa,Ethiopia,159153.28399999999
+2432,2022Q3,Africa,Gabon,1523741.996
+2433,2022Q3,Africa,Gambia,143682.564
+2434,2022Q3,Africa,Ghana,388941.96
+2435,2022Q3,Africa,Guinea,183901.19199999998
+2436,2022Q3,Africa,Guinea-Bissau,142478.1
+2437,2022Q3,Africa,Kenya,275358.576
+2438,2022Q3,Africa,Lesotho,262306.076
+2439,2022Q3,Africa,Liberia,69256.496
+2440,2022Q3,Africa,Libya,1645098.8279999997
+2441,2022Q3,Africa,Madagascar,130312.48000000001
+2442,2022Q3,Africa,Malawi,100743.86399999999
+2443,2022Q3,Africa,Mali,185316.152
+2444,2022Q3,Africa,Mauritania,330982.236
+2445,2022Q3,Africa,Mauritius,1866932.5399999998
+2446,2022Q3,Africa,Mayotte,0.0
+2447,2022Q3,Africa,Morocco,688621.196
+2448,2022Q3,Africa,Mozambique,104521.47600000001
+2449,2022Q3,Africa,Namibia,877846.3360000001
+2450,2022Q3,Africa,Niger,85192.0
+2451,2022Q3,Africa,Nigeria,491137.768
+2452,2022Q3,Africa,Reunion,0.0
+2453,2022Q3,Africa,Rwanda,170587.412
+2454,2022Q3,Africa,Saint Helena,0.0
+2455,2022Q3,Africa,Sao Tome and Principe,280849.68799999997
+2456,2022Q3,Africa,Senegal,227293.36
+2457,2022Q3,Africa,Seychelles,2427170.404
+2458,2022Q3,Africa,Sierra Leone,127907.59999999999
+2459,2022Q3,Africa,Somalia,0.0
+2460,2022Q3,Africa,South Africa,1131128.592
+2461,2022Q3,Africa,South Sudan,144429.696
+2462,2022Q3,Africa,Sudan,410918.644
+2463,2022Q3,Africa,Tanzania,246863.968
+2464,2022Q3,Africa,Togo,131542.796
+2465,2022Q3,Africa,Tunisia,998135.324
+2466,2022Q3,Africa,Uganda,156189.04400000002
+2467,2022Q3,Africa,Zambia,339411.092
+2468,2022Q3,Africa,Zimbabwe,174779.30000000002
+2469,2022Q3,Asia,Afghanistan,165966.804
+2470,2022Q3,Asia,Armenia,808457.36
+2471,2022Q3,Asia,Azerbaijan,1457962.548
+2472,2022Q3,Asia,Bahrain,3982744.8600000003
+2473,2022Q3,Asia,Bangladesh,324206.528
+2474,2022Q3,Asia,Bhutan,801190.924
+2475,2022Q3,Asia,Brunei,6606451.092
+2476,2022Q3,Asia,Cambodia,335346.44
+2477,2022Q3,Asia,China,1408401.504
+2478,2022Q3,Asia,Georgia,896547.2679999999
+2479,2022Q3,Asia,Hong Kong,5157052.64
+2480,2022Q3,Asia,India,591254.008
+2481,2022Q3,Asia,Indonesia,1029364.4480000001
+2482,2022Q3,Asia,Iran,1755601.0399999998
+2483,2022Q3,Asia,Iraq,1441086.712
+2484,2022Q3,Asia,Israel,3048173.44
+2485,2022Q3,Asia,Japan,3588204.516
+2486,2022Q3,Asia,Jordan,767049.08
+2487,2022Q3,Asia,Kazakhstan,2213114.096
+2488,2022Q3,Asia,Kuwait,6028809.404
+2489,2022Q3,Asia,Kyrgyzstan,312199.608
+2490,2022Q3,Asia,Laos,588557.12
+2491,2022Q3,Asia,Lebanon,1229815.98
+2492,2022Q3,Asia,Macao,9647290.292
+2493,2022Q3,Asia,Malaysia,2466351.088
+2494,2022Q3,Asia,Maldives,1396892.672
+2495,2022Q3,Asia,Mongolia,1089357.832
+2496,2022Q3,Asia,Myanmar,514426.924
+2497,2022Q3,Asia,Nepal,224737.968
+2498,2022Q3,Asia,North Korea,0.0
+2499,2022Q3,Asia,Northern Cyprus,0.0
+2500,2022Q3,Asia,Oman,3492385.228
+2501,2022Q3,Asia,Pakistan,463193.13599999994
+2502,2022Q3,Asia,Palestine,409390.61600000004
+2503,2022Q3,Asia,Philippines,699125.296
+2504,2022Q3,Asia,Qatar,10758075.200000001
+2505,2022Q3,Asia,Saudi Arabia,4512177.812
+2506,2022Q3,Asia,Singapore,7869255.2360000005
+2507,2022Q3,Asia,South Korea,3306330.4080000003
+2508,2022Q3,Asia,Sri Lanka,1073555.084
+2509,2022Q3,Asia,Syria,0.0
+2510,2022Q3,Asia,Taiwan,0.0
+2511,2022Q3,Asia,Tajikistan,266515.996
+2512,2022Q3,Asia,Thailand,1497545.732
+2513,2022Q3,Asia,Timor,604449.384
+2514,2022Q3,Asia,Turkey,2311899.372
+2515,2022Q3,Asia,Turkmenistan,1507790.1160000002
+2516,2022Q3,Asia,United Arab Emirates,6191000.436
+2517,2022Q3,Asia,Uzbekistan,575285.568
+2518,2022Q3,Asia,Vietnam,567813.328
+2519,2022Q3,Asia,Yemen,136081.524
+2520,2022Q3,Europe,Albania,1085915.652
+2521,2022Q3,Europe,Andorra,0.0
+2522,2022Q3,Europe,Austria,4180175.112
+2523,2022Q3,Europe,Belarus,1579452.9640000002
+2524,2022Q3,Europe,Belgium,3924588.992
+2525,2022Q3,Europe,Bosnia and Herzegovina,1077678.34
+2526,2022Q3,Europe,Bulgaria,1707824.244
+2527,2022Q3,Europe,Croatia,2085621.3239999998
+2528,2022Q3,Europe,Cyprus,2982192.1440000003
+2529,2022Q3,Europe,Czechia,2999743.352
+2530,2022Q3,Europe,Denmark,4294791.38
+2531,2022Q3,Europe,England,0.0
+2532,2022Q3,Europe,Estonia,2712275.184
+2533,2022Q3,Europe,Faeroe Islands,0.0
+2534,2022Q3,Europe,Finland,3733886.332
+2535,2022Q3,Europe,France,3551721.7320000003
+2536,2022Q3,Europe,Germany,4161090.54
+2537,2022Q3,Europe,Gibraltar,0.0
+2538,2022Q3,Europe,Greece,2260843.1440000003
+2539,2022Q3,Europe,Guernsey,0.0
+2540,2022Q3,Europe,Hungary,2463535.612
+2541,2022Q3,Europe,Iceland,4276432.136
+2542,2022Q3,Europe,Ireland,6194846.956
+2543,2022Q3,Europe,Isle of Man,0.0
+2544,2022Q3,Europe,Italy,3240247.728
+2545,2022Q3,Europe,Jersey,0.0
+2546,2022Q3,Europe,Kosovo,901216.7280000001
+2547,2022Q3,Europe,Latvia,2305873.832
+2548,2022Q3,Europe,Liechtenstein,0.0
+2549,2022Q3,Europe,Lithuania,2716232.38
+2550,2022Q3,Europe,Luxembourg,8673572.78
+2551,2022Q3,Europe,Malta,3359225.7159999995
+2552,2022Q3,Europe,Moldova,477477.424
+2553,2022Q3,Europe,Monaco,0.0
+2554,2022Q3,Europe,Montenegro,1509654.496
+2555,2022Q3,Europe,Netherlands,4459474.14
+2556,2022Q3,Europe,North Macedonia,1206231.688
+2557,2022Q3,Europe,Northern Ireland,0.0
+2558,2022Q3,Europe,Norway,5961605.244
+2559,2022Q3,Europe,Poland,2503912.94
+2560,2022Q3,Europe,Portugal,2570194.432
+2561,2022Q3,Europe,Romania,2144814.308
+2562,2022Q3,Europe,Russia,2278467.768
+2563,2022Q3,Europe,San Marino,5231255.24
+2564,2022Q3,Europe,Scotland,0.0
+2565,2022Q3,Europe,Serbia,1292497.052
+2566,2022Q3,Europe,Slovakia,2774273.9839999997
+2567,2022Q3,Europe,Slovenia,2888877.28
+2568,2022Q3,Europe,Spain,3153057.12
+2569,2022Q3,Europe,Sweden,4319334.036
+2570,2022Q3,Europe,Switzerland,5281735.272
+2571,2022Q3,Europe,Ukraine,726284.156
+2572,2022Q3,Europe,United Kingdom,3657298.448
+2573,2022Q3,Europe,Vatican,0.0
+2574,2022Q3,Europe,Wales,0.0
+2575,2022Q3,North America,Anguilla,0.0
+2576,2022Q3,North America,Antigua and Barbuda,1977166.756
+2577,2022Q3,North America,Aruba,3309587.8520000004
+2578,2022Q3,North America,Bahamas,2550041.924
+2579,2022Q3,North America,Barbados,1561982.256
+2580,2022Q3,North America,Belize,719841.304
+2581,2022Q3,North America,Bermuda,4661576.98
+2582,2022Q3,North America,Bonaire Sint Eustatius and Saba,0.0
+2583,2022Q3,North America,British Virgin Islands,0.0
+2584,2022Q3,North America,Canada,4049618.372
+2585,2022Q3,North America,Cayman Islands,4591078.6680000005
+2586,2022Q3,North America,Costa Rica,1428299.54
+2587,2022Q3,North America,Cuba,0.0
+2588,2022Q3,North America,Curacao,0.0
+2589,2022Q3,North America,Dominica,889949.764
+2590,2022Q3,North America,Dominican Republic,1343279.212
+2591,2022Q3,North America,El Salvador,670906.1359999999
+2592,2022Q3,North America,Greenland,0.0
+2593,2022Q3,North America,Grenada,1250636.6840000001
+2594,2022Q3,North America,Guadeloupe,0.0
+2595,2022Q3,North America,Guatemala,682990.336
+2596,2022Q3,North America,Haiti,152091.916
+2597,2022Q3,North America,Honduras,417845.14
+2598,2022Q3,North America,Jamaica,753808.532
+2599,2022Q3,North America,Martinique,0.0
+2600,2022Q3,North America,Mexico,1594955.148
+2601,2022Q3,North America,Montserrat,0.0
+2602,2022Q3,North America,Nicaragua,489572.84800000006
+2603,2022Q3,North America,Panama,2048567.404
+2604,2022Q3,North America,Puerto Rico,3224109.6399999997
+2605,2022Q3,North America,Saint Barthelemy,0.0
+2606,2022Q3,North America,Saint Kitts and Nevis,2268203.42
+2607,2022Q3,North America,Saint Lucia,1191569.188
+2608,2022Q3,North America,Saint Martin (French part),0.0
+2609,2022Q3,North America,Saint Pierre and Miquelon,0.0
+2610,2022Q3,North America,Saint Vincent and the Grenadines,986897.432
+2611,2022Q3,North America,Sint Maarten (Dutch part),3342105.3440000005
+2612,2022Q3,North America,Trinidad and Tobago,2646202.532
+2613,2022Q3,North America,Turks and Caicos Islands,0.0
+2614,2022Q3,North America,United States,4988741.032000001
+2615,2022Q3,North America,United States Virgin Islands,0.0
+2616,2022Q3,Oceania,American Samoa,0.0
+2617,2022Q3,Oceania,Australia,4107681.32
+2618,2022Q3,Oceania,Cook Islands,0.0
+2619,2022Q3,Oceania,Fiji,800673.7000000001
+2620,2022Q3,Oceania,French Polynesia,0.0
+2621,2022Q3,Oceania,Guam,0.0
+2622,2022Q3,Oceania,Kiribati,182264.144
+2623,2022Q3,Oceania,Marshall Islands,351366.58400000003
+2624,2022Q3,Oceania,Micronesia (country),303550.68799999997
+2625,2022Q3,Oceania,Nauru,1186398.42
+2626,2022Q3,Oceania,New Caledonia,0.0
+2627,2022Q3,Oceania,New Zealand,3319897.556
+2628,2022Q3,Oceania,Niue,0.0
+2629,2022Q3,Oceania,Northern Mariana Islands,0.0
+2630,2022Q3,Oceania,Palau,1218117.26
+2631,2022Q3,Oceania,Papua New Guinea,351733.848
+2632,2022Q3,Oceania,Pitcairn,0.0
+2633,2022Q3,Oceania,Samoa,553983.244
+2634,2022Q3,Oceania,Solomon Islands,202944.91599999997
+2635,2022Q3,Oceania,Tokelau,0.0
+2636,2022Q3,Oceania,Tonga,499157.132
+2637,2022Q3,Oceania,Tuvalu,328909.56799999997
+2638,2022Q3,Oceania,Vanuatu,268815.628
+2639,2022Q3,Oceania,Wallis and Futuna,0.0
+2640,2022Q3,South America,Argentina,1741919.444
+2641,2022Q3,South America,Bolivia,633496.2679999999
+2642,2022Q3,South America,Brazil,1297517.584
+2643,2022Q3,South America,Chile,2094567.404
+2644,2022Q3,South America,Colombia,1219455.308
+2645,2022Q3,South America,Ecuador,973538.112
+2646,2022Q3,South America,Falkland Islands,0.0
+2647,2022Q3,South America,French Guiana,0.0
+2648,2022Q3,South America,Guyana,684024.3239999999
+2649,2022Q3,South America,Paraguay,812084.92
+2650,2022Q3,South America,Peru,1125776.952
+2651,2022Q3,South America,Suriname,1266574.948
+2652,2022Q3,South America,Uruguay,1890729.628
+2653,2022Q3,South America,Venezuela,1540542.024
+2654,2022Q4,Africa,Algeria,1280073.188
+2655,2022Q4,Africa,Angola,535393.54
+2656,2022Q4,Africa,Benin,189909.712
+2657,2022Q4,Africa,Botswana,1454278.408
+2658,2022Q4,Africa,Burkina Faso,156685.38400000002
+2659,2022Q4,Africa,Burundi,64604.700000000004
+2660,2022Q4,Africa,Cameroon,309573.192
+2661,2022Q4,Africa,Cape Verde,572474.968
+2662,2022Q4,Africa,Central African Republic,60834.08
+2663,2022Q4,Africa,Chad,162670.076
+2664,2022Q4,Africa,Comoros,130077.88
+2665,2022Q4,Africa,Congo,449089.352
+2666,2022Q4,Africa,Cote d'Ivoire,331292.55199999997
+2667,2022Q4,Africa,Democratic Republic of Congo,74348.236
+2668,2022Q4,Africa,Djibouti,248897.35199999998
+2669,2022Q4,Africa,Egypt,970618.952
+2670,2022Q4,Africa,Equatorial Guinea,2079648.3159999999
+2671,2022Q4,Africa,Eritrea,138962.228
+2672,2022Q4,Africa,Eswatini,711985.7000000001
+2673,2022Q4,Africa,Ethiopia,159153.28399999999
+2674,2022Q4,Africa,Gabon,1523741.996
+2675,2022Q4,Africa,Gambia,143682.564
+2676,2022Q4,Africa,Ghana,388941.96
+2677,2022Q4,Africa,Guinea,183901.19199999998
+2678,2022Q4,Africa,Guinea-Bissau,142478.1
+2679,2022Q4,Africa,Kenya,275358.576
+2680,2022Q4,Africa,Lesotho,262306.076
+2681,2022Q4,Africa,Liberia,69256.496
+2682,2022Q4,Africa,Libya,1645098.8279999997
+2683,2022Q4,Africa,Madagascar,130312.48000000001
+2684,2022Q4,Africa,Malawi,100743.86399999999
+2685,2022Q4,Africa,Mali,185316.152
+2686,2022Q4,Africa,Mauritania,330982.236
+2687,2022Q4,Africa,Mauritius,1866932.5399999998
+2688,2022Q4,Africa,Mayotte,0.0
+2689,2022Q4,Africa,Morocco,688621.196
+2690,2022Q4,Africa,Mozambique,104521.47600000001
+2691,2022Q4,Africa,Namibia,877846.3360000001
+2692,2022Q4,Africa,Niger,85192.0
+2693,2022Q4,Africa,Nigeria,491137.768
+2694,2022Q4,Africa,Reunion,0.0
+2695,2022Q4,Africa,Rwanda,170587.412
+2696,2022Q4,Africa,Saint Helena,0.0
+2697,2022Q4,Africa,Sao Tome and Principe,280849.68799999997
+2698,2022Q4,Africa,Senegal,227293.36
+2699,2022Q4,Africa,Seychelles,2427170.404
+2700,2022Q4,Africa,Sierra Leone,127907.59999999999
+2701,2022Q4,Africa,Somalia,0.0
+2702,2022Q4,Africa,South Africa,1131128.592
+2703,2022Q4,Africa,South Sudan,144429.696
+2704,2022Q4,Africa,Sudan,410918.644
+2705,2022Q4,Africa,Tanzania,246863.968
+2706,2022Q4,Africa,Togo,131542.796
+2707,2022Q4,Africa,Tunisia,998135.324
+2708,2022Q4,Africa,Uganda,156189.04400000002
+2709,2022Q4,Africa,Zambia,339411.092
+2710,2022Q4,Africa,Zimbabwe,174779.30000000002
+2711,2022Q4,Asia,Afghanistan,165966.804
+2712,2022Q4,Asia,Armenia,808457.36
+2713,2022Q4,Asia,Azerbaijan,1457962.548
+2714,2022Q4,Asia,Bahrain,3982744.8600000003
+2715,2022Q4,Asia,Bangladesh,324206.528
+2716,2022Q4,Asia,Bhutan,801190.924
+2717,2022Q4,Asia,Brunei,6606451.092
+2718,2022Q4,Asia,Cambodia,335346.44
+2719,2022Q4,Asia,China,1408401.504
+2720,2022Q4,Asia,Georgia,896547.2679999999
+2721,2022Q4,Asia,Hong Kong,5157052.64
+2722,2022Q4,Asia,India,591254.008
+2723,2022Q4,Asia,Indonesia,1029364.4480000001
+2724,2022Q4,Asia,Iran,1755601.0399999998
+2725,2022Q4,Asia,Iraq,1441086.712
+2726,2022Q4,Asia,Israel,3048173.44
+2727,2022Q4,Asia,Japan,3588204.516
+2728,2022Q4,Asia,Jordan,767049.08
+2729,2022Q4,Asia,Kazakhstan,2213114.096
+2730,2022Q4,Asia,Kuwait,6028809.404
+2731,2022Q4,Asia,Kyrgyzstan,312199.608
+2732,2022Q4,Asia,Laos,588557.12
+2733,2022Q4,Asia,Lebanon,1229815.98
+2734,2022Q4,Asia,Macao,9647290.292
+2735,2022Q4,Asia,Malaysia,2466351.088
+2736,2022Q4,Asia,Maldives,1396892.672
+2737,2022Q4,Asia,Mongolia,1089357.832
+2738,2022Q4,Asia,Myanmar,514426.924
+2739,2022Q4,Asia,Nepal,224737.968
+2740,2022Q4,Asia,North Korea,0.0
+2741,2022Q4,Asia,Northern Cyprus,0.0
+2742,2022Q4,Asia,Oman,3492385.228
+2743,2022Q4,Asia,Pakistan,463193.13599999994
+2744,2022Q4,Asia,Palestine,409390.61600000004
+2745,2022Q4,Asia,Philippines,699125.296
+2746,2022Q4,Asia,Qatar,10758075.200000001
+2747,2022Q4,Asia,Saudi Arabia,4512177.812
+2748,2022Q4,Asia,Singapore,7869255.2360000005
+2749,2022Q4,Asia,South Korea,3306330.4080000003
+2750,2022Q4,Asia,Sri Lanka,1073555.084
+2751,2022Q4,Asia,Syria,0.0
+2752,2022Q4,Asia,Taiwan,0.0
+2753,2022Q4,Asia,Tajikistan,266515.996
+2754,2022Q4,Asia,Thailand,1497545.732
+2755,2022Q4,Asia,Timor,604449.384
+2756,2022Q4,Asia,Turkey,2311899.372
+2757,2022Q4,Asia,Turkmenistan,1507790.1160000002
+2758,2022Q4,Asia,United Arab Emirates,6191000.436
+2759,2022Q4,Asia,Uzbekistan,575285.568
+2760,2022Q4,Asia,Vietnam,567813.328
+2761,2022Q4,Asia,Yemen,136081.524
+2762,2022Q4,Europe,Albania,1085915.652
+2763,2022Q4,Europe,Andorra,0.0
+2764,2022Q4,Europe,Austria,4180175.112
+2765,2022Q4,Europe,Belarus,1579452.9640000002
+2766,2022Q4,Europe,Belgium,3924588.992
+2767,2022Q4,Europe,Bosnia and Herzegovina,1077678.34
+2768,2022Q4,Europe,Bulgaria,1707824.244
+2769,2022Q4,Europe,Croatia,2085621.3239999998
+2770,2022Q4,Europe,Cyprus,2982192.1440000003
+2771,2022Q4,Europe,Czechia,2999743.352
+2772,2022Q4,Europe,Denmark,4294791.38
+2773,2022Q4,Europe,England,0.0
+2774,2022Q4,Europe,Estonia,2712275.184
+2775,2022Q4,Europe,Faeroe Islands,0.0
+2776,2022Q4,Europe,Finland,3733886.332
+2777,2022Q4,Europe,France,3551721.7320000003
+2778,2022Q4,Europe,Germany,4161090.54
+2779,2022Q4,Europe,Gibraltar,0.0
+2780,2022Q4,Europe,Greece,2260843.1440000003
+2781,2022Q4,Europe,Guernsey,0.0
+2782,2022Q4,Europe,Hungary,2463535.612
+2783,2022Q4,Europe,Iceland,4276432.136
+2784,2022Q4,Europe,Ireland,6194846.956
+2785,2022Q4,Europe,Isle of Man,0.0
+2786,2022Q4,Europe,Italy,3240247.728
+2787,2022Q4,Europe,Jersey,0.0
+2788,2022Q4,Europe,Kosovo,901216.7280000001
+2789,2022Q4,Europe,Latvia,2305873.832
+2790,2022Q4,Europe,Liechtenstein,0.0
+2791,2022Q4,Europe,Lithuania,2716232.38
+2792,2022Q4,Europe,Luxembourg,8673572.78
+2793,2022Q4,Europe,Malta,3359225.7159999995
+2794,2022Q4,Europe,Moldova,477477.424
+2795,2022Q4,Europe,Monaco,0.0
+2796,2022Q4,Europe,Montenegro,1509654.496
+2797,2022Q4,Europe,Netherlands,4459474.14
+2798,2022Q4,Europe,North Macedonia,1206231.688
+2799,2022Q4,Europe,Northern Ireland,0.0
+2800,2022Q4,Europe,Norway,5961605.244
+2801,2022Q4,Europe,Poland,2503912.94
+2802,2022Q4,Europe,Portugal,2570194.432
+2803,2022Q4,Europe,Romania,2144814.308
+2804,2022Q4,Europe,Russia,2278467.768
+2805,2022Q4,Europe,San Marino,5231255.24
+2806,2022Q4,Europe,Scotland,0.0
+2807,2022Q4,Europe,Serbia,1292497.052
+2808,2022Q4,Europe,Slovakia,2774273.9839999997
+2809,2022Q4,Europe,Slovenia,2888877.28
+2810,2022Q4,Europe,Spain,3153057.12
+2811,2022Q4,Europe,Sweden,4319334.036
+2812,2022Q4,Europe,Switzerland,5281735.272
+2813,2022Q4,Europe,Ukraine,726284.156
+2814,2022Q4,Europe,United Kingdom,3657298.448
+2815,2022Q4,Europe,Vatican,0.0
+2816,2022Q4,Europe,Wales,0.0
+2817,2022Q4,North America,Anguilla,0.0
+2818,2022Q4,North America,Antigua and Barbuda,1977166.756
+2819,2022Q4,North America,Aruba,3309587.8520000004
+2820,2022Q4,North America,Bahamas,2550041.924
+2821,2022Q4,North America,Barbados,1561982.256
+2822,2022Q4,North America,Belize,719841.304
+2823,2022Q4,North America,Bermuda,4661576.98
+2824,2022Q4,North America,Bonaire Sint Eustatius and Saba,0.0
+2825,2022Q4,North America,British Virgin Islands,0.0
+2826,2022Q4,North America,Canada,4049618.372
+2827,2022Q4,North America,Cayman Islands,4591078.6680000005
+2828,2022Q4,North America,Costa Rica,1428299.54
+2829,2022Q4,North America,Cuba,0.0
+2830,2022Q4,North America,Curacao,0.0
+2831,2022Q4,North America,Dominica,889949.764
+2832,2022Q4,North America,Dominican Republic,1343279.212
+2833,2022Q4,North America,El Salvador,670906.1359999999
+2834,2022Q4,North America,Greenland,0.0
+2835,2022Q4,North America,Grenada,1250636.6840000001
+2836,2022Q4,North America,Guadeloupe,0.0
+2837,2022Q4,North America,Guatemala,682990.336
+2838,2022Q4,North America,Haiti,152091.916
+2839,2022Q4,North America,Honduras,417845.14
+2840,2022Q4,North America,Jamaica,753808.532
+2841,2022Q4,North America,Martinique,0.0
+2842,2022Q4,North America,Mexico,1594955.148
+2843,2022Q4,North America,Montserrat,0.0
+2844,2022Q4,North America,Nicaragua,489572.84800000006
+2845,2022Q4,North America,Panama,2048567.404
+2846,2022Q4,North America,Puerto Rico,3224109.6399999997
+2847,2022Q4,North America,Saint Barthelemy,0.0
+2848,2022Q4,North America,Saint Kitts and Nevis,2268203.42
+2849,2022Q4,North America,Saint Lucia,1191569.188
+2850,2022Q4,North America,Saint Martin (French part),0.0
+2851,2022Q4,North America,Saint Pierre and Miquelon,0.0
+2852,2022Q4,North America,Saint Vincent and the Grenadines,986897.432
+2853,2022Q4,North America,Sint Maarten (Dutch part),3342105.3440000005
+2854,2022Q4,North America,Trinidad and Tobago,2646202.532
+2855,2022Q4,North America,Turks and Caicos Islands,0.0
+2856,2022Q4,North America,United States,4988741.032000001
+2857,2022Q4,North America,United States Virgin Islands,0.0
+2858,2022Q4,Oceania,American Samoa,0.0
+2859,2022Q4,Oceania,Australia,4107681.32
+2860,2022Q4,Oceania,Cook Islands,0.0
+2861,2022Q4,Oceania,Fiji,800673.7000000001
+2862,2022Q4,Oceania,French Polynesia,0.0
+2863,2022Q4,Oceania,Guam,0.0
+2864,2022Q4,Oceania,Kiribati,182264.144
+2865,2022Q4,Oceania,Marshall Islands,351366.58400000003
+2866,2022Q4,Oceania,Micronesia (country),303550.68799999997
+2867,2022Q4,Oceania,Nauru,1186398.42
+2868,2022Q4,Oceania,New Caledonia,0.0
+2869,2022Q4,Oceania,New Zealand,3319897.556
+2870,2022Q4,Oceania,Niue,0.0
+2871,2022Q4,Oceania,Northern Mariana Islands,0.0
+2872,2022Q4,Oceania,Palau,1218117.26
+2873,2022Q4,Oceania,Papua New Guinea,351733.848
+2874,2022Q4,Oceania,Pitcairn,0.0
+2875,2022Q4,Oceania,Samoa,553983.244
+2876,2022Q4,Oceania,Solomon Islands,202944.91599999997
+2877,2022Q4,Oceania,Tokelau,0.0
+2878,2022Q4,Oceania,Tonga,499157.132
+2879,2022Q4,Oceania,Tuvalu,328909.56799999997
+2880,2022Q4,Oceania,Vanuatu,268815.628
+2881,2022Q4,Oceania,Wallis and Futuna,0.0
+2882,2022Q4,South America,Argentina,1741919.444
+2883,2022Q4,South America,Bolivia,633496.2679999999
+2884,2022Q4,South America,Brazil,1297517.584
+2885,2022Q4,South America,Chile,2094567.404
+2886,2022Q4,South America,Colombia,1219455.308
+2887,2022Q4,South America,Ecuador,973538.112
+2888,2022Q4,South America,Falkland Islands,0.0
+2889,2022Q4,South America,French Guiana,0.0
+2890,2022Q4,South America,Guyana,684024.3239999999
+2891,2022Q4,South America,Paraguay,812084.92
+2892,2022Q4,South America,Peru,1125776.952
+2893,2022Q4,South America,Suriname,1266574.948
+2894,2022Q4,South America,Uruguay,1890729.628
+2895,2022Q4,South America,Venezuela,1540542.024
+2896,2023Q1,Africa,Algeria,1252245.51
+2897,2023Q1,Africa,Angola,523754.55
+2898,2023Q1,Africa,Benin,185781.24
+2899,2023Q1,Africa,Botswana,1422663.66
+2900,2023Q1,Africa,Burkina Faso,153279.18000000002
+2901,2023Q1,Africa,Burundi,63200.25
+2902,2023Q1,Africa,Cameroon,302843.33999999997
+2903,2023Q1,Africa,Cape Verde,560029.86
+2904,2023Q1,Africa,Central African Republic,59511.6
+2905,2023Q1,Africa,Chad,159133.77
+2906,2023Q1,Africa,Comoros,127250.1
+2907,2023Q1,Africa,Congo,439326.54
+2908,2023Q1,Africa,Cote d'Ivoire,324090.54
+2909,2023Q1,Africa,Democratic Republic of Congo,72731.97
+2910,2023Q1,Africa,Djibouti,243486.54
+2911,2023Q1,Africa,Egypt,949518.54
+2912,2023Q1,Africa,Equatorial Guinea,2034438.57
+2913,2023Q1,Africa,Eritrea,135941.31
+2914,2023Q1,Africa,Eswatini,696507.75
+2915,2023Q1,Africa,Ethiopia,155693.43
+2916,2023Q1,Africa,Gabon,1490617.17
+2917,2023Q1,Africa,Gambia,140559.03
+2918,2023Q1,Africa,Ghana,380486.7
+2919,2023Q1,Africa,Guinea,179903.34
+2920,2023Q1,Africa,Guinea-Bissau,139380.75
+2921,2023Q1,Africa,Kenya,269372.51999999996
+2922,2023Q1,Africa,Lesotho,256603.77
+2923,2023Q1,Africa,Liberia,67750.92
+2924,2023Q1,Africa,Libya,1609335.8099999998
+2925,2023Q1,Africa,Madagascar,127479.6
+2926,2023Q1,Africa,Malawi,98553.78
+2927,2023Q1,Africa,Mali,181287.54
+2928,2023Q1,Africa,Mauritania,323786.97
+2929,2023Q1,Africa,Mauritius,1826347.0499999998
+2930,2023Q1,Africa,Mayotte,0.0
+2931,2023Q1,Africa,Morocco,673651.17
+2932,2023Q1,Africa,Mozambique,102249.27
+2933,2023Q1,Africa,Namibia,858762.7200000001
+2934,2023Q1,Africa,Niger,83340.0
+2935,2023Q1,Africa,Nigeria,480460.86
+2936,2023Q1,Africa,Reunion,0.0
+2937,2023Q1,Africa,Rwanda,166878.99
+2938,2023Q1,Africa,Saint Helena,0.0
+2939,2023Q1,Africa,Sao Tome and Principe,274744.26
+2940,2023Q1,Africa,Senegal,222352.19999999998
+2941,2023Q1,Africa,Seychelles,2374405.83
+2942,2023Q1,Africa,Sierra Leone,125127.0
+2943,2023Q1,Africa,Somalia,0.0
+2944,2023Q1,Africa,South Africa,1106538.84
+2945,2023Q1,Africa,South Sudan,141289.91999999998
+2946,2023Q1,Africa,Sudan,401985.62999999995
+2947,2023Q1,Africa,Tanzania,241497.36000000002
+2948,2023Q1,Africa,Togo,128683.17000000001
+2949,2023Q1,Africa,Tunisia,976436.7300000001
+2950,2023Q1,Africa,Uganda,152793.63
+2951,2023Q1,Africa,Zambia,332032.59
+2952,2023Q1,Africa,Zimbabwe,170979.75
+2953,2023Q1,Asia,Afghanistan,162358.83000000002
+2954,2023Q1,Asia,Armenia,790882.2
+2955,2023Q1,Asia,Azerbaijan,1426267.71
+2956,2023Q1,Asia,Bahrain,3896163.45
+2957,2023Q1,Asia,Bangladesh,317158.56
+2958,2023Q1,Asia,Bhutan,783773.73
+2959,2023Q1,Asia,Brunei,6462832.590000001
+2960,2023Q1,Asia,Cambodia,328056.3
+2961,2023Q1,Asia,China,1377784.08
+2962,2023Q1,Asia,Georgia,877057.11
+2963,2023Q1,Asia,Hong Kong,5044942.8
+2964,2023Q1,Asia,India,578400.66
+2965,2023Q1,Asia,Indonesia,1006986.9600000001
+2966,2023Q1,Asia,Iran,1717435.7999999998
+2967,2023Q1,Asia,Iraq,1409758.74
+2968,2023Q1,Asia,Israel,2981908.8
+2969,2023Q1,Asia,Japan,3510200.07
+2970,2023Q1,Asia,Jordan,750374.1
+2971,2023Q1,Asia,Kazakhstan,2165002.92
+2972,2023Q1,Asia,Kuwait,5897748.33
+2973,2023Q1,Asia,Kyrgyzstan,305412.66000000003
+2974,2023Q1,Asia,Laos,575762.4
+2975,2023Q1,Asia,Lebanon,1203080.85
+2976,2023Q1,Asia,Macao,9437566.59
+2977,2023Q1,Asia,Malaysia,2412734.7600000002
+2978,2023Q1,Asia,Maldives,1366525.44
+2979,2023Q1,Asia,Mongolia,1065676.14
+2980,2023Q1,Asia,Myanmar,503243.73
+2981,2023Q1,Asia,Nepal,219852.36000000002
+2982,2023Q1,Asia,North Korea,0.0
+2983,2023Q1,Asia,Oman,3416463.81
+2984,2023Q1,Asia,Pakistan,453123.72
+2985,2023Q1,Asia,Palestine,400490.82
+2986,2023Q1,Asia,Philippines,683926.92
+2987,2023Q1,Asia,Qatar,10524204.0
+2988,2023Q1,Asia,Saudi Arabia,4414086.99
+2989,2023Q1,Asia,Singapore,7698184.47
+2990,2023Q1,Asia,South Korea,3234453.66
+2991,2023Q1,Asia,Sri Lanka,1050216.93
+2992,2023Q1,Asia,Syria,0.0
+2993,2023Q1,Asia,Taiwan,0.0
+2994,2023Q1,Asia,Tajikistan,260722.17
+2995,2023Q1,Asia,Thailand,1464990.3900000001
+2996,2023Q1,Asia,Timor,591309.1799999999
+2997,2023Q1,Asia,Turkey,2261640.69
+2998,2023Q1,Asia,Turkmenistan,1475012.07
+2999,2023Q1,Asia,United Arab Emirates,6056413.47
+3000,2023Q1,Asia,Uzbekistan,562779.36
+3001,2023Q1,Asia,Vietnam,555469.56
+3002,2023Q1,Asia,Yemen,133123.22999999998
+3003,2023Q1,Europe,Albania,1062308.79
+3004,2023Q1,Europe,Andorra,0.0
+3005,2023Q1,Europe,Austria,4089301.74
+3006,2023Q1,Europe,Belarus,1545117.03
+3007,2023Q1,Europe,Belgium,3839271.84
+3008,2023Q1,Europe,Bosnia and Herzegovina,1054250.55
+3009,2023Q1,Europe,Bulgaria,1670697.6300000001
+3010,2023Q1,Europe,Croatia,2040281.73
+3011,2023Q1,Europe,Cyprus,2917361.8800000004
+3012,2023Q1,Europe,Czechia,2934531.54
+3013,2023Q1,Europe,Denmark,4201426.35
+3014,2023Q1,Europe,England,0.0
+3015,2023Q1,Europe,Estonia,2653312.68
+3016,2023Q1,Europe,Faeroe Islands,0.0
+3017,2023Q1,Europe,Finland,3652714.8899999997
+3018,2023Q1,Europe,France,3474510.39
+3019,2023Q1,Europe,Germany,4070632.0500000003
+3020,2023Q1,Europe,Gibraltar,0.0
+3021,2023Q1,Europe,Greece,2211694.3800000004
+3022,2023Q1,Europe,Guernsey,0.0
+3023,2023Q1,Europe,Hungary,2409980.49
+3024,2023Q1,Europe,Iceland,4183466.2199999997
+3025,2023Q1,Europe,Ireland,6060176.37
+3026,2023Q1,Europe,Isle of Man,0.0
+3027,2023Q1,Europe,Italy,3169807.56
+3028,2023Q1,Europe,Jersey,0.0
+3029,2023Q1,Europe,Kosovo,881625.06
+3030,2023Q1,Europe,Latvia,2255746.14
+3031,2023Q1,Europe,Liechtenstein,0.0
+3032,2023Q1,Europe,Lithuania,2657183.85
+3033,2023Q1,Europe,Luxembourg,8485016.85
+3034,2023Q1,Europe,Malta,3286199.07
+3035,2023Q1,Europe,Moldova,467097.48
+3036,2023Q1,Europe,Monaco,0.0
+3037,2023Q1,Europe,Montenegro,1476835.92
+3038,2023Q1,Europe,Netherlands,4362529.05
+3039,2023Q1,Europe,North Macedonia,1180009.26
+3040,2023Q1,Europe,Northern Ireland,0.0
+3041,2023Q1,Europe,Norway,5832005.13
+3042,2023Q1,Europe,Poland,2449480.05
+3043,2023Q1,Europe,Portugal,2514320.64
+3044,2023Q1,Europe,Romania,2098187.91
+3045,2023Q1,Europe,Russia,2228935.8600000003
+3046,2023Q1,Europe,San Marino,5117532.3
+3047,2023Q1,Europe,Scotland,0.0
+3048,2023Q1,Europe,Serbia,1264399.29
+3049,2023Q1,Europe,Slovakia,2713963.6799999997
+3050,2023Q1,Europe,Slovenia,2826075.6
+3051,2023Q1,Europe,Spain,3084512.4
+3052,2023Q1,Europe,Sweden,4225435.470000001
+3053,2023Q1,Europe,Switzerland,5166914.9399999995
+3054,2023Q1,Europe,Ukraine,710495.37
+3055,2023Q1,Europe,United Kingdom,3577791.96
+3056,2023Q1,Europe,Vatican,0.0
+3057,2023Q1,Europe,Wales,0.0
+3058,2023Q1,North America,Anguilla,0.0
+3059,2023Q1,North America,Antigua and Barbuda,1934184.8699999999
+3060,2023Q1,North America,Aruba,3237640.29
+3061,2023Q1,North America,Bahamas,2494606.23
+3062,2023Q1,North America,Barbados,1528026.1199999999
+3063,2023Q1,North America,Belize,704192.58
+3064,2023Q1,North America,Bermuda,4560238.350000001
+3065,2023Q1,North America,Bonaire Sint Eustatius and Saba,0.0
+3066,2023Q1,North America,British Virgin Islands,0.0
+3067,2023Q1,North America,Canada,3961583.19
+3068,2023Q1,North America,Cayman Islands,4491272.61
+3069,2023Q1,North America,Costa Rica,1397249.55
+3070,2023Q1,North America,Cuba,0.0
+3071,2023Q1,North America,Curacao,0.0
+3072,2023Q1,North America,Dominica,870603.03
+3073,2023Q1,North America,Dominican Republic,1314077.49
+3074,2023Q1,North America,El Salvador,656321.22
+3075,2023Q1,North America,Greenland,0.0
+3076,2023Q1,North America,Grenada,1223448.93
+3077,2023Q1,North America,Guadeloupe,0.0
+3078,2023Q1,North America,Guatemala,668142.72
+3079,2023Q1,North America,Haiti,148785.57
+3080,2023Q1,North America,Honduras,408761.55
+3081,2023Q1,North America,Jamaica,737421.39
+3082,2023Q1,North America,Martinique,0.0
+3083,2023Q1,North America,Mexico,1560282.2100000002
+3084,2023Q1,North America,Montserrat,0.0
+3085,2023Q1,North America,Nicaragua,478929.96
+3086,2023Q1,North America,Panama,2004033.33
+3087,2023Q1,North America,Puerto Rico,3154020.3
+3088,2023Q1,North America,Saint Barthelemy,0.0
+3089,2023Q1,North America,Saint Kitts and Nevis,2218894.65
+3090,2023Q1,North America,Saint Lucia,1165665.51
+3091,2023Q1,North America,Saint Martin (French part),0.0
+3092,2023Q1,North America,Saint Pierre and Miquelon,0.0
+3093,2023Q1,North America,Saint Vincent and the Grenadines,965443.14
+3094,2023Q1,North America,Sint Maarten (Dutch part),3269450.8800000004
+3095,2023Q1,North America,Trinidad and Tobago,2588676.39
+3096,2023Q1,North America,Turks and Caicos Islands,0.0
+3097,2023Q1,North America,United States,4880290.140000001
+3098,2023Q1,North America,United States Virgin Islands,0.0
+3099,2023Q1,Oceania,American Samoa,0.0
+3100,2023Q1,Oceania,Australia,4018383.9
+3101,2023Q1,Oceania,Cook Islands,0.0
+3102,2023Q1,Oceania,Fiji,783267.75
+3103,2023Q1,Oceania,French Polynesia,0.0
+3104,2023Q1,Oceania,Guam,0.0
+3105,2023Q1,Oceania,Kiribati,178301.88
+3106,2023Q1,Oceania,Marshall Islands,343728.18
+3107,2023Q1,Oceania,Micronesia (country),296951.76
+3108,2023Q1,Oceania,Nauru,1160607.15
+3109,2023Q1,Oceania,New Caledonia,0.0
+3110,2023Q1,Oceania,New Zealand,3247725.87
+3111,2023Q1,Oceania,Niue,0.0
+3112,2023Q1,Oceania,Northern Mariana Islands,0.0
+3113,2023Q1,Oceania,Palau,1191636.45
+3114,2023Q1,Oceania,Papua New Guinea,344087.46
+3115,2023Q1,Oceania,Pitcairn,0.0
+3116,2023Q1,Oceania,Samoa,541940.13
+3117,2023Q1,Oceania,Solomon Islands,198533.06999999998
+3118,2023Q1,Oceania,Tokelau,0.0
+3119,2023Q1,Oceania,Tonga,488305.89
+3120,2023Q1,Oceania,Tuvalu,321759.36
+3121,2023Q1,Oceania,Vanuatu,262971.81
+3122,2023Q1,Oceania,Wallis and Futuna,0.0
+3123,2023Q1,South America,Argentina,1704051.63
+3124,2023Q1,South America,Bolivia,619724.61
+3125,2023Q1,South America,Brazil,1269310.68
+3126,2023Q1,South America,Chile,2049033.33
+3127,2023Q1,South America,Colombia,1192945.4100000001
+3128,2023Q1,South America,Ecuador,952374.24
+3129,2023Q1,South America,Falkland Islands,0.0
+3130,2023Q1,South America,French Guiana,0.0
+3131,2023Q1,South America,Guyana,669154.23
+3132,2023Q1,South America,Paraguay,794430.9
+3133,2023Q1,South America,Peru,1101303.54
+3134,2023Q1,South America,Suriname,1239040.71
+3135,2023Q1,South America,Uruguay,1849626.81
+3136,2023Q1,South America,Venezuela,1507051.98
+3137,2023Q2,Africa,Algeria,1266159.349
+3138,2023Q2,Africa,Angola,529574.045
+3139,2023Q2,Africa,Benin,187845.476
+3140,2023Q2,Africa,Botswana,1438471.034
+3141,2023Q2,Africa,Burkina Faso,154982.282
+3142,2023Q2,Africa,Burundi,63902.475
+3143,2023Q2,Africa,Cameroon,306208.266
+3144,2023Q2,Africa,Cape Verde,566252.414
+3145,2023Q2,Africa,Central African Republic,60172.840000000004
+3146,2023Q2,Africa,Chad,160901.923
+3147,2023Q2,Africa,Comoros,128663.99
+3148,2023Q2,Africa,Congo,444207.946
+3149,2023Q2,Africa,Cote d'Ivoire,327691.546
+3150,2023Q2,Africa,Democratic Republic of Congo,73540.103
+3151,2023Q2,Africa,Djibouti,246191.946
+3152,2023Q2,Africa,Egypt,960068.746
+3153,2023Q2,Africa,Equatorial Guinea,2057043.443
+3154,2023Q2,Africa,Eritrea,137451.769
+3155,2023Q2,Africa,Eswatini,704246.725
+3156,2023Q2,Africa,Ethiopia,157423.357
+3157,2023Q2,Africa,Gabon,1507179.583
+3158,2023Q2,Africa,Gambia,142120.797
+3159,2023Q2,Africa,Ghana,384714.33
+3160,2023Q2,Africa,Guinea,181902.266
+3161,2023Q2,Africa,Guinea-Bissau,140929.425
+3162,2023Q2,Africa,Kenya,272365.548
+3163,2023Q2,Africa,Lesotho,259454.92299999998
+3164,2023Q2,Africa,Liberia,68503.708
+3165,2023Q2,Africa,Libya,1627217.319
+3166,2023Q2,Africa,Madagascar,128896.04000000001
+3167,2023Q2,Africa,Malawi,99648.82199999999
+3168,2023Q2,Africa,Mali,183301.846
+3169,2023Q2,Africa,Mauritania,327384.603
+3170,2023Q2,Africa,Mauritius,1846639.795
+3171,2023Q2,Africa,Mayotte,0.0
+3172,2023Q2,Africa,Morocco,681136.183
+3173,2023Q2,Africa,Mozambique,103385.373
+3174,2023Q2,Africa,Namibia,868304.528
+3175,2023Q2,Africa,Niger,84266.0
+3176,2023Q2,Africa,Nigeria,485799.31399999995
+3177,2023Q2,Africa,Reunion,0.0
+3178,2023Q2,Africa,Rwanda,168733.201
+3179,2023Q2,Africa,Saint Helena,0.0
+3180,2023Q2,Africa,Sao Tome and Principe,277796.974
+3181,2023Q2,Africa,Senegal,224822.78
+3182,2023Q2,Africa,Seychelles,2400788.117
+3183,2023Q2,Africa,Sierra Leone,126517.3
+3184,2023Q2,Africa,Somalia,0.0
+3185,2023Q2,Africa,South Africa,1118833.716
+3186,2023Q2,Africa,South Sudan,142859.808
+3187,2023Q2,Africa,Sudan,406452.137
+3188,2023Q2,Africa,Tanzania,244180.66400000002
+3189,2023Q2,Africa,Togo,130112.98300000001
+3190,2023Q2,Africa,Tunisia,987286.027
+3191,2023Q2,Africa,Uganda,154491.337
+3192,2023Q2,Africa,Zambia,335721.841
+3193,2023Q2,Africa,Zimbabwe,172879.525
+3194,2023Q2,Asia,Afghanistan,164162.817
+3195,2023Q2,Asia,Armenia,799669.78
+3196,2023Q2,Asia,Azerbaijan,1442115.129
+3197,2023Q2,Asia,Bahrain,3939454.1550000003
+3198,2023Q2,Asia,Bangladesh,320682.544
+3199,2023Q2,Asia,Bhutan,792482.3269999999
+3200,2023Q2,Asia,Brunei,6534641.841
+3201,2023Q2,Asia,Cambodia,331701.37
+3202,2023Q2,Asia,China,1393092.792
+3203,2023Q2,Asia,Georgia,886802.189
+3204,2023Q2,Asia,Hong Kong,5100997.72
+3205,2023Q2,Asia,India,584827.334
+3206,2023Q2,Asia,Indonesia,1018175.704
+3207,2023Q2,Asia,Iran,1736518.42
+3208,2023Q2,Asia,Iraq,1425422.726
+3209,2023Q2,Asia,Israel,3015041.12
+3210,2023Q2,Asia,Japan,3549202.2929999996
+3211,2023Q2,Asia,Jordan,758711.59
+3212,2023Q2,Asia,Kazakhstan,2189058.508
+3213,2023Q2,Asia,Kuwait,5963278.867
+3214,2023Q2,Asia,Kyrgyzstan,308806.134
+3215,2023Q2,Asia,Laos,582159.76
+3216,2023Q2,Asia,Lebanon,1216448.415
+3217,2023Q2,Asia,Macao,1363204.0629999998
+3218,2023Q2,Asia,Malaysia,2439542.924
+3219,2023Q2,Asia,Maldives,1381709.056
+3220,2023Q2,Asia,Mongolia,1077516.986
+3221,2023Q2,Asia,Myanmar,508835.327
+3222,2023Q2,Asia,Nepal,222295.16400000002
+3223,2023Q2,Asia,North Korea,0.0
+3224,2023Q2,Asia,Oman,3454424.5190000003
+3225,2023Q2,Asia,Pakistan,458158.42799999996
+3226,2023Q2,Asia,Palestine,404940.718
+3227,2023Q2,Asia,Philippines,691526.108
+3228,2023Q2,Asia,Qatar,10641139.6
+3229,2023Q2,Asia,Saudi Arabia,4463132.401
+3230,2023Q2,Asia,Singapore,7783719.853
+3231,2023Q2,Asia,South Korea,3270392.0340000005
+3232,2023Q2,Asia,Sri Lanka,1061886.007
+3233,2023Q2,Asia,Syria,0.0
+3234,2023Q2,Asia,Taiwan,0.0
+3235,2023Q2,Asia,Tajikistan,263619.083
+3236,2023Q2,Asia,Thailand,1481268.061
+3237,2023Q2,Asia,Timor,597879.282
+3238,2023Q2,Asia,Turkey,2286770.031
+3239,2023Q2,Asia,Turkmenistan,1491401.093
+3240,2023Q2,Asia,United Arab Emirates,6123706.953
+3241,2023Q2,Asia,Uzbekistan,569032.464
+3242,2023Q2,Asia,Vietnam,561641.444
+3243,2023Q2,Asia,Yemen,134602.377
+3244,2023Q2,Europe,Albania,1074112.2210000001
+3245,2023Q2,Europe,Andorra,0.0
+3246,2023Q2,Europe,Austria,4134738.426
+3247,2023Q2,Europe,Belarus,1562284.997
+3248,2023Q2,Europe,Belgium,3881930.416
+3249,2023Q2,Europe,Bosnia and Herzegovina,1065964.445
+3250,2023Q2,Europe,Bulgaria,1689260.9370000002
+3251,2023Q2,Europe,Croatia,2062951.5269999998
+3252,2023Q2,Europe,Cyprus,2949777.012
+3253,2023Q2,Europe,Czechia,2967137.446
+3254,2023Q2,Europe,Denmark,4248108.865
+3255,2023Q2,Europe,England,0.0
+3256,2023Q2,Europe,Estonia,2682793.932
+3257,2023Q2,Europe,Faeroe Islands,0.0
+3258,2023Q2,Europe,Finland,3693300.6109999996
+3259,2023Q2,Europe,France,3513116.061
+3260,2023Q2,Europe,Germany,4115861.2950000004
+3261,2023Q2,Europe,Gibraltar,0.0
+3262,2023Q2,Europe,Greece,2236268.762
+3263,2023Q2,Europe,Guernsey,0.0
+3264,2023Q2,Europe,Hungary,2436758.051
+3265,2023Q2,Europe,Iceland,4229949.178
+3266,2023Q2,Europe,Ireland,6127511.663000001
+3267,2023Q2,Europe,Isle of Man,0.0
+3268,2023Q2,Europe,Italy,3205027.6440000003
+3269,2023Q2,Europe,Jersey,0.0
+3270,2023Q2,Europe,Kosovo,891420.8940000001
+3271,2023Q2,Europe,Latvia,2280809.986
+3272,2023Q2,Europe,Liechtenstein,0.0
+3273,2023Q2,Europe,Lithuania,2686708.1149999998
+3274,2023Q2,Europe,Luxembourg,8579294.815
+3275,2023Q2,Europe,Malta,3322712.3929999997
+3276,2023Q2,Europe,Moldova,472287.452
+3277,2023Q2,Europe,Monaco,0.0
+3278,2023Q2,Europe,Montenegro,1493245.208
+3279,2023Q2,Europe,Netherlands,4411001.595
+3280,2023Q2,Europe,North Macedonia,1193120.474
+3281,2023Q2,Europe,Northern Ireland,0.0
+3282,2023Q2,Europe,Norway,5896805.187
+3283,2023Q2,Europe,Poland,2476696.495
+3284,2023Q2,Europe,Portugal,2542257.536
+3285,2023Q2,Europe,Romania,2121501.109
+3286,2023Q2,Europe,Russia,2253701.8140000002
+3287,2023Q2,Europe,San Marino,5174393.7700000005
+3288,2023Q2,Europe,Scotland,0.0
+3289,2023Q2,Europe,Serbia,1278448.1709999999
+3290,2023Q2,Europe,Slovakia,2744118.832
+3291,2023Q2,Europe,Slovenia,2857476.44
+3292,2023Q2,Europe,Spain,3118784.7600000002
+3293,2023Q2,Europe,Sweden,4272384.7530000005
+3294,2023Q2,Europe,Switzerland,5224325.106
+3295,2023Q2,Europe,Ukraine,718389.763
+3296,2023Q2,Europe,United Kingdom,3617545.204
+3297,2023Q2,Europe,Vatican,0.0
+3298,2023Q2,Europe,Wales,0.0
+3299,2023Q2,North America,Anguilla,0.0
+3300,2023Q2,North America,Antigua and Barbuda,1955675.8129999998
+3301,2023Q2,North America,Aruba,3273614.0710000005
+3302,2023Q2,North America,Bahamas,2522324.077
+3303,2023Q2,North America,Barbados,1545004.1879999998
+3304,2023Q2,North America,Belize,712016.942
+3305,2023Q2,North America,Bermuda,4610907.665
+3306,2023Q2,North America,Bonaire Sint Eustatius and Saba,0.0
+3307,2023Q2,North America,British Virgin Islands,0.0
+3308,2023Q2,North America,Canada,4005600.781
+3309,2023Q2,North America,Cayman Islands,4541175.639
+3310,2023Q2,North America,Costa Rica,1412774.5450000002
+3311,2023Q2,North America,Cuba,0.0
+3312,2023Q2,North America,Curacao,0.0
+3313,2023Q2,North America,Dominica,880276.397
+3314,2023Q2,North America,Dominican Republic,1328678.351
+3315,2023Q2,North America,El Salvador,663613.678
+3316,2023Q2,North America,Greenland,0.0
+3317,2023Q2,North America,Grenada,1237042.807
+3318,2023Q2,North America,Guadeloupe,0.0
+3319,2023Q2,North America,Guatemala,675566.528
+3320,2023Q2,North America,Haiti,150438.743
+3321,2023Q2,North America,Honduras,413303.34500000003
+3322,2023Q2,North America,Jamaica,745614.961
+3323,2023Q2,North America,Martinique,0.0
+3324,2023Q2,North America,Mexico,1577618.679
+3325,2023Q2,North America,Montserrat,0.0
+3326,2023Q2,North America,Nicaragua,484251.40400000004
+3327,2023Q2,North America,Panama,2026300.367
+3328,2023Q2,North America,Puerto Rico,3189064.9699999997
+3329,2023Q2,North America,Saint Barthelemy,0.0
+3330,2023Q2,North America,Saint Kitts and Nevis,2243549.0349999997
+3331,2023Q2,North America,Saint Lucia,1178617.349
+3332,2023Q2,North America,Saint Martin (French part),0.0
+3333,2023Q2,North America,Saint Pierre and Miquelon,0.0
+3334,2023Q2,North America,Saint Vincent and the Grenadines,976170.2860000001
+3335,2023Q2,North America,Sint Maarten (Dutch part),3305778.112
+3336,2023Q2,North America,Trinidad and Tobago,2617439.461
+3337,2023Q2,North America,Turks and Caicos Islands,0.0
+3338,2023Q2,North America,United States,4934515.586
+3339,2023Q2,North America,United States Virgin Islands,0.0
+3340,2023Q2,Oceania,American Samoa,0.0
+3341,2023Q2,Oceania,Australia,4063032.61
+3342,2023Q2,Oceania,Cook Islands,0.0
+3343,2023Q2,Oceania,Fiji,791970.725
+3344,2023Q2,Oceania,French Polynesia,0.0
+3345,2023Q2,Oceania,Guam,0.0
+3346,2023Q2,Oceania,Kiribati,180283.01200000002
+3347,2023Q2,Oceania,Marshall Islands,347547.38200000004
+3348,2023Q2,Oceania,Micronesia (country),300251.224
+3349,2023Q2,Oceania,Nauru,1173502.785
+3350,2023Q2,Oceania,New Caledonia,0.0
+3351,2023Q2,Oceania,New Zealand,3283811.713
+3352,2023Q2,Oceania,Niue,0.0
+3353,2023Q2,Oceania,Northern Mariana Islands,0.0
+3354,2023Q2,Oceania,Palau,1204876.855
+3355,2023Q2,Oceania,Papua New Guinea,347910.654
+3356,2023Q2,Oceania,Pitcairn,0.0
+3357,2023Q2,Oceania,Samoa,547961.687
+3358,2023Q2,Oceania,Solomon Islands,200738.993
+3359,2023Q2,Oceania,Tokelau,0.0
+3360,2023Q2,Oceania,Tonga,493731.511
+3361,2023Q2,Oceania,Tuvalu,325334.464
+3362,2023Q2,Oceania,Vanuatu,265893.719
+3363,2023Q2,Oceania,Wallis and Futuna,0.0
+3364,2023Q2,South America,Argentina,1722985.537
+3365,2023Q2,South America,Bolivia,626610.439
+3366,2023Q2,South America,Brazil,1283414.132
+3367,2023Q2,South America,Chile,2071800.367
+3368,2023Q2,South America,Colombia,1206200.359
+3369,2023Q2,South America,Ecuador,962956.176
+3370,2023Q2,South America,Falkland Islands,0.0
+3371,2023Q2,South America,French Guiana,0.0
+3372,2023Q2,South America,Guyana,676589.277
+3373,2023Q2,South America,Paraguay,803257.91
+3374,2023Q2,South America,Peru,1113540.246
+3375,2023Q2,South America,Suriname,1252807.8290000001
+3376,2023Q2,South America,Uruguay,1870178.219
+3377,2023Q2,South America,Venezuela,1523797.002
+3378,2023Q3,Africa,Algeria,1280073.188
+3379,2023Q3,Africa,Angola,535393.54
+3380,2023Q3,Africa,Benin,189909.712
+3381,2023Q3,Africa,Botswana,1454278.408
+3382,2023Q3,Africa,Burkina Faso,156685.38400000002
+3383,2023Q3,Africa,Burundi,64604.700000000004
+3384,2023Q3,Africa,Cameroon,309573.192
+3385,2023Q3,Africa,Cape Verde,572474.968
+3386,2023Q3,Africa,Central African Republic,60834.08
+3387,2023Q3,Africa,Chad,162670.076
+3388,2023Q3,Africa,Comoros,130077.88
+3389,2023Q3,Africa,Congo,449089.352
+3390,2023Q3,Africa,Cote d'Ivoire,331292.55199999997
+3391,2023Q3,Africa,Democratic Republic of Congo,74348.236
+3392,2023Q3,Africa,Djibouti,248897.35199999998
+3393,2023Q3,Africa,Egypt,970618.952
+3394,2023Q3,Africa,Equatorial Guinea,2079648.3159999999
+3395,2023Q3,Africa,Eritrea,138962.228
+3396,2023Q3,Africa,Eswatini,711985.7000000001
+3397,2023Q3,Africa,Ethiopia,159153.28399999999
+3398,2023Q3,Africa,Gabon,1523741.996
+3399,2023Q3,Africa,Gambia,143682.564
+3400,2023Q3,Africa,Ghana,388941.96
+3401,2023Q3,Africa,Guinea,183901.19199999998
+3402,2023Q3,Africa,Guinea-Bissau,142478.1
+3403,2023Q3,Africa,Kenya,275358.576
+3404,2023Q3,Africa,Lesotho,262306.076
+3405,2023Q3,Africa,Liberia,69256.496
+3406,2023Q3,Africa,Libya,1645098.8279999997
+3407,2023Q3,Africa,Madagascar,130312.48000000001
+3408,2023Q3,Africa,Malawi,100743.86399999999
+3409,2023Q3,Africa,Mali,185316.152
+3410,2023Q3,Africa,Mauritania,330982.236
+3411,2023Q3,Africa,Mauritius,1866932.5399999998
+3412,2023Q3,Africa,Mayotte,0.0
+3413,2023Q3,Africa,Morocco,688621.196
+3414,2023Q3,Africa,Mozambique,104521.47600000001
+3415,2023Q3,Africa,Namibia,877846.3360000001
+3416,2023Q3,Africa,Niger,85192.0
+3417,2023Q3,Africa,Nigeria,491137.768
+3418,2023Q3,Africa,Reunion,0.0
+3419,2023Q3,Africa,Rwanda,170587.412
+3420,2023Q3,Africa,Saint Helena,0.0
+3421,2023Q3,Africa,Sao Tome and Principe,280849.68799999997
+3422,2023Q3,Africa,Senegal,227293.36
+3423,2023Q3,Africa,Seychelles,2427170.404
+3424,2023Q3,Africa,Sierra Leone,127907.59999999999
+3425,2023Q3,Africa,Somalia,0.0
+3426,2023Q3,Africa,South Africa,1131128.592
+3427,2023Q3,Africa,South Sudan,144429.696
+3428,2023Q3,Africa,Sudan,410918.644
+3429,2023Q3,Africa,Tanzania,246863.968
+3430,2023Q3,Africa,Togo,131542.796
+3431,2023Q3,Africa,Tunisia,998135.324
+3432,2023Q3,Africa,Uganda,156189.04400000002
+3433,2023Q3,Africa,Zambia,339411.092
+3434,2023Q3,Africa,Zimbabwe,174779.30000000002
+3435,2023Q3,Asia,Afghanistan,165966.804
+3436,2023Q3,Asia,Armenia,808457.36
+3437,2023Q3,Asia,Azerbaijan,1457962.548
+3438,2023Q3,Asia,Bahrain,3982744.8600000003
+3439,2023Q3,Asia,Bangladesh,324206.528
+3440,2023Q3,Asia,Bhutan,801190.924
+3441,2023Q3,Asia,Brunei,6606451.092
+3442,2023Q3,Asia,Cambodia,335346.44
+3443,2023Q3,Asia,China,1408401.504
+3444,2023Q3,Asia,Georgia,896547.2679999999
+3445,2023Q3,Asia,Hong Kong,3475405.04
+3446,2023Q3,Asia,India,591254.008
+3447,2023Q3,Asia,Indonesia,1029364.4480000001
+3448,2023Q3,Asia,Iran,1755601.0399999998
+3449,2023Q3,Asia,Iraq,1441086.712
+3450,2023Q3,Asia,Israel,3048173.44
+3451,2023Q3,Asia,Japan,3588204.516
+3452,2023Q3,Asia,Jordan,767049.08
+3453,2023Q3,Asia,Kazakhstan,2213114.096
+3454,2023Q3,Asia,Kuwait,6028809.404
+3455,2023Q3,Asia,Kyrgyzstan,312199.608
+3456,2023Q3,Asia,Laos,588557.12
+3457,2023Q3,Asia,Lebanon,1229815.98
+3458,2023Q3,Asia,Malaysia,2466351.088
+3459,2023Q3,Asia,Maldives,1396892.672
+3460,2023Q3,Asia,Mongolia,1089357.832
+3461,2023Q3,Asia,Myanmar,514426.924
+3462,2023Q3,Asia,Nepal,224737.968
+3463,2023Q3,Asia,North Korea,0.0
+3464,2023Q3,Asia,Oman,3492385.228
+3465,2023Q3,Asia,Pakistan,463193.13599999994
+3466,2023Q3,Asia,Palestine,409390.61600000004
+3467,2023Q3,Asia,Philippines,699125.296
+3468,2023Q3,Asia,Qatar,10758075.200000001
+3469,2023Q3,Asia,Saudi Arabia,4512177.812
+3470,2023Q3,Asia,Singapore,7869255.2360000005
+3471,2023Q3,Asia,South Korea,3306330.4080000003
+3472,2023Q3,Asia,Sri Lanka,1073555.084
+3473,2023Q3,Asia,Syria,0.0
+3474,2023Q3,Asia,Taiwan,0.0
+3475,2023Q3,Asia,Tajikistan,266515.996
+3476,2023Q3,Asia,Thailand,1497545.732
+3477,2023Q3,Asia,Timor,604449.384
+3478,2023Q3,Asia,Turkey,2311899.372
+3479,2023Q3,Asia,Turkmenistan,1507790.1160000002
+3480,2023Q3,Asia,United Arab Emirates,6191000.436
+3481,2023Q3,Asia,Uzbekistan,575285.568
+3482,2023Q3,Asia,Vietnam,567813.328
+3483,2023Q3,Asia,Yemen,136081.524
+3484,2023Q3,Europe,Albania,1085915.652
+3485,2023Q3,Europe,Andorra,0.0
+3486,2023Q3,Europe,Austria,4180175.112
+3487,2023Q3,Europe,Belarus,1579452.9640000002
+3488,2023Q3,Europe,Belgium,3924588.992
+3489,2023Q3,Europe,Bosnia and Herzegovina,1077678.34
+3490,2023Q3,Europe,Bulgaria,1707824.244
+3491,2023Q3,Europe,Croatia,2085621.3239999998
+3492,2023Q3,Europe,Cyprus,2982192.1440000003
+3493,2023Q3,Europe,Czechia,2999743.352
+3494,2023Q3,Europe,Denmark,4294791.38
+3495,2023Q3,Europe,England,0.0
+3496,2023Q3,Europe,Estonia,2712275.184
+3497,2023Q3,Europe,Faeroe Islands,0.0
+3498,2023Q3,Europe,Finland,3733886.332
+3499,2023Q3,Europe,France,3551721.7320000003
+3500,2023Q3,Europe,Germany,4161090.54
+3501,2023Q3,Europe,Gibraltar,0.0
+3502,2023Q3,Europe,Greece,2260843.1440000003
+3503,2023Q3,Europe,Guernsey,0.0
+3504,2023Q3,Europe,Hungary,2463535.612
+3505,2023Q3,Europe,Iceland,4276432.136
+3506,2023Q3,Europe,Ireland,6194846.956
+3507,2023Q3,Europe,Isle of Man,0.0
+3508,2023Q3,Europe,Italy,3240247.728
+3509,2023Q3,Europe,Jersey,0.0
+3510,2023Q3,Europe,Kosovo,901216.7280000001
+3511,2023Q3,Europe,Latvia,2305873.832
+3512,2023Q3,Europe,Liechtenstein,0.0
+3513,2023Q3,Europe,Lithuania,2716232.38
+3514,2023Q3,Europe,Luxembourg,8673572.78
+3515,2023Q3,Europe,Malta,3359225.7159999995
+3516,2023Q3,Europe,Moldova,477477.424
+3517,2023Q3,Europe,Monaco,0.0
+3518,2023Q3,Europe,Montenegro,1509654.496
+3519,2023Q3,Europe,Netherlands,4459474.14
+3520,2023Q3,Europe,North Macedonia,1206231.688
+3521,2023Q3,Europe,Northern Ireland,0.0
+3522,2023Q3,Europe,Norway,5961605.244
+3523,2023Q3,Europe,Poland,2503912.94
+3524,2023Q3,Europe,Portugal,2570194.432
+3525,2023Q3,Europe,Romania,2144814.308
+3526,2023Q3,Europe,Russia,2278467.768
+3527,2023Q3,Europe,San Marino,5231255.24
+3528,2023Q3,Europe,Scotland,0.0
+3529,2023Q3,Europe,Serbia,1292497.052
+3530,2023Q3,Europe,Slovakia,2774273.9839999997
+3531,2023Q3,Europe,Slovenia,2888877.28
+3532,2023Q3,Europe,Spain,3153057.12
+3533,2023Q3,Europe,Sweden,4319334.036
+3534,2023Q3,Europe,Switzerland,5281735.272
+3535,2023Q3,Europe,Ukraine,726284.156
+3536,2023Q3,Europe,United Kingdom,3657298.448
+3537,2023Q3,Europe,Vatican,0.0
+3538,2023Q3,Europe,Wales,0.0
+3539,2023Q3,North America,Anguilla,0.0
+3540,2023Q3,North America,Antigua and Barbuda,1977166.756
+3541,2023Q3,North America,Aruba,3309587.8520000004
+3542,2023Q3,North America,Bahamas,2550041.924
+3543,2023Q3,North America,Barbados,1561982.256
+3544,2023Q3,North America,Belize,719841.304
+3545,2023Q3,North America,Bermuda,4661576.98
+3546,2023Q3,North America,Bonaire Sint Eustatius and Saba,0.0
+3547,2023Q3,North America,British Virgin Islands,0.0
+3548,2023Q3,North America,Canada,4049618.372
+3549,2023Q3,North America,Cayman Islands,4591078.6680000005
+3550,2023Q3,North America,Costa Rica,1428299.54
+3551,2023Q3,North America,Cuba,0.0
+3552,2023Q3,North America,Curacao,0.0
+3553,2023Q3,North America,Dominica,889949.764
+3554,2023Q3,North America,Dominican Republic,1343279.212
+3555,2023Q3,North America,El Salvador,670906.1359999999
+3556,2023Q3,North America,Greenland,0.0
+3557,2023Q3,North America,Grenada,1250636.6840000001
+3558,2023Q3,North America,Guadeloupe,0.0
+3559,2023Q3,North America,Guatemala,682990.336
+3560,2023Q3,North America,Haiti,152091.916
+3561,2023Q3,North America,Honduras,417845.14
+3562,2023Q3,North America,Jamaica,753808.532
+3563,2023Q3,North America,Martinique,0.0
+3564,2023Q3,North America,Mexico,1594955.148
+3565,2023Q3,North America,Montserrat,0.0
+3566,2023Q3,North America,Nicaragua,489572.84800000006
+3567,2023Q3,North America,Panama,2048567.404
+3568,2023Q3,North America,Puerto Rico,3224109.6399999997
+3569,2023Q3,North America,Saint Barthelemy,0.0
+3570,2023Q3,North America,Saint Kitts and Nevis,2268203.42
+3571,2023Q3,North America,Saint Lucia,1191569.188
+3572,2023Q3,North America,Saint Martin (French part),0.0
+3573,2023Q3,North America,Saint Pierre and Miquelon,0.0
+3574,2023Q3,North America,Saint Vincent and the Grenadines,986897.432
+3575,2023Q3,North America,Sint Maarten (Dutch part),3342105.3440000005
+3576,2023Q3,North America,Trinidad and Tobago,2646202.532
+3577,2023Q3,North America,Turks and Caicos Islands,0.0
+3578,2023Q3,North America,United States,4988741.032000001
+3579,2023Q3,North America,United States Virgin Islands,0.0
+3580,2023Q3,Oceania,American Samoa,0.0
+3581,2023Q3,Oceania,Australia,4107681.32
+3582,2023Q3,Oceania,Cook Islands,0.0
+3583,2023Q3,Oceania,Fiji,800673.7000000001
+3584,2023Q3,Oceania,French Polynesia,0.0
+3585,2023Q3,Oceania,Guam,0.0
+3586,2023Q3,Oceania,Kiribati,182264.144
+3587,2023Q3,Oceania,Marshall Islands,351366.58400000003
+3588,2023Q3,Oceania,Micronesia (country),303550.68799999997
+3589,2023Q3,Oceania,Nauru,1186398.42
+3590,2023Q3,Oceania,New Caledonia,0.0
+3591,2023Q3,Oceania,New Zealand,3319897.556
+3592,2023Q3,Oceania,Niue,0.0
+3593,2023Q3,Oceania,Northern Mariana Islands,0.0
+3594,2023Q3,Oceania,Palau,1218117.26
+3595,2023Q3,Oceania,Papua New Guinea,351733.848
+3596,2023Q3,Oceania,Pitcairn,0.0
+3597,2023Q3,Oceania,Samoa,553983.244
+3598,2023Q3,Oceania,Solomon Islands,202944.91599999997
+3599,2023Q3,Oceania,Tokelau,0.0
+3600,2023Q3,Oceania,Tonga,499157.132
+3601,2023Q3,Oceania,Tuvalu,328909.56799999997
+3602,2023Q3,Oceania,Vanuatu,268815.628
+3603,2023Q3,Oceania,Wallis and Futuna,0.0
+3604,2023Q3,South America,Argentina,1741919.444
+3605,2023Q3,South America,Bolivia,633496.2679999999
+3606,2023Q3,South America,Brazil,1297517.584
+3607,2023Q3,South America,Chile,2094567.404
+3608,2023Q3,South America,Colombia,1219455.308
+3609,2023Q3,South America,Ecuador,973538.112
+3610,2023Q3,South America,Falkland Islands,0.0
+3611,2023Q3,South America,French Guiana,0.0
+3612,2023Q3,South America,Guyana,684024.3239999999
+3613,2023Q3,South America,Paraguay,812084.92
+3614,2023Q3,South America,Peru,1125776.952
+3615,2023Q3,South America,Suriname,1266574.948
+3616,2023Q3,South America,Uruguay,1890729.628
+3617,2023Q3,South America,Venezuela,1540542.024
+3618,2023Q4,Africa,Algeria,459156.687
+3619,2023Q4,Africa,Angola,192043.335
+3620,2023Q4,Africa,Benin,68119.788
+3621,2023Q4,Africa,Botswana,521643.342
+3622,2023Q4,Africa,Burkina Faso,56202.366
+3623,2023Q4,Africa,Burundi,23173.425
+3624,2023Q4,Africa,Cameroon,111042.558
+3625,2023Q4,Africa,Cape Verde,205344.282
+3626,2023Q4,Africa,Central African Republic,21820.920000000002
+3627,2023Q4,Africa,Chad,58349.049
+3628,2023Q4,Africa,Comoros,46658.37
+3629,2023Q4,Africa,Congo,161086.398
+3630,2023Q4,Africa,Cote d'Ivoire,118833.19799999999
+3631,2023Q4,Africa,Democratic Republic of Congo,26668.389000000003
+3632,2023Q4,Africa,Djibouti,89278.398
+3633,2023Q4,Africa,Egypt,348156.798
+3634,2023Q4,Africa,Equatorial Guinea,745960.809
+3635,2023Q4,Africa,Eritrea,49845.147000000004
+3636,2023Q4,Africa,Eswatini,255386.17500000002
+3637,2023Q4,Africa,Ethiopia,57087.591
+3638,2023Q4,Africa,Gabon,546559.629
+3639,2023Q4,Africa,Gambia,51538.311
+3640,2023Q4,Africa,Ghana,139511.79
+3641,2023Q4,Africa,Guinea,65964.558
+3642,2023Q4,Africa,Guinea-Bissau,51106.275
+3643,2023Q4,Africa,Kenya,98769.924
+3644,2023Q4,Africa,Lesotho,94088.049
+3645,2023Q4,Africa,Liberia,24842.004
+3646,2023Q4,Africa,Libya,590089.7969999999
+3647,2023Q4,Africa,Madagascar,46742.520000000004
+3648,2023Q4,Africa,Malawi,36136.386
+3649,2023Q4,Africa,Mali,66472.098
+3650,2023Q4,Africa,Mauritania,118721.889
+3651,2023Q4,Africa,Mauritius,669660.585
+3652,2023Q4,Africa,Mayotte,0.0
+3653,2023Q4,Africa,Morocco,247005.429
+3654,2023Q4,Africa,Mozambique,37491.399000000005
+3655,2023Q4,Africa,Namibia,314879.66400000005
+3656,2023Q4,Africa,Niger,30558.0
+3657,2023Q4,Africa,Nigeria,176168.982
+3658,2023Q4,Africa,Reunion,0.0
+3659,2023Q4,Africa,Rwanda,61188.963
+3660,2023Q4,Africa,Saint Helena,0.0
+3661,2023Q4,Africa,Sao Tome and Principe,100739.562
+3662,2023Q4,Africa,Senegal,81529.14
+3663,2023Q4,Africa,Seychelles,870615.471
+3664,2023Q4,Africa,Sierra Leone,45879.9
+3665,2023Q4,Africa,Somalia,0.0
+3666,2023Q4,Africa,South Africa,405730.908
+3667,2023Q4,Africa,South Sudan,51806.304
+3668,2023Q4,Africa,Sudan,147394.731
+3669,2023Q4,Africa,Tanzania,88549.032
+3670,2023Q4,Africa,Togo,47183.829000000005
+3671,2023Q4,Africa,Tunisia,358026.80100000004
+3672,2023Q4,Africa,Uganda,56024.331000000006
+3673,2023Q4,Africa,Zambia,121745.28300000001
+3674,2023Q4,Africa,Zimbabwe,62692.575000000004
+3675,2023Q4,Asia,Afghanistan,64943.53200000001
+3676,2023Q4,Asia,Armenia,289990.14
+3677,2023Q4,Asia,Azerbaijan,522964.827
+3678,2023Q4,Asia,Bahrain,1428593.2650000001
+3679,2023Q4,Asia,Bangladesh,116291.472
+3680,2023Q4,Asia,Bhutan,287383.701
+3681,2023Q4,Asia,Brunei,2369705.2830000003
+3682,2023Q4,Asia,Cambodia,120287.31000000001
+3683,2023Q4,Asia,China,505187.496
+3684,2023Q4,Asia,Georgia,321587.607
+3685,2023Q4,Asia,India,244213.612
+3686,2023Q4,Asia,Indonesia,369228.552
+3687,2023Q4,Asia,Iran,629726.46
+3688,2023Q4,Asia,Iraq,516911.538
+3689,2023Q4,Asia,Israel,1093366.56
+3690,2023Q4,Asia,Japan,1287073.359
+3691,2023Q4,Asia,Jordan,275137.17
+3692,2023Q4,Asia,Kazakhstan,793834.404
+3693,2023Q4,Asia,Kuwait,2359099.332
+3694,2023Q4,Asia,Kyrgyzstan,111984.642
+3695,2023Q4,Asia,Laos,211112.87999999998
+3696,2023Q4,Asia,Lebanon,441129.645
+3697,2023Q4,Asia,Malaysia,938285.74
+3698,2023Q4,Asia,Maldives,501059.328
+3699,2023Q4,Asia,Mongolia,390747.918
+3700,2023Q4,Asia,Myanmar,184522.701
+3701,2023Q4,Asia,Nepal,80612.532
+3702,2023Q4,Asia,North Korea,0.0
+3703,2023Q4,Asia,Oman,1252703.397
+3704,2023Q4,Asia,Pakistan,166145.364
+3705,2023Q4,Asia,Palestine,146846.634
+3706,2023Q4,Asia,Philippines,250773.204
+3707,2023Q4,Asia,Qatar,3858874.8000000003
+3708,2023Q4,Asia,Saudi Arabia,1618498.563
+3709,2023Q4,Asia,Singapore,2822667.639
+3710,2023Q4,Asia,South Korea,1185966.3420000002
+3711,2023Q4,Asia,Sri Lanka,385079.54099999997
+3712,2023Q4,Asia,Syria,0.0
+3713,2023Q4,Asia,Tajikistan,95598.129
+3714,2023Q4,Asia,Thailand,537163.143
+3715,2023Q4,Asia,Timor,216813.366
+3716,2023Q4,Asia,Turkey,829268.253
+3717,2023Q4,Asia,Turkmenistan,540837.7590000001
+3718,2023Q4,Asia,United Arab Emirates,2220684.939
+3719,2023Q4,Asia,Uzbekistan,206352.432
+3720,2023Q4,Asia,Vietnam,203672.172
+3721,2023Q4,Asia,Yemen,48811.850999999995
+3722,2023Q4,Europe,Albania,389513.223
+3723,2023Q4,Europe,Andorra,0.0
+3724,2023Q4,Europe,Austria,1499410.638
+3725,2023Q4,Europe,Belarus,566542.911
+3726,2023Q4,Europe,Belgium,1407733.008
+3727,2023Q4,Europe,Bosnia and Herzegovina,386558.53500000003
+3728,2023Q4,Europe,Bulgaria,705405.666
+3729,2023Q4,Europe,Croatia,816112.6919999999
+3730,2023Q4,Europe,Cyprus,1069699.3560000001
+3731,2023Q4,Europe,Czechia,1239024.428
+3732,2023Q4,Europe,Denmark,1540522.9949999999
+3733,2023Q4,Europe,England,0.0
+3734,2023Q4,Europe,Estonia,972881.316
+3735,2023Q4,Europe,Faeroe Islands,0.0
+3736,2023Q4,Europe,Finland,1339328.7929999998
+3737,2023Q4,Europe,France,1273987.1430000002
+3738,2023Q4,Europe,Germany,1492565.0850000002
+3739,2023Q4,Europe,Gibraltar,0.0
+3740,2023Q4,Europe,Greece,909252.1340000001
+3741,2023Q4,Europe,Guernsey,0.0
+3742,2023Q4,Europe,Hungary,883659.513
+3743,2023Q4,Europe,Iceland,1533937.614
+3744,2023Q4,Europe,Ireland,2222064.669
+3745,2023Q4,Europe,Isle of Man,0.0
+3746,2023Q4,Europe,Italy,1303143.108
+3747,2023Q4,Europe,Jersey,0.0
+3748,2023Q4,Europe,Kosovo,323262.522
+3749,2023Q4,Europe,Latvia,827106.9180000001
+3750,2023Q4,Europe,Liechtenstein,0.0
+3751,2023Q4,Europe,Lithuania,1092397.805
+3752,2023Q4,Europe,Luxembourg,3111172.8449999997
+3753,2023Q4,Europe,Malta,1387506.274
+3754,2023Q4,Europe,Moldova,171269.076
+3755,2023Q4,Europe,Monaco,0.0
+3756,2023Q4,Europe,Montenegro,541506.504
+3757,2023Q4,Europe,Netherlands,1696539.075
+3758,2023Q4,Europe,North Macedonia,432670.062
+3759,2023Q4,Europe,Northern Ireland,0.0
+3760,2023Q4,Europe,Norway,2138401.881
+3761,2023Q4,Europe,Poland,1007008.465
+3762,2023Q4,Europe,Portugal,921917.568
+3763,2023Q4,Europe,Romania,769335.567
+3764,2023Q4,Europe,Russia,817276.4820000001
+3765,2023Q4,Europe,San Marino,1876428.51
+3766,2023Q4,Europe,Scotland,0.0
+3767,2023Q4,Europe,Serbia,463613.073
+3768,2023Q4,Europe,Slovakia,995120.016
+3769,2023Q4,Europe,Slovenia,1036227.72
+3770,2023Q4,Europe,Spain,1130987.8800000001
+3771,2023Q4,Europe,Sweden,1784072.7540000002
+3772,2023Q4,Europe,Switzerland,1894535.478
+3773,2023Q4,Europe,Ukraine,260514.969
+3774,2023Q4,Europe,United Kingdom,1311857.052
+3775,2023Q4,Europe,Vatican,0.0
+3776,2023Q4,North America,Anguilla,0.0
+3777,2023Q4,North America,Antigua and Barbuda,709201.119
+3778,2023Q4,North America,Aruba,1187134.773
+3779,2023Q4,North America,Bahamas,914688.951
+3780,2023Q4,North America,Barbados,560276.244
+3781,2023Q4,North America,Belize,258203.946
+3782,2023Q4,North America,Bermuda,1672087.395
+3783,2023Q4,North America,Bonaire Sint Eustatius and Saba,0.0
+3784,2023Q4,North America,British Virgin Islands,0.0
+3785,2023Q4,North America,Canada,1452580.503
+3786,2023Q4,North America,Cayman Islands,1646799.9570000002
+3787,2023Q4,North America,Costa Rica,512324.835
+3788,2023Q4,North America,Cuba,0.0
+3789,2023Q4,North America,Curacao,0.0
+3790,2023Q4,North America,Dominica,319221.11100000003
+3791,2023Q4,North America,Dominican Republic,481828.413
+3792,2023Q4,North America,El Salvador,240651.114
+3793,2023Q4,North America,Greenland,0.0
+3794,2023Q4,North America,Grenada,448597.941
+3795,2023Q4,North America,Guadeloupe,0.0
+3796,2023Q4,North America,Guatemala,244985.664
+3797,2023Q4,North America,Haiti,54554.709
+3798,2023Q4,North America,Honduras,149879.23500000002
+3799,2023Q4,North America,Jamaica,270387.843
+3800,2023Q4,North America,Martinique,0.0
+3801,2023Q4,North America,Mexico,572103.4770000001
+3802,2023Q4,North America,Montserrat,0.0
+3803,2023Q4,North America,Nicaragua,175607.652
+3804,2023Q4,North America,Panama,734812.221
+3805,2023Q4,North America,Puerto Rico,1156474.1099999999
+3806,2023Q4,North America,Saint Barthelemy,0.0
+3807,2023Q4,North America,Saint Kitts and Nevis,813594.705
+3808,2023Q4,North America,Saint Lucia,427410.687
+3809,2023Q4,North America,Saint Martin (French part),0.0
+3810,2023Q4,North America,Saint Pierre and Miquelon,0.0
+3811,2023Q4,North America,Saint Vincent and the Grenadines,353995.818
+3812,2023Q4,North America,Sint Maarten (Dutch part),1198798.6560000002
+3813,2023Q4,North America,Trinidad and Tobago,949181.343
+3814,2023Q4,North America,Turks and Caicos Islands,0.0
+3815,2023Q4,North America,United States,1789439.718
+3816,2023Q4,North America,United States Virgin Islands,0.0
+3817,2023Q4,Oceania,American Samoa,0.0
+3818,2023Q4,Oceania,Australia,1473407.43
+3819,2023Q4,Oceania,Cook Islands,0.0
+3820,2023Q4,Oceania,Fiji,287198.175
+3821,2023Q4,Oceania,French Polynesia,0.0
+3822,2023Q4,Oceania,Guam,0.0
+3823,2023Q4,Oceania,Kiribati,65377.356
+3824,2023Q4,Oceania,Marshall Islands,126033.66600000001
+3825,2023Q4,Oceania,Micronesia (country),108882.312
+3826,2023Q4,Oceania,Nauru,425555.955
+3827,2023Q4,Oceania,New Caledonia,0.0
+3828,2023Q4,Oceania,New Zealand,1190832.8190000001
+3829,2023Q4,Oceania,Niue,0.0
+3830,2023Q4,Oceania,Northern Mariana Islands,0.0
+3831,2023Q4,Oceania,Palau,436933.36500000005
+3832,2023Q4,Oceania,Papua New Guinea,126165.402
+3833,2023Q4,Oceania,Pitcairn,0.0
+3834,2023Q4,Oceania,Samoa,198711.381
+3835,2023Q4,Oceania,Solomon Islands,72795.45899999999
+3836,2023Q4,Oceania,Tokelau,0.0
+3837,2023Q4,Oceania,Tonga,179045.49300000002
+3838,2023Q4,Oceania,Tuvalu,117978.432
+3839,2023Q4,Oceania,Vanuatu,96422.997
+3840,2023Q4,Oceania,Wallis and Futuna,0.0
+3841,2023Q4,South America,Argentina,719488.466
+3842,2023Q4,South America,Bolivia,227232.357
+3843,2023Q4,South America,Brazil,465413.91599999997
+3844,2023Q4,South America,Chile,751312.221
+3845,2023Q4,South America,Colombia,437413.31700000004
+3846,2023Q4,South America,Ecuador,349203.888
+3847,2023Q4,South America,Falkland Islands,0.0
+3848,2023Q4,South America,French Guiana,0.0
+3849,2023Q4,South America,Guyana,245356.55099999998
+3850,2023Q4,South America,Paraguay,291291.33
+3851,2023Q4,South America,Peru,416048.004
+3852,2023Q4,South America,Suriname,454314.927
+3853,2023Q4,South America,Uruguay,780953.542
+3854,2023Q4,South America,Venezuela,552585.726
